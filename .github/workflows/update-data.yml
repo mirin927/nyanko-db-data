@@ -1,0 +1,57 @@
+name: Update JDB data
+on:
+  schedule:
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+    inputs:
+      force:
+        description: Rebuild even when upstream is unchanged
+        type: boolean
+        default: false
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: nyanko-data-pages
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: macos-15
+    timeout-minutes: 45
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python3 -m pip install 'Pillow>=11,<13'
+      - uses: actions/cache/restore@v4
+        with:
+          path: feed
+          key: nyanko-feed-${{ runner.os }}-${{ github.run_id }}
+          restore-keys: nyanko-feed-${{ runner.os }}-
+      - name: Build and verify changed upstream data
+        id: refresh
+        env:
+          FORCE: ${{ inputs.force }}
+        run: |
+          args=()
+          if [ "$FORCE" = "true" ]; then args+=(--force); fi
+          python3 scripts/refresh_data_feed.py --output feed "${args[@]}"
+      - uses: actions/configure-pages@v5
+        if: steps.refresh.outputs.changed == 'true'
+      - uses: actions/upload-pages-artifact@v4
+        if: steps.refresh.outputs.changed == 'true'
+        with:
+          path: feed
+      - uses: actions/deploy-pages@v4
+        if: steps.refresh.outputs.changed == 'true'
+        id: deployment
+      - uses: actions/cache/save@v4
+        if: steps.refresh.outputs.changed == 'true' && success()
+        with:
+          path: feed
+          key: nyanko-feed-${{ runner.os }}-${{ github.run_id }}

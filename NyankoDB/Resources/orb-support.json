@@ -1,0 +1,4747 @@
+{
+  "version": 1,
+  "catalogVersion": "JDB-2026-09-30",
+  "slots": {
+    "30": [
+      0
+    ],
+    "32": [
+      0
+    ],
+    "46": [
+      0
+    ],
+    "55": [
+      0
+    ],
+    "56": [
+      0
+    ],
+    "73": [
+      0
+    ],
+    "75": [
+      0
+    ],
+    "76": [
+      0
+    ],
+    "83": [
+      0,
+      60
+    ],
+    "84": [
+      0,
+      60
+    ],
+    "125": [
+      0,
+      60
+    ],
+    "153": [
+      0
+    ],
+    "36": [
+      0
+    ],
+    "38": [
+      0
+    ],
+    "40": [
+      0
+    ],
+    "44": [
+      0
+    ],
+    "51": [
+      0
+    ],
+    "138": [
+      0
+    ],
+    "145": [
+      0
+    ],
+    "194": [
+      0,
+      60
+    ],
+    "42": [
+      0,
+      60
+    ],
+    "49": [
+      0
+    ],
+    "58": [
+      0
+    ],
+    "61": [
+      0
+    ],
+    "85": [
+      0,
+      60
+    ],
+    "149": [
+      0
+    ],
+    "150": [
+      0
+    ],
+    "151": [
+      0
+    ],
+    "195": [
+      0,
+      60
+    ],
+    "34": [
+      0,
+      60
+    ],
+    "35": [
+      0
+    ],
+    "197": [
+      0
+    ],
+    "50": [
+      0
+    ],
+    "71": [
+      0
+    ],
+    "33": [
+      0
+    ],
+    "105": [
+      0,
+      60
+    ],
+    "148": [
+      0
+    ],
+    "134": [
+      0,
+      60
+    ],
+    "59": [
+      0
+    ],
+    "304": [
+      0
+    ],
+    "136": [
+      0,
+      60
+    ],
+    "359": [
+      0
+    ],
+    "168": [
+      0
+    ],
+    "226": [
+      0,
+      60
+    ],
+    "72": [
+      0,
+      60
+    ],
+    "360": [
+      0
+    ],
+    "159": [
+      0
+    ],
+    "305": [
+      0
+    ],
+    "37": [
+      0
+    ],
+    "203": [
+      0,
+      60
+    ],
+    "143": [
+      0,
+      60
+    ],
+    "257": [
+      0,
+      60
+    ],
+    "258": [
+      0,
+      60
+    ],
+    "259": [
+      0,
+      60
+    ],
+    "271": [
+      0,
+      60
+    ],
+    "272": [
+      0,
+      60
+    ],
+    "316": [
+      0
+    ],
+    "439": [
+      0,
+      60
+    ],
+    "534": [
+      0,
+      60
+    ],
+    "124": [
+      0,
+      60
+    ],
+    "107": [
+      0,
+      60
+    ],
+    "177": [
+      0
+    ],
+    "31": [
+      0
+    ],
+    "39": [
+      0
+    ],
+    "48": [
+      0
+    ],
+    "52": [
+      0
+    ],
+    "9": [
+      0
+    ],
+    "10": [
+      0
+    ],
+    "11": [
+      0
+    ],
+    "12": [
+      0
+    ],
+    "13": [
+      0
+    ],
+    "14": [
+      0
+    ],
+    "15": [
+      0
+    ],
+    "18": [
+      0
+    ],
+    "19": [
+      0
+    ],
+    "20": [
+      0
+    ],
+    "21": [
+      0
+    ],
+    "22": [
+      0
+    ],
+    "23": [
+      0
+    ],
+    "283": [
+      0
+    ],
+    "199": [
+      0
+    ],
+    "146": [
+      0
+    ],
+    "86": [
+      0,
+      60
+    ],
+    "152": [
+      0
+    ],
+    "147": [
+      0
+    ],
+    "158": [
+      0
+    ],
+    "377": [
+      0
+    ],
+    "325": [
+      0
+    ],
+    "57": [
+      0,
+      60
+    ],
+    "307": [
+      0
+    ],
+    "198": [
+      0
+    ],
+    "306": [
+      0
+    ],
+    "212": [
+      0
+    ],
+    "47": [
+      0
+    ],
+    "43": [
+      0,
+      60
+    ],
+    "335": [
+      0,
+      60
+    ],
+    "41": [
+      0
+    ],
+    "170": [
+      0
+    ],
+    "361": [
+      0
+    ],
+    "66": [
+      0
+    ],
+    "161": [
+      0
+    ],
+    "337": [
+      0
+    ],
+    "495": [
+      0
+    ],
+    "211": [
+      0
+    ],
+    "245": [
+      0
+    ],
+    "311": [
+      0
+    ],
+    "313": [
+      0
+    ],
+    "106": [
+      0,
+      60
+    ],
+    "87": [
+      0,
+      60
+    ],
+    "431": [
+      0
+    ],
+    "308": [
+      0
+    ],
+    "286": [
+      0
+    ],
+    "397": [
+      0
+    ],
+    "427": [
+      0
+    ],
+    "522": [
+      0
+    ],
+    "417": [
+      0
+    ],
+    "261": [
+      0,
+      60
+    ],
+    "247": [
+      0
+    ],
+    "334": [
+      0,
+      60
+    ],
+    "502": [
+      0
+    ],
+    "196": [
+      0
+    ],
+    "496": [
+      0
+    ],
+    "533": [
+      0,
+      60
+    ],
+    "351": [
+      0,
+      60
+    ],
+    "210": [
+      0
+    ],
+    "312": [
+      0
+    ],
+    "135": [
+      0
+    ],
+    "209": [
+      0
+    ],
+    "246": [
+      0
+    ],
+    "180": [
+      0
+    ],
+    "270": [
+      0
+    ],
+    "341": [
+      0
+    ],
+    "482": [
+      0
+    ],
+    "338": [
+      0,
+      60
+    ],
+    "174": [
+      0
+    ],
+    "519": [
+      0
+    ],
+    "559": [
+      0
+    ],
+    "344": [
+      0
+    ],
+    "185": [
+      0
+    ],
+    "345": [
+      0
+    ],
+    "355": [
+      0
+    ],
+    "357": [
+      0,
+      60
+    ],
+    "322": [
+      0
+    ],
+    "436": [
+      0
+    ],
+    "336": [
+      0,
+      60
+    ],
+    "396": [
+      0
+    ],
+    "169": [
+      0
+    ],
+    "401": [
+      0
+    ],
+    "137": [
+      0
+    ],
+    "240": [
+      0
+    ],
+    "358": [
+      0
+    ],
+    "594": [
+      0
+    ],
+    "505": [
+      0
+    ],
+    "525": [
+      0
+    ],
+    "467": [
+      0
+    ],
+    "468": [
+      0
+    ],
+    "469": [
+      0
+    ],
+    "188": [
+      0
+    ],
+    "506": [
+      0
+    ],
+    "171": [
+      0
+    ],
+    "569": [
+      0
+    ],
+    "546": [
+      0
+    ],
+    "376": [
+      0
+    ],
+    "523": [
+      0
+    ],
+    "310": [
+      0
+    ],
+    "607": [
+      0
+    ],
+    "618": [
+      0
+    ],
+    "24": [
+      0
+    ],
+    "25": [
+      0
+    ],
+    "620": [
+      0
+    ],
+    "619": [
+      0
+    ],
+    "617": [
+      0
+    ],
+    "625": [
+      0
+    ],
+    "632": [
+      0
+    ],
+    "634": [
+      0
+    ],
+    "437": [
+      0
+    ],
+    "462": [
+      0
+    ],
+    "633": [
+      0
+    ],
+    "584": [
+      0
+    ],
+    "642": [
+      0
+    ],
+    "631": [
+      0
+    ],
+    "330": [
+      0
+    ],
+    "647": [
+      0
+    ],
+    "674": [
+      0
+    ],
+    "362": [
+      0
+    ],
+    "456": [
+      0
+    ],
+    "649": [
+      0
+    ],
+    "173": [
+      0
+    ],
+    "302": [
+      0
+    ],
+    "655": [
+      0
+    ]
+  },
+  "orbs": [
+    {
+      "id": "0-0-0",
+      "effect": 0,
+      "grade": "D",
+      "trait": "赤",
+      "name": "ダメージアップ",
+      "description": "赤に与えるダメージが上がります",
+      "values": [
+        100
+      ],
+      "repeatable": true,
+      "iconName": "orb_0000"
+    },
+    {
+      "id": "0-0-1",
+      "effect": 0,
+      "grade": "C",
+      "trait": "赤",
+      "name": "ダメージアップ",
+      "description": "赤に与えるダメージが上がります",
+      "values": [
+        200
+      ],
+      "repeatable": true,
+      "iconName": "orb_0000"
+    },
+    {
+      "id": "0-0-2",
+      "effect": 0,
+      "grade": "B",
+      "trait": "赤",
+      "name": "ダメージアップ",
+      "description": "赤に与えるダメージが上がります",
+      "values": [
+        300
+      ],
+      "repeatable": true,
+      "iconName": "orb_0000"
+    },
+    {
+      "id": "0-0-3",
+      "effect": 0,
+      "grade": "A",
+      "trait": "赤",
+      "name": "ダメージアップ",
+      "description": "赤に与えるダメージが上がります",
+      "values": [
+        400
+      ],
+      "repeatable": true,
+      "iconName": "orb_0000"
+    },
+    {
+      "id": "0-0-4",
+      "effect": 0,
+      "grade": "S",
+      "trait": "赤",
+      "name": "ダメージアップ",
+      "description": "赤に与えるダメージが上がります",
+      "values": [
+        500
+      ],
+      "repeatable": true,
+      "iconName": "orb_0000"
+    },
+    {
+      "id": "1-0-0",
+      "effect": 1,
+      "grade": "D",
+      "trait": "赤",
+      "name": "ダメージ軽減",
+      "description": "赤から受けるダメージが軽減します",
+      "values": [
+        4
+      ],
+      "repeatable": true,
+      "iconName": "orb_0001"
+    },
+    {
+      "id": "1-0-1",
+      "effect": 1,
+      "grade": "C",
+      "trait": "赤",
+      "name": "ダメージ軽減",
+      "description": "赤から受けるダメージが軽減します",
+      "values": [
+        8
+      ],
+      "repeatable": true,
+      "iconName": "orb_0001"
+    },
+    {
+      "id": "1-0-2",
+      "effect": 1,
+      "grade": "B",
+      "trait": "赤",
+      "name": "ダメージ軽減",
+      "description": "赤から受けるダメージが軽減します",
+      "values": [
+        12
+      ],
+      "repeatable": true,
+      "iconName": "orb_0001"
+    },
+    {
+      "id": "1-0-3",
+      "effect": 1,
+      "grade": "A",
+      "trait": "赤",
+      "name": "ダメージ軽減",
+      "description": "赤から受けるダメージが軽減します",
+      "values": [
+        16
+      ],
+      "repeatable": true,
+      "iconName": "orb_0001"
+    },
+    {
+      "id": "1-0-4",
+      "effect": 1,
+      "grade": "S",
+      "trait": "赤",
+      "name": "ダメージ軽減",
+      "description": "赤から受けるダメージが軽減します",
+      "values": [
+        20
+      ],
+      "repeatable": true,
+      "iconName": "orb_0001"
+    },
+    {
+      "id": "0-1-0",
+      "effect": 0,
+      "grade": "D",
+      "trait": "浮き",
+      "name": "ダメージアップ",
+      "description": "浮きに与えるダメージが上がります",
+      "values": [
+        100
+      ],
+      "repeatable": true,
+      "iconName": "orb_0100"
+    },
+    {
+      "id": "0-1-1",
+      "effect": 0,
+      "grade": "C",
+      "trait": "浮き",
+      "name": "ダメージアップ",
+      "description": "浮きに与えるダメージが上がります",
+      "values": [
+        200
+      ],
+      "repeatable": true,
+      "iconName": "orb_0100"
+    },
+    {
+      "id": "0-1-2",
+      "effect": 0,
+      "grade": "B",
+      "trait": "浮き",
+      "name": "ダメージアップ",
+      "description": "浮きに与えるダメージが上がります",
+      "values": [
+        300
+      ],
+      "repeatable": true,
+      "iconName": "orb_0100"
+    },
+    {
+      "id": "0-1-3",
+      "effect": 0,
+      "grade": "A",
+      "trait": "浮き",
+      "name": "ダメージアップ",
+      "description": "浮きに与えるダメージが上がります",
+      "values": [
+        400
+      ],
+      "repeatable": true,
+      "iconName": "orb_0100"
+    },
+    {
+      "id": "0-1-4",
+      "effect": 0,
+      "grade": "S",
+      "trait": "浮き",
+      "name": "ダメージアップ",
+      "description": "浮きに与えるダメージが上がります",
+      "values": [
+        500
+      ],
+      "repeatable": true,
+      "iconName": "orb_0100"
+    },
+    {
+      "id": "1-1-0",
+      "effect": 1,
+      "grade": "D",
+      "trait": "浮き",
+      "name": "ダメージ軽減",
+      "description": "浮きから受けるダメージが軽減します",
+      "values": [
+        4
+      ],
+      "repeatable": true,
+      "iconName": "orb_0101"
+    },
+    {
+      "id": "1-1-1",
+      "effect": 1,
+      "grade": "C",
+      "trait": "浮き",
+      "name": "ダメージ軽減",
+      "description": "浮きから受けるダメージが軽減します",
+      "values": [
+        8
+      ],
+      "repeatable": true,
+      "iconName": "orb_0101"
+    },
+    {
+      "id": "1-1-2",
+      "effect": 1,
+      "grade": "B",
+      "trait": "浮き",
+      "name": "ダメージ軽減",
+      "description": "浮きから受けるダメージが軽減します",
+      "values": [
+        12
+      ],
+      "repeatable": true,
+      "iconName": "orb_0101"
+    },
+    {
+      "id": "1-1-3",
+      "effect": 1,
+      "grade": "A",
+      "trait": "浮き",
+      "name": "ダメージ軽減",
+      "description": "浮きから受けるダメージが軽減します",
+      "values": [
+        16
+      ],
+      "repeatable": true,
+      "iconName": "orb_0101"
+    },
+    {
+      "id": "1-1-4",
+      "effect": 1,
+      "grade": "S",
+      "trait": "浮き",
+      "name": "ダメージ軽減",
+      "description": "浮きから受けるダメージが軽減します",
+      "values": [
+        20
+      ],
+      "repeatable": true,
+      "iconName": "orb_0101"
+    },
+    {
+      "id": "0-2-0",
+      "effect": 0,
+      "grade": "D",
+      "trait": "黒",
+      "name": "ダメージアップ",
+      "description": "黒に与えるダメージが上がります",
+      "values": [
+        100
+      ],
+      "repeatable": true,
+      "iconName": "orb_0200"
+    },
+    {
+      "id": "0-2-1",
+      "effect": 0,
+      "grade": "C",
+      "trait": "黒",
+      "name": "ダメージアップ",
+      "description": "黒に与えるダメージが上がります",
+      "values": [
+        200
+      ],
+      "repeatable": true,
+      "iconName": "orb_0200"
+    },
+    {
+      "id": "0-2-2",
+      "effect": 0,
+      "grade": "B",
+      "trait": "黒",
+      "name": "ダメージアップ",
+      "description": "黒に与えるダメージが上がります",
+      "values": [
+        300
+      ],
+      "repeatable": true,
+      "iconName": "orb_0200"
+    },
+    {
+      "id": "0-2-3",
+      "effect": 0,
+      "grade": "A",
+      "trait": "黒",
+      "name": "ダメージアップ",
+      "description": "黒に与えるダメージが上がります",
+      "values": [
+        400
+      ],
+      "repeatable": true,
+      "iconName": "orb_0200"
+    },
+    {
+      "id": "0-2-4",
+      "effect": 0,
+      "grade": "S",
+      "trait": "黒",
+      "name": "ダメージアップ",
+      "description": "黒に与えるダメージが上がります",
+      "values": [
+        500
+      ],
+      "repeatable": true,
+      "iconName": "orb_0200"
+    },
+    {
+      "id": "1-2-0",
+      "effect": 1,
+      "grade": "D",
+      "trait": "黒",
+      "name": "ダメージ軽減",
+      "description": "黒から受けるダメージが軽減します",
+      "values": [
+        4
+      ],
+      "repeatable": true,
+      "iconName": "orb_0201"
+    },
+    {
+      "id": "1-2-1",
+      "effect": 1,
+      "grade": "C",
+      "trait": "黒",
+      "name": "ダメージ軽減",
+      "description": "黒から受けるダメージが軽減します",
+      "values": [
+        8
+      ],
+      "repeatable": true,
+      "iconName": "orb_0201"
+    },
+    {
+      "id": "1-2-2",
+      "effect": 1,
+      "grade": "B",
+      "trait": "黒",
+      "name": "ダメージ軽減",
+      "description": "黒から受けるダメージが軽減します",
+      "values": [
+        12
+      ],
+      "repeatable": true,
+      "iconName": "orb_0201"
+    },
+    {
+      "id": "1-2-3",
+      "effect": 1,
+      "grade": "A",
+      "trait": "黒",
+      "name": "ダメージ軽減",
+      "description": "黒から受けるダメージが軽減します",
+      "values": [
+        16
+      ],
+      "repeatable": true,
+      "iconName": "orb_0201"
+    },
+    {
+      "id": "1-2-4",
+      "effect": 1,
+      "grade": "S",
+      "trait": "黒",
+      "name": "ダメージ軽減",
+      "description": "黒から受けるダメージが軽減します",
+      "values": [
+        20
+      ],
+      "repeatable": true,
+      "iconName": "orb_0201"
+    },
+    {
+      "id": "1-3-0",
+      "effect": 1,
+      "grade": "D",
+      "trait": "メタル",
+      "name": "ダメージ軽減",
+      "description": "メタルから受けるダメージが軽減します",
+      "values": [
+        4
+      ],
+      "repeatable": true,
+      "iconName": "orb_0301"
+    },
+    {
+      "id": "1-3-1",
+      "effect": 1,
+      "grade": "C",
+      "trait": "メタル",
+      "name": "ダメージ軽減",
+      "description": "メタルから受けるダメージが軽減します",
+      "values": [
+        8
+      ],
+      "repeatable": true,
+      "iconName": "orb_0301"
+    },
+    {
+      "id": "1-3-2",
+      "effect": 1,
+      "grade": "B",
+      "trait": "メタル",
+      "name": "ダメージ軽減",
+      "description": "メタルから受けるダメージが軽減します",
+      "values": [
+        12
+      ],
+      "repeatable": true,
+      "iconName": "orb_0301"
+    },
+    {
+      "id": "1-3-3",
+      "effect": 1,
+      "grade": "A",
+      "trait": "メタル",
+      "name": "ダメージ軽減",
+      "description": "メタルから受けるダメージが軽減します",
+      "values": [
+        16
+      ],
+      "repeatable": true,
+      "iconName": "orb_0301"
+    },
+    {
+      "id": "1-3-4",
+      "effect": 1,
+      "grade": "S",
+      "trait": "メタル",
+      "name": "ダメージ軽減",
+      "description": "メタルから受けるダメージが軽減します",
+      "values": [
+        20
+      ],
+      "repeatable": true,
+      "iconName": "orb_0301"
+    },
+    {
+      "id": "0-4-0",
+      "effect": 0,
+      "grade": "D",
+      "trait": "天使",
+      "name": "ダメージアップ",
+      "description": "天使に与えるダメージが上がります",
+      "values": [
+        100
+      ],
+      "repeatable": true,
+      "iconName": "orb_0400"
+    },
+    {
+      "id": "0-4-1",
+      "effect": 0,
+      "grade": "C",
+      "trait": "天使",
+      "name": "ダメージアップ",
+      "description": "天使に与えるダメージが上がります",
+      "values": [
+        200
+      ],
+      "repeatable": true,
+      "iconName": "orb_0400"
+    },
+    {
+      "id": "0-4-2",
+      "effect": 0,
+      "grade": "B",
+      "trait": "天使",
+      "name": "ダメージアップ",
+      "description": "天使に与えるダメージが上がります",
+      "values": [
+        300
+      ],
+      "repeatable": true,
+      "iconName": "orb_0400"
+    },
+    {
+      "id": "0-4-3",
+      "effect": 0,
+      "grade": "A",
+      "trait": "天使",
+      "name": "ダメージアップ",
+      "description": "天使に与えるダメージが上がります",
+      "values": [
+        400
+      ],
+      "repeatable": true,
+      "iconName": "orb_0400"
+    },
+    {
+      "id": "0-4-4",
+      "effect": 0,
+      "grade": "S",
+      "trait": "天使",
+      "name": "ダメージアップ",
+      "description": "天使に与えるダメージが上がります",
+      "values": [
+        500
+      ],
+      "repeatable": true,
+      "iconName": "orb_0400"
+    },
+    {
+      "id": "1-4-0",
+      "effect": 1,
+      "grade": "D",
+      "trait": "天使",
+      "name": "ダメージ軽減",
+      "description": "天使から受けるダメージが軽減します",
+      "values": [
+        4
+      ],
+      "repeatable": true,
+      "iconName": "orb_0401"
+    },
+    {
+      "id": "1-4-1",
+      "effect": 1,
+      "grade": "C",
+      "trait": "天使",
+      "name": "ダメージ軽減",
+      "description": "天使から受けるダメージが軽減します",
+      "values": [
+        8
+      ],
+      "repeatable": true,
+      "iconName": "orb_0401"
+    },
+    {
+      "id": "1-4-2",
+      "effect": 1,
+      "grade": "B",
+      "trait": "天使",
+      "name": "ダメージ軽減",
+      "description": "天使から受けるダメージが軽減します",
+      "values": [
+        12
+      ],
+      "repeatable": true,
+      "iconName": "orb_0401"
+    },
+    {
+      "id": "1-4-3",
+      "effect": 1,
+      "grade": "A",
+      "trait": "天使",
+      "name": "ダメージ軽減",
+      "description": "天使から受けるダメージが軽減します",
+      "values": [
+        16
+      ],
+      "repeatable": true,
+      "iconName": "orb_0401"
+    },
+    {
+      "id": "1-4-4",
+      "effect": 1,
+      "grade": "S",
+      "trait": "天使",
+      "name": "ダメージ軽減",
+      "description": "天使から受けるダメージが軽減します",
+      "values": [
+        20
+      ],
+      "repeatable": true,
+      "iconName": "orb_0401"
+    },
+    {
+      "id": "0-5-0",
+      "effect": 0,
+      "grade": "D",
+      "trait": "エイリアン",
+      "name": "ダメージアップ",
+      "description": "エイリアンに与えるダメージが上がります",
+      "values": [
+        100
+      ],
+      "repeatable": true,
+      "iconName": "orb_0500"
+    },
+    {
+      "id": "0-5-1",
+      "effect": 0,
+      "grade": "C",
+      "trait": "エイリアン",
+      "name": "ダメージアップ",
+      "description": "エイリアンに与えるダメージが上がります",
+      "values": [
+        200
+      ],
+      "repeatable": true,
+      "iconName": "orb_0500"
+    },
+    {
+      "id": "0-5-2",
+      "effect": 0,
+      "grade": "B",
+      "trait": "エイリアン",
+      "name": "ダメージアップ",
+      "description": "エイリアンに与えるダメージが上がります",
+      "values": [
+        300
+      ],
+      "repeatable": true,
+      "iconName": "orb_0500"
+    },
+    {
+      "id": "0-5-3",
+      "effect": 0,
+      "grade": "A",
+      "trait": "エイリアン",
+      "name": "ダメージアップ",
+      "description": "エイリアンに与えるダメージが上がります",
+      "values": [
+        400
+      ],
+      "repeatable": true,
+      "iconName": "orb_0500"
+    },
+    {
+      "id": "0-5-4",
+      "effect": 0,
+      "grade": "S",
+      "trait": "エイリアン",
+      "name": "ダメージアップ",
+      "description": "エイリアンに与えるダメージが上がります",
+      "values": [
+        500
+      ],
+      "repeatable": true,
+      "iconName": "orb_0500"
+    },
+    {
+      "id": "1-5-0",
+      "effect": 1,
+      "grade": "D",
+      "trait": "エイリアン",
+      "name": "ダメージ軽減",
+      "description": "エイリアンから受けるダメージが軽減します",
+      "values": [
+        4
+      ],
+      "repeatable": true,
+      "iconName": "orb_0501"
+    },
+    {
+      "id": "1-5-1",
+      "effect": 1,
+      "grade": "C",
+      "trait": "エイリアン",
+      "name": "ダメージ軽減",
+      "description": "エイリアンから受けるダメージが軽減します",
+      "values": [
+        8
+      ],
+      "repeatable": true,
+      "iconName": "orb_0501"
+    },
+    {
+      "id": "1-5-2",
+      "effect": 1,
+      "grade": "B",
+      "trait": "エイリアン",
+      "name": "ダメージ軽減",
+      "description": "エイリアンから受けるダメージが軽減します",
+      "values": [
+        12
+      ],
+      "repeatable": true,
+      "iconName": "orb_0501"
+    },
+    {
+      "id": "1-5-3",
+      "effect": 1,
+      "grade": "A",
+      "trait": "エイリアン",
+      "name": "ダメージ軽減",
+      "description": "エイリアンから受けるダメージが軽減します",
+      "values": [
+        16
+      ],
+      "repeatable": true,
+      "iconName": "orb_0501"
+    },
+    {
+      "id": "1-5-4",
+      "effect": 1,
+      "grade": "S",
+      "trait": "エイリアン",
+      "name": "ダメージ軽減",
+      "description": "エイリアンから受けるダメージが軽減します",
+      "values": [
+        20
+      ],
+      "repeatable": true,
+      "iconName": "orb_0501"
+    },
+    {
+      "id": "0-6-0",
+      "effect": 0,
+      "grade": "D",
+      "trait": "ゾンビ",
+      "name": "ダメージアップ",
+      "description": "ゾンビに与えるダメージが上がります",
+      "values": [
+        100
+      ],
+      "repeatable": true,
+      "iconName": "orb_0600"
+    },
+    {
+      "id": "0-6-1",
+      "effect": 0,
+      "grade": "C",
+      "trait": "ゾンビ",
+      "name": "ダメージアップ",
+      "description": "ゾンビに与えるダメージが上がります",
+      "values": [
+        200
+      ],
+      "repeatable": true,
+      "iconName": "orb_0600"
+    },
+    {
+      "id": "0-6-2",
+      "effect": 0,
+      "grade": "B",
+      "trait": "ゾンビ",
+      "name": "ダメージアップ",
+      "description": "ゾンビに与えるダメージが上がります",
+      "values": [
+        300
+      ],
+      "repeatable": true,
+      "iconName": "orb_0600"
+    },
+    {
+      "id": "0-6-3",
+      "effect": 0,
+      "grade": "A",
+      "trait": "ゾンビ",
+      "name": "ダメージアップ",
+      "description": "ゾンビに与えるダメージが上がります",
+      "values": [
+        400
+      ],
+      "repeatable": true,
+      "iconName": "orb_0600"
+    },
+    {
+      "id": "0-6-4",
+      "effect": 0,
+      "grade": "S",
+      "trait": "ゾンビ",
+      "name": "ダメージアップ",
+      "description": "ゾンビに与えるダメージが上がります",
+      "values": [
+        500
+      ],
+      "repeatable": true,
+      "iconName": "orb_0600"
+    },
+    {
+      "id": "1-6-0",
+      "effect": 1,
+      "grade": "D",
+      "trait": "ゾンビ",
+      "name": "ダメージ軽減",
+      "description": "ゾンビから受けるダメージが軽減します",
+      "values": [
+        4
+      ],
+      "repeatable": true,
+      "iconName": "orb_0601"
+    },
+    {
+      "id": "1-6-1",
+      "effect": 1,
+      "grade": "C",
+      "trait": "ゾンビ",
+      "name": "ダメージ軽減",
+      "description": "ゾンビから受けるダメージが軽減します",
+      "values": [
+        8
+      ],
+      "repeatable": true,
+      "iconName": "orb_0601"
+    },
+    {
+      "id": "1-6-2",
+      "effect": 1,
+      "grade": "B",
+      "trait": "ゾンビ",
+      "name": "ダメージ軽減",
+      "description": "ゾンビから受けるダメージが軽減します",
+      "values": [
+        12
+      ],
+      "repeatable": true,
+      "iconName": "orb_0601"
+    },
+    {
+      "id": "1-6-3",
+      "effect": 1,
+      "grade": "A",
+      "trait": "ゾンビ",
+      "name": "ダメージ軽減",
+      "description": "ゾンビから受けるダメージが軽減します",
+      "values": [
+        16
+      ],
+      "repeatable": true,
+      "iconName": "orb_0601"
+    },
+    {
+      "id": "1-6-4",
+      "effect": 1,
+      "grade": "S",
+      "trait": "ゾンビ",
+      "name": "ダメージ軽減",
+      "description": "ゾンビから受けるダメージが軽減します",
+      "values": [
+        20
+      ],
+      "repeatable": true,
+      "iconName": "orb_0601"
+    },
+    {
+      "id": "2-0-0",
+      "effect": 2,
+      "grade": "D",
+      "trait": "赤",
+      "name": "めっぽう強い強化",
+      "description": "赤にめっぽう強いの効果が上がります",
+      "values": [
+        60,
+        2
+      ],
+      "repeatable": true,
+      "iconName": "orb_0002"
+    },
+    {
+      "id": "2-0-1",
+      "effect": 2,
+      "grade": "C",
+      "trait": "赤",
+      "name": "めっぽう強い強化",
+      "description": "赤にめっぽう強いの効果が上がります",
+      "values": [
+        120,
+        4
+      ],
+      "repeatable": true,
+      "iconName": "orb_0002"
+    },
+    {
+      "id": "2-0-2",
+      "effect": 2,
+      "grade": "B",
+      "trait": "赤",
+      "name": "めっぽう強い強化",
+      "description": "赤にめっぽう強いの効果が上がります",
+      "values": [
+        180,
+        6
+      ],
+      "repeatable": true,
+      "iconName": "orb_0002"
+    },
+    {
+      "id": "2-0-3",
+      "effect": 2,
+      "grade": "A",
+      "trait": "赤",
+      "name": "めっぽう強い強化",
+      "description": "赤にめっぽう強いの効果が上がります",
+      "values": [
+        240,
+        8
+      ],
+      "repeatable": true,
+      "iconName": "orb_0002"
+    },
+    {
+      "id": "2-0-4",
+      "effect": 2,
+      "grade": "S",
+      "trait": "赤",
+      "name": "めっぽう強い強化",
+      "description": "赤にめっぽう強いの効果が上がります",
+      "values": [
+        300,
+        10
+      ],
+      "repeatable": true,
+      "iconName": "orb_0002"
+    },
+    {
+      "id": "3-0-0",
+      "effect": 3,
+      "grade": "D",
+      "trait": "赤",
+      "name": "超ダメージ強化",
+      "description": "赤に超ダメージの効果が上がります",
+      "values": [
+        30
+      ],
+      "repeatable": true,
+      "iconName": "orb_0003"
+    },
+    {
+      "id": "3-0-1",
+      "effect": 3,
+      "grade": "C",
+      "trait": "赤",
+      "name": "超ダメージ強化",
+      "description": "赤に超ダメージの効果が上がります",
+      "values": [
+        60
+      ],
+      "repeatable": true,
+      "iconName": "orb_0003"
+    },
+    {
+      "id": "3-0-2",
+      "effect": 3,
+      "grade": "B",
+      "trait": "赤",
+      "name": "超ダメージ強化",
+      "description": "赤に超ダメージの効果が上がります",
+      "values": [
+        90
+      ],
+      "repeatable": true,
+      "iconName": "orb_0003"
+    },
+    {
+      "id": "3-0-3",
+      "effect": 3,
+      "grade": "A",
+      "trait": "赤",
+      "name": "超ダメージ強化",
+      "description": "赤に超ダメージの効果が上がります",
+      "values": [
+        120
+      ],
+      "repeatable": true,
+      "iconName": "orb_0003"
+    },
+    {
+      "id": "3-0-4",
+      "effect": 3,
+      "grade": "S",
+      "trait": "赤",
+      "name": "超ダメージ強化",
+      "description": "赤に超ダメージの効果が上がります",
+      "values": [
+        150
+      ],
+      "repeatable": true,
+      "iconName": "orb_0003"
+    },
+    {
+      "id": "4-0-0",
+      "effect": 4,
+      "grade": "D",
+      "trait": "赤",
+      "name": "打たれ強い強化",
+      "description": "赤に打たれ強いの効果が上がります",
+      "values": [
+        5
+      ],
+      "repeatable": true,
+      "iconName": "orb_0004"
+    },
+    {
+      "id": "4-0-1",
+      "effect": 4,
+      "grade": "C",
+      "trait": "赤",
+      "name": "打たれ強い強化",
+      "description": "赤に打たれ強いの効果が上がります",
+      "values": [
+        10
+      ],
+      "repeatable": true,
+      "iconName": "orb_0004"
+    },
+    {
+      "id": "4-0-2",
+      "effect": 4,
+      "grade": "B",
+      "trait": "赤",
+      "name": "打たれ強い強化",
+      "description": "赤に打たれ強いの効果が上がります",
+      "values": [
+        15
+      ],
+      "repeatable": true,
+      "iconName": "orb_0004"
+    },
+    {
+      "id": "4-0-3",
+      "effect": 4,
+      "grade": "A",
+      "trait": "赤",
+      "name": "打たれ強い強化",
+      "description": "赤に打たれ強いの効果が上がります",
+      "values": [
+        20
+      ],
+      "repeatable": true,
+      "iconName": "orb_0004"
+    },
+    {
+      "id": "4-0-4",
+      "effect": 4,
+      "grade": "S",
+      "trait": "赤",
+      "name": "打たれ強い強化",
+      "description": "赤に打たれ強いの効果が上がります",
+      "values": [
+        25
+      ],
+      "repeatable": true,
+      "iconName": "orb_0004"
+    },
+    {
+      "id": "2-1-0",
+      "effect": 2,
+      "grade": "D",
+      "trait": "浮き",
+      "name": "めっぽう強い強化",
+      "description": "浮きにめっぽう強いの効果が上がります",
+      "values": [
+        60,
+        2
+      ],
+      "repeatable": true,
+      "iconName": "orb_0102"
+    },
+    {
+      "id": "2-1-1",
+      "effect": 2,
+      "grade": "C",
+      "trait": "浮き",
+      "name": "めっぽう強い強化",
+      "description": "浮きにめっぽう強いの効果が上がります",
+      "values": [
+        120,
+        4
+      ],
+      "repeatable": true,
+      "iconName": "orb_0102"
+    },
+    {
+      "id": "2-1-2",
+      "effect": 2,
+      "grade": "B",
+      "trait": "浮き",
+      "name": "めっぽう強い強化",
+      "description": "浮きにめっぽう強いの効果が上がります",
+      "values": [
+        180,
+        6
+      ],
+      "repeatable": true,
+      "iconName": "orb_0102"
+    },
+    {
+      "id": "2-1-3",
+      "effect": 2,
+      "grade": "A",
+      "trait": "浮き",
+      "name": "めっぽう強い強化",
+      "description": "浮きにめっぽう強いの効果が上がります",
+      "values": [
+        240,
+        8
+      ],
+      "repeatable": true,
+      "iconName": "orb_0102"
+    },
+    {
+      "id": "2-1-4",
+      "effect": 2,
+      "grade": "S",
+      "trait": "浮き",
+      "name": "めっぽう強い強化",
+      "description": "浮きにめっぽう強いの効果が上がります",
+      "values": [
+        300,
+        10
+      ],
+      "repeatable": true,
+      "iconName": "orb_0102"
+    },
+    {
+      "id": "3-1-0",
+      "effect": 3,
+      "grade": "D",
+      "trait": "浮き",
+      "name": "超ダメージ強化",
+      "description": "浮きに超ダメージの効果が上がります",
+      "values": [
+        30
+      ],
+      "repeatable": true,
+      "iconName": "orb_0103"
+    },
+    {
+      "id": "3-1-1",
+      "effect": 3,
+      "grade": "C",
+      "trait": "浮き",
+      "name": "超ダメージ強化",
+      "description": "浮きに超ダメージの効果が上がります",
+      "values": [
+        60
+      ],
+      "repeatable": true,
+      "iconName": "orb_0103"
+    },
+    {
+      "id": "3-1-2",
+      "effect": 3,
+      "grade": "B",
+      "trait": "浮き",
+      "name": "超ダメージ強化",
+      "description": "浮きに超ダメージの効果が上がります",
+      "values": [
+        90
+      ],
+      "repeatable": true,
+      "iconName": "orb_0103"
+    },
+    {
+      "id": "3-1-3",
+      "effect": 3,
+      "grade": "A",
+      "trait": "浮き",
+      "name": "超ダメージ強化",
+      "description": "浮きに超ダメージの効果が上がります",
+      "values": [
+        120
+      ],
+      "repeatable": true,
+      "iconName": "orb_0103"
+    },
+    {
+      "id": "3-1-4",
+      "effect": 3,
+      "grade": "S",
+      "trait": "浮き",
+      "name": "超ダメージ強化",
+      "description": "浮きに超ダメージの効果が上がります",
+      "values": [
+        150
+      ],
+      "repeatable": true,
+      "iconName": "orb_0103"
+    },
+    {
+      "id": "4-1-0",
+      "effect": 4,
+      "grade": "D",
+      "trait": "浮き",
+      "name": "打たれ強い強化",
+      "description": "浮きに打たれ強いの効果が上がります",
+      "values": [
+        5
+      ],
+      "repeatable": true,
+      "iconName": "orb_0104"
+    },
+    {
+      "id": "4-1-1",
+      "effect": 4,
+      "grade": "C",
+      "trait": "浮き",
+      "name": "打たれ強い強化",
+      "description": "浮きに打たれ強いの効果が上がります",
+      "values": [
+        10
+      ],
+      "repeatable": true,
+      "iconName": "orb_0104"
+    },
+    {
+      "id": "4-1-2",
+      "effect": 4,
+      "grade": "B",
+      "trait": "浮き",
+      "name": "打たれ強い強化",
+      "description": "浮きに打たれ強いの効果が上がります",
+      "values": [
+        15
+      ],
+      "repeatable": true,
+      "iconName": "orb_0104"
+    },
+    {
+      "id": "4-1-3",
+      "effect": 4,
+      "grade": "A",
+      "trait": "浮き",
+      "name": "打たれ強い強化",
+      "description": "浮きに打たれ強いの効果が上がります",
+      "values": [
+        20
+      ],
+      "repeatable": true,
+      "iconName": "orb_0104"
+    },
+    {
+      "id": "4-1-4",
+      "effect": 4,
+      "grade": "S",
+      "trait": "浮き",
+      "name": "打たれ強い強化",
+      "description": "浮きに打たれ強いの効果が上がります",
+      "values": [
+        25
+      ],
+      "repeatable": true,
+      "iconName": "orb_0104"
+    },
+    {
+      "id": "2-2-0",
+      "effect": 2,
+      "grade": "D",
+      "trait": "黒",
+      "name": "めっぽう強い強化",
+      "description": "黒にめっぽう強いの効果が上がります",
+      "values": [
+        60,
+        2
+      ],
+      "repeatable": true,
+      "iconName": "orb_0202"
+    },
+    {
+      "id": "2-2-1",
+      "effect": 2,
+      "grade": "C",
+      "trait": "黒",
+      "name": "めっぽう強い強化",
+      "description": "黒にめっぽう強いの効果が上がります",
+      "values": [
+        120,
+        4
+      ],
+      "repeatable": true,
+      "iconName": "orb_0202"
+    },
+    {
+      "id": "2-2-2",
+      "effect": 2,
+      "grade": "B",
+      "trait": "黒",
+      "name": "めっぽう強い強化",
+      "description": "黒にめっぽう強いの効果が上がります",
+      "values": [
+        180,
+        6
+      ],
+      "repeatable": true,
+      "iconName": "orb_0202"
+    },
+    {
+      "id": "2-2-3",
+      "effect": 2,
+      "grade": "A",
+      "trait": "黒",
+      "name": "めっぽう強い強化",
+      "description": "黒にめっぽう強いの効果が上がります",
+      "values": [
+        240,
+        8
+      ],
+      "repeatable": true,
+      "iconName": "orb_0202"
+    },
+    {
+      "id": "2-2-4",
+      "effect": 2,
+      "grade": "S",
+      "trait": "黒",
+      "name": "めっぽう強い強化",
+      "description": "黒にめっぽう強いの効果が上がります",
+      "values": [
+        300,
+        10
+      ],
+      "repeatable": true,
+      "iconName": "orb_0202"
+    },
+    {
+      "id": "3-2-0",
+      "effect": 3,
+      "grade": "D",
+      "trait": "黒",
+      "name": "超ダメージ強化",
+      "description": "黒に超ダメージの効果が上がります",
+      "values": [
+        30
+      ],
+      "repeatable": true,
+      "iconName": "orb_0203"
+    },
+    {
+      "id": "3-2-1",
+      "effect": 3,
+      "grade": "C",
+      "trait": "黒",
+      "name": "超ダメージ強化",
+      "description": "黒に超ダメージの効果が上がります",
+      "values": [
+        60
+      ],
+      "repeatable": true,
+      "iconName": "orb_0203"
+    },
+    {
+      "id": "3-2-2",
+      "effect": 3,
+      "grade": "B",
+      "trait": "黒",
+      "name": "超ダメージ強化",
+      "description": "黒に超ダメージの効果が上がります",
+      "values": [
+        90
+      ],
+      "repeatable": true,
+      "iconName": "orb_0203"
+    },
+    {
+      "id": "3-2-3",
+      "effect": 3,
+      "grade": "A",
+      "trait": "黒",
+      "name": "超ダメージ強化",
+      "description": "黒に超ダメージの効果が上がります",
+      "values": [
+        120
+      ],
+      "repeatable": true,
+      "iconName": "orb_0203"
+    },
+    {
+      "id": "3-2-4",
+      "effect": 3,
+      "grade": "S",
+      "trait": "黒",
+      "name": "超ダメージ強化",
+      "description": "黒に超ダメージの効果が上がります",
+      "values": [
+        150
+      ],
+      "repeatable": true,
+      "iconName": "orb_0203"
+    },
+    {
+      "id": "4-2-0",
+      "effect": 4,
+      "grade": "D",
+      "trait": "黒",
+      "name": "打たれ強い強化",
+      "description": "黒に打たれ強いの効果が上がります",
+      "values": [
+        5
+      ],
+      "repeatable": true,
+      "iconName": "orb_0204"
+    },
+    {
+      "id": "4-2-1",
+      "effect": 4,
+      "grade": "C",
+      "trait": "黒",
+      "name": "打たれ強い強化",
+      "description": "黒に打たれ強いの効果が上がります",
+      "values": [
+        10
+      ],
+      "repeatable": true,
+      "iconName": "orb_0204"
+    },
+    {
+      "id": "4-2-2",
+      "effect": 4,
+      "grade": "B",
+      "trait": "黒",
+      "name": "打たれ強い強化",
+      "description": "黒に打たれ強いの効果が上がります",
+      "values": [
+        15
+      ],
+      "repeatable": true,
+      "iconName": "orb_0204"
+    },
+    {
+      "id": "4-2-3",
+      "effect": 4,
+      "grade": "A",
+      "trait": "黒",
+      "name": "打たれ強い強化",
+      "description": "黒に打たれ強いの効果が上がります",
+      "values": [
+        20
+      ],
+      "repeatable": true,
+      "iconName": "orb_0204"
+    },
+    {
+      "id": "4-2-4",
+      "effect": 4,
+      "grade": "S",
+      "trait": "黒",
+      "name": "打たれ強い強化",
+      "description": "黒に打たれ強いの効果が上がります",
+      "values": [
+        25
+      ],
+      "repeatable": true,
+      "iconName": "orb_0204"
+    },
+    {
+      "id": "2-4-0",
+      "effect": 2,
+      "grade": "D",
+      "trait": "天使",
+      "name": "めっぽう強い強化",
+      "description": "天使にめっぽう強いの効果が上がります",
+      "values": [
+        60,
+        2
+      ],
+      "repeatable": true,
+      "iconName": "orb_0402"
+    },
+    {
+      "id": "2-4-1",
+      "effect": 2,
+      "grade": "C",
+      "trait": "天使",
+      "name": "めっぽう強い強化",
+      "description": "天使にめっぽう強いの効果が上がります",
+      "values": [
+        120,
+        4
+      ],
+      "repeatable": true,
+      "iconName": "orb_0402"
+    },
+    {
+      "id": "2-4-2",
+      "effect": 2,
+      "grade": "B",
+      "trait": "天使",
+      "name": "めっぽう強い強化",
+      "description": "天使にめっぽう強いの効果が上がります",
+      "values": [
+        180,
+        6
+      ],
+      "repeatable": true,
+      "iconName": "orb_0402"
+    },
+    {
+      "id": "2-4-3",
+      "effect": 2,
+      "grade": "A",
+      "trait": "天使",
+      "name": "めっぽう強い強化",
+      "description": "天使にめっぽう強いの効果が上がります",
+      "values": [
+        240,
+        8
+      ],
+      "repeatable": true,
+      "iconName": "orb_0402"
+    },
+    {
+      "id": "2-4-4",
+      "effect": 2,
+      "grade": "S",
+      "trait": "天使",
+      "name": "めっぽう強い強化",
+      "description": "天使にめっぽう強いの効果が上がります",
+      "values": [
+        300,
+        10
+      ],
+      "repeatable": true,
+      "iconName": "orb_0402"
+    },
+    {
+      "id": "3-4-0",
+      "effect": 3,
+      "grade": "D",
+      "trait": "天使",
+      "name": "超ダメージ強化",
+      "description": "天使に超ダメージの効果が上がります",
+      "values": [
+        30
+      ],
+      "repeatable": true,
+      "iconName": "orb_0403"
+    },
+    {
+      "id": "3-4-1",
+      "effect": 3,
+      "grade": "C",
+      "trait": "天使",
+      "name": "超ダメージ強化",
+      "description": "天使に超ダメージの効果が上がります",
+      "values": [
+        60
+      ],
+      "repeatable": true,
+      "iconName": "orb_0403"
+    },
+    {
+      "id": "3-4-2",
+      "effect": 3,
+      "grade": "B",
+      "trait": "天使",
+      "name": "超ダメージ強化",
+      "description": "天使に超ダメージの効果が上がります",
+      "values": [
+        90
+      ],
+      "repeatable": true,
+      "iconName": "orb_0403"
+    },
+    {
+      "id": "3-4-3",
+      "effect": 3,
+      "grade": "A",
+      "trait": "天使",
+      "name": "超ダメージ強化",
+      "description": "天使に超ダメージの効果が上がります",
+      "values": [
+        120
+      ],
+      "repeatable": true,
+      "iconName": "orb_0403"
+    },
+    {
+      "id": "3-4-4",
+      "effect": 3,
+      "grade": "S",
+      "trait": "天使",
+      "name": "超ダメージ強化",
+      "description": "天使に超ダメージの効果が上がります",
+      "values": [
+        150
+      ],
+      "repeatable": true,
+      "iconName": "orb_0403"
+    },
+    {
+      "id": "4-4-0",
+      "effect": 4,
+      "grade": "D",
+      "trait": "天使",
+      "name": "打たれ強い強化",
+      "description": "天使に打たれ強いの効果が上がります",
+      "values": [
+        5
+      ],
+      "repeatable": true,
+      "iconName": "orb_0404"
+    },
+    {
+      "id": "4-4-1",
+      "effect": 4,
+      "grade": "C",
+      "trait": "天使",
+      "name": "打たれ強い強化",
+      "description": "天使に打たれ強いの効果が上がります",
+      "values": [
+        10
+      ],
+      "repeatable": true,
+      "iconName": "orb_0404"
+    },
+    {
+      "id": "4-4-2",
+      "effect": 4,
+      "grade": "B",
+      "trait": "天使",
+      "name": "打たれ強い強化",
+      "description": "天使に打たれ強いの効果が上がります",
+      "values": [
+        15
+      ],
+      "repeatable": true,
+      "iconName": "orb_0404"
+    },
+    {
+      "id": "4-4-3",
+      "effect": 4,
+      "grade": "A",
+      "trait": "天使",
+      "name": "打たれ強い強化",
+      "description": "天使に打たれ強いの効果が上がります",
+      "values": [
+        20
+      ],
+      "repeatable": true,
+      "iconName": "orb_0404"
+    },
+    {
+      "id": "4-4-4",
+      "effect": 4,
+      "grade": "S",
+      "trait": "天使",
+      "name": "打たれ強い強化",
+      "description": "天使に打たれ強いの効果が上がります",
+      "values": [
+        25
+      ],
+      "repeatable": true,
+      "iconName": "orb_0404"
+    },
+    {
+      "id": "2-5-0",
+      "effect": 2,
+      "grade": "D",
+      "trait": "エイリアン",
+      "name": "めっぽう強い強化",
+      "description": "エイリアンにめっぽう強いの効果が上がります",
+      "values": [
+        60,
+        2
+      ],
+      "repeatable": true,
+      "iconName": "orb_0502"
+    },
+    {
+      "id": "2-5-1",
+      "effect": 2,
+      "grade": "C",
+      "trait": "エイリアン",
+      "name": "めっぽう強い強化",
+      "description": "エイリアンにめっぽう強いの効果が上がります",
+      "values": [
+        120,
+        4
+      ],
+      "repeatable": true,
+      "iconName": "orb_0502"
+    },
+    {
+      "id": "2-5-2",
+      "effect": 2,
+      "grade": "B",
+      "trait": "エイリアン",
+      "name": "めっぽう強い強化",
+      "description": "エイリアンにめっぽう強いの効果が上がります",
+      "values": [
+        180,
+        6
+      ],
+      "repeatable": true,
+      "iconName": "orb_0502"
+    },
+    {
+      "id": "2-5-3",
+      "effect": 2,
+      "grade": "A",
+      "trait": "エイリアン",
+      "name": "めっぽう強い強化",
+      "description": "エイリアンにめっぽう強いの効果が上がります",
+      "values": [
+        240,
+        8
+      ],
+      "repeatable": true,
+      "iconName": "orb_0502"
+    },
+    {
+      "id": "2-5-4",
+      "effect": 2,
+      "grade": "S",
+      "trait": "エイリアン",
+      "name": "めっぽう強い強化",
+      "description": "エイリアンにめっぽう強いの効果が上がります",
+      "values": [
+        300,
+        10
+      ],
+      "repeatable": true,
+      "iconName": "orb_0502"
+    },
+    {
+      "id": "3-5-0",
+      "effect": 3,
+      "grade": "D",
+      "trait": "エイリアン",
+      "name": "超ダメージ強化",
+      "description": "エイリアンに超ダメージの効果が上がります",
+      "values": [
+        30
+      ],
+      "repeatable": true,
+      "iconName": "orb_0503"
+    },
+    {
+      "id": "3-5-1",
+      "effect": 3,
+      "grade": "C",
+      "trait": "エイリアン",
+      "name": "超ダメージ強化",
+      "description": "エイリアンに超ダメージの効果が上がります",
+      "values": [
+        60
+      ],
+      "repeatable": true,
+      "iconName": "orb_0503"
+    },
+    {
+      "id": "3-5-2",
+      "effect": 3,
+      "grade": "B",
+      "trait": "エイリアン",
+      "name": "超ダメージ強化",
+      "description": "エイリアンに超ダメージの効果が上がります",
+      "values": [
+        90
+      ],
+      "repeatable": true,
+      "iconName": "orb_0503"
+    },
+    {
+      "id": "3-5-3",
+      "effect": 3,
+      "grade": "A",
+      "trait": "エイリアン",
+      "name": "超ダメージ強化",
+      "description": "エイリアンに超ダメージの効果が上がります",
+      "values": [
+        120
+      ],
+      "repeatable": true,
+      "iconName": "orb_0503"
+    },
+    {
+      "id": "3-5-4",
+      "effect": 3,
+      "grade": "S",
+      "trait": "エイリアン",
+      "name": "超ダメージ強化",
+      "description": "エイリアンに超ダメージの効果が上がります",
+      "values": [
+        150
+      ],
+      "repeatable": true,
+      "iconName": "orb_0503"
+    },
+    {
+      "id": "4-5-0",
+      "effect": 4,
+      "grade": "D",
+      "trait": "エイリアン",
+      "name": "打たれ強い強化",
+      "description": "エイリアンに打たれ強いの効果が上がります",
+      "values": [
+        5
+      ],
+      "repeatable": true,
+      "iconName": "orb_0504"
+    },
+    {
+      "id": "4-5-1",
+      "effect": 4,
+      "grade": "C",
+      "trait": "エイリアン",
+      "name": "打たれ強い強化",
+      "description": "エイリアンに打たれ強いの効果が上がります",
+      "values": [
+        10
+      ],
+      "repeatable": true,
+      "iconName": "orb_0504"
+    },
+    {
+      "id": "4-5-2",
+      "effect": 4,
+      "grade": "B",
+      "trait": "エイリアン",
+      "name": "打たれ強い強化",
+      "description": "エイリアンに打たれ強いの効果が上がります",
+      "values": [
+        15
+      ],
+      "repeatable": true,
+      "iconName": "orb_0504"
+    },
+    {
+      "id": "4-5-3",
+      "effect": 4,
+      "grade": "A",
+      "trait": "エイリアン",
+      "name": "打たれ強い強化",
+      "description": "エイリアンに打たれ強いの効果が上がります",
+      "values": [
+        20
+      ],
+      "repeatable": true,
+      "iconName": "orb_0504"
+    },
+    {
+      "id": "4-5-4",
+      "effect": 4,
+      "grade": "S",
+      "trait": "エイリアン",
+      "name": "打たれ強い強化",
+      "description": "エイリアンに打たれ強いの効果が上がります",
+      "values": [
+        25
+      ],
+      "repeatable": true,
+      "iconName": "orb_0504"
+    },
+    {
+      "id": "2-6-0",
+      "effect": 2,
+      "grade": "D",
+      "trait": "ゾンビ",
+      "name": "めっぽう強い強化",
+      "description": "ゾンビにめっぽう強いの効果が上がります",
+      "values": [
+        60,
+        2
+      ],
+      "repeatable": true,
+      "iconName": "orb_0602"
+    },
+    {
+      "id": "2-6-1",
+      "effect": 2,
+      "grade": "C",
+      "trait": "ゾンビ",
+      "name": "めっぽう強い強化",
+      "description": "ゾンビにめっぽう強いの効果が上がります",
+      "values": [
+        120,
+        4
+      ],
+      "repeatable": true,
+      "iconName": "orb_0602"
+    },
+    {
+      "id": "2-6-2",
+      "effect": 2,
+      "grade": "B",
+      "trait": "ゾンビ",
+      "name": "めっぽう強い強化",
+      "description": "ゾンビにめっぽう強いの効果が上がります",
+      "values": [
+        180,
+        6
+      ],
+      "repeatable": true,
+      "iconName": "orb_0602"
+    },
+    {
+      "id": "2-6-3",
+      "effect": 2,
+      "grade": "A",
+      "trait": "ゾンビ",
+      "name": "めっぽう強い強化",
+      "description": "ゾンビにめっぽう強いの効果が上がります",
+      "values": [
+        240,
+        8
+      ],
+      "repeatable": true,
+      "iconName": "orb_0602"
+    },
+    {
+      "id": "2-6-4",
+      "effect": 2,
+      "grade": "S",
+      "trait": "ゾンビ",
+      "name": "めっぽう強い強化",
+      "description": "ゾンビにめっぽう強いの効果が上がります",
+      "values": [
+        300,
+        10
+      ],
+      "repeatable": true,
+      "iconName": "orb_0602"
+    },
+    {
+      "id": "3-6-0",
+      "effect": 3,
+      "grade": "D",
+      "trait": "ゾンビ",
+      "name": "超ダメージ強化",
+      "description": "ゾンビに超ダメージの効果が上がります",
+      "values": [
+        30
+      ],
+      "repeatable": true,
+      "iconName": "orb_0603"
+    },
+    {
+      "id": "3-6-1",
+      "effect": 3,
+      "grade": "C",
+      "trait": "ゾンビ",
+      "name": "超ダメージ強化",
+      "description": "ゾンビに超ダメージの効果が上がります",
+      "values": [
+        60
+      ],
+      "repeatable": true,
+      "iconName": "orb_0603"
+    },
+    {
+      "id": "3-6-2",
+      "effect": 3,
+      "grade": "B",
+      "trait": "ゾンビ",
+      "name": "超ダメージ強化",
+      "description": "ゾンビに超ダメージの効果が上がります",
+      "values": [
+        90
+      ],
+      "repeatable": true,
+      "iconName": "orb_0603"
+    },
+    {
+      "id": "3-6-3",
+      "effect": 3,
+      "grade": "A",
+      "trait": "ゾンビ",
+      "name": "超ダメージ強化",
+      "description": "ゾンビに超ダメージの効果が上がります",
+      "values": [
+        120
+      ],
+      "repeatable": true,
+      "iconName": "orb_0603"
+    },
+    {
+      "id": "3-6-4",
+      "effect": 3,
+      "grade": "S",
+      "trait": "ゾンビ",
+      "name": "超ダメージ強化",
+      "description": "ゾンビに超ダメージの効果が上がります",
+      "values": [
+        150
+      ],
+      "repeatable": true,
+      "iconName": "orb_0603"
+    },
+    {
+      "id": "4-6-0",
+      "effect": 4,
+      "grade": "D",
+      "trait": "ゾンビ",
+      "name": "打たれ強い強化",
+      "description": "ゾンビに打たれ強いの効果が上がります",
+      "values": [
+        5
+      ],
+      "repeatable": true,
+      "iconName": "orb_0604"
+    },
+    {
+      "id": "4-6-1",
+      "effect": 4,
+      "grade": "C",
+      "trait": "ゾンビ",
+      "name": "打たれ強い強化",
+      "description": "ゾンビに打たれ強いの効果が上がります",
+      "values": [
+        10
+      ],
+      "repeatable": true,
+      "iconName": "orb_0604"
+    },
+    {
+      "id": "4-6-2",
+      "effect": 4,
+      "grade": "B",
+      "trait": "ゾンビ",
+      "name": "打たれ強い強化",
+      "description": "ゾンビに打たれ強いの効果が上がります",
+      "values": [
+        15
+      ],
+      "repeatable": true,
+      "iconName": "orb_0604"
+    },
+    {
+      "id": "4-6-3",
+      "effect": 4,
+      "grade": "A",
+      "trait": "ゾンビ",
+      "name": "打たれ強い強化",
+      "description": "ゾンビに打たれ強いの効果が上がります",
+      "values": [
+        20
+      ],
+      "repeatable": true,
+      "iconName": "orb_0604"
+    },
+    {
+      "id": "4-6-4",
+      "effect": 4,
+      "grade": "S",
+      "trait": "ゾンビ",
+      "name": "打たれ強い強化",
+      "description": "ゾンビに打たれ強いの効果が上がります",
+      "values": [
+        25
+      ],
+      "repeatable": true,
+      "iconName": "orb_0604"
+    },
+    {
+      "id": "0-11-0",
+      "effect": 0,
+      "grade": "D",
+      "trait": "悪魔",
+      "name": "ダメージアップ",
+      "description": "悪魔に与えるダメージが上がります",
+      "values": [
+        100
+      ],
+      "repeatable": true,
+      "iconName": "orb_1100"
+    },
+    {
+      "id": "0-11-1",
+      "effect": 0,
+      "grade": "C",
+      "trait": "悪魔",
+      "name": "ダメージアップ",
+      "description": "悪魔に与えるダメージが上がります",
+      "values": [
+        200
+      ],
+      "repeatable": true,
+      "iconName": "orb_1100"
+    },
+    {
+      "id": "0-11-2",
+      "effect": 0,
+      "grade": "B",
+      "trait": "悪魔",
+      "name": "ダメージアップ",
+      "description": "悪魔に与えるダメージが上がります",
+      "values": [
+        300
+      ],
+      "repeatable": true,
+      "iconName": "orb_1100"
+    },
+    {
+      "id": "0-11-3",
+      "effect": 0,
+      "grade": "A",
+      "trait": "悪魔",
+      "name": "ダメージアップ",
+      "description": "悪魔に与えるダメージが上がります",
+      "values": [
+        400
+      ],
+      "repeatable": true,
+      "iconName": "orb_1100"
+    },
+    {
+      "id": "0-11-4",
+      "effect": 0,
+      "grade": "S",
+      "trait": "悪魔",
+      "name": "ダメージアップ",
+      "description": "悪魔に与えるダメージが上がります",
+      "values": [
+        500
+      ],
+      "repeatable": true,
+      "iconName": "orb_1100"
+    },
+    {
+      "id": "1-11-0",
+      "effect": 1,
+      "grade": "D",
+      "trait": "悪魔",
+      "name": "ダメージ軽減",
+      "description": "悪魔から受けるダメージが軽減します",
+      "values": [
+        4
+      ],
+      "repeatable": true,
+      "iconName": "orb_1101"
+    },
+    {
+      "id": "1-11-1",
+      "effect": 1,
+      "grade": "C",
+      "trait": "悪魔",
+      "name": "ダメージ軽減",
+      "description": "悪魔から受けるダメージが軽減します",
+      "values": [
+        8
+      ],
+      "repeatable": true,
+      "iconName": "orb_1101"
+    },
+    {
+      "id": "1-11-2",
+      "effect": 1,
+      "grade": "B",
+      "trait": "悪魔",
+      "name": "ダメージ軽減",
+      "description": "悪魔から受けるダメージが軽減します",
+      "values": [
+        12
+      ],
+      "repeatable": true,
+      "iconName": "orb_1101"
+    },
+    {
+      "id": "1-11-3",
+      "effect": 1,
+      "grade": "A",
+      "trait": "悪魔",
+      "name": "ダメージ軽減",
+      "description": "悪魔から受けるダメージが軽減します",
+      "values": [
+        16
+      ],
+      "repeatable": true,
+      "iconName": "orb_1101"
+    },
+    {
+      "id": "1-11-4",
+      "effect": 1,
+      "grade": "S",
+      "trait": "悪魔",
+      "name": "ダメージ軽減",
+      "description": "悪魔から受けるダメージが軽減します",
+      "values": [
+        20
+      ],
+      "repeatable": true,
+      "iconName": "orb_1101"
+    },
+    {
+      "id": "2-11-0",
+      "effect": 2,
+      "grade": "D",
+      "trait": "悪魔",
+      "name": "めっぽう強い強化",
+      "description": "悪魔にめっぽう強いの効果が上がります",
+      "values": [
+        60,
+        2
+      ],
+      "repeatable": true,
+      "iconName": "orb_1102"
+    },
+    {
+      "id": "2-11-1",
+      "effect": 2,
+      "grade": "C",
+      "trait": "悪魔",
+      "name": "めっぽう強い強化",
+      "description": "悪魔にめっぽう強いの効果が上がります",
+      "values": [
+        120,
+        4
+      ],
+      "repeatable": true,
+      "iconName": "orb_1102"
+    },
+    {
+      "id": "2-11-2",
+      "effect": 2,
+      "grade": "B",
+      "trait": "悪魔",
+      "name": "めっぽう強い強化",
+      "description": "悪魔にめっぽう強いの効果が上がります",
+      "values": [
+        180,
+        6
+      ],
+      "repeatable": true,
+      "iconName": "orb_1102"
+    },
+    {
+      "id": "2-11-3",
+      "effect": 2,
+      "grade": "A",
+      "trait": "悪魔",
+      "name": "めっぽう強い強化",
+      "description": "悪魔にめっぽう強いの効果が上がります",
+      "values": [
+        240,
+        8
+      ],
+      "repeatable": true,
+      "iconName": "orb_1102"
+    },
+    {
+      "id": "2-11-4",
+      "effect": 2,
+      "grade": "S",
+      "trait": "悪魔",
+      "name": "めっぽう強い強化",
+      "description": "悪魔にめっぽう強いの効果が上がります",
+      "values": [
+        300,
+        10
+      ],
+      "repeatable": true,
+      "iconName": "orb_1102"
+    },
+    {
+      "id": "3-11-0",
+      "effect": 3,
+      "grade": "D",
+      "trait": "悪魔",
+      "name": "超ダメージ強化",
+      "description": "悪魔に超ダメージの効果が上がります",
+      "values": [
+        30
+      ],
+      "repeatable": true,
+      "iconName": "orb_1103"
+    },
+    {
+      "id": "3-11-1",
+      "effect": 3,
+      "grade": "C",
+      "trait": "悪魔",
+      "name": "超ダメージ強化",
+      "description": "悪魔に超ダメージの効果が上がります",
+      "values": [
+        60
+      ],
+      "repeatable": true,
+      "iconName": "orb_1103"
+    },
+    {
+      "id": "3-11-2",
+      "effect": 3,
+      "grade": "B",
+      "trait": "悪魔",
+      "name": "超ダメージ強化",
+      "description": "悪魔に超ダメージの効果が上がります",
+      "values": [
+        90
+      ],
+      "repeatable": true,
+      "iconName": "orb_1103"
+    },
+    {
+      "id": "3-11-3",
+      "effect": 3,
+      "grade": "A",
+      "trait": "悪魔",
+      "name": "超ダメージ強化",
+      "description": "悪魔に超ダメージの効果が上がります",
+      "values": [
+        120
+      ],
+      "repeatable": true,
+      "iconName": "orb_1103"
+    },
+    {
+      "id": "3-11-4",
+      "effect": 3,
+      "grade": "S",
+      "trait": "悪魔",
+      "name": "超ダメージ強化",
+      "description": "悪魔に超ダメージの効果が上がります",
+      "values": [
+        150
+      ],
+      "repeatable": true,
+      "iconName": "orb_1103"
+    },
+    {
+      "id": "4-11-0",
+      "effect": 4,
+      "grade": "D",
+      "trait": "悪魔",
+      "name": "打たれ強い強化",
+      "description": "悪魔に打たれ強いの効果が上がります",
+      "values": [
+        5
+      ],
+      "repeatable": true,
+      "iconName": "orb_1104"
+    },
+    {
+      "id": "4-11-1",
+      "effect": 4,
+      "grade": "C",
+      "trait": "悪魔",
+      "name": "打たれ強い強化",
+      "description": "悪魔に打たれ強いの効果が上がります",
+      "values": [
+        10
+      ],
+      "repeatable": true,
+      "iconName": "orb_1104"
+    },
+    {
+      "id": "4-11-2",
+      "effect": 4,
+      "grade": "B",
+      "trait": "悪魔",
+      "name": "打たれ強い強化",
+      "description": "悪魔に打たれ強いの効果が上がります",
+      "values": [
+        15
+      ],
+      "repeatable": true,
+      "iconName": "orb_1104"
+    },
+    {
+      "id": "4-11-3",
+      "effect": 4,
+      "grade": "A",
+      "trait": "悪魔",
+      "name": "打たれ強い強化",
+      "description": "悪魔に打たれ強いの効果が上がります",
+      "values": [
+        20
+      ],
+      "repeatable": true,
+      "iconName": "orb_1104"
+    },
+    {
+      "id": "4-11-4",
+      "effect": 4,
+      "grade": "S",
+      "trait": "悪魔",
+      "name": "打たれ強い強化",
+      "description": "悪魔に打たれ強いの効果が上がります",
+      "values": [
+        25
+      ],
+      "repeatable": true,
+      "iconName": "orb_1104"
+    },
+    {
+      "id": "0-7-0",
+      "effect": 0,
+      "grade": "D",
+      "trait": "古代種",
+      "name": "ダメージアップ",
+      "description": "古代種に与えるダメージが上がります",
+      "values": [
+        100
+      ],
+      "repeatable": true,
+      "iconName": "orb_0700"
+    },
+    {
+      "id": "0-7-1",
+      "effect": 0,
+      "grade": "C",
+      "trait": "古代種",
+      "name": "ダメージアップ",
+      "description": "古代種に与えるダメージが上がります",
+      "values": [
+        200
+      ],
+      "repeatable": true,
+      "iconName": "orb_0700"
+    },
+    {
+      "id": "0-7-2",
+      "effect": 0,
+      "grade": "B",
+      "trait": "古代種",
+      "name": "ダメージアップ",
+      "description": "古代種に与えるダメージが上がります",
+      "values": [
+        300
+      ],
+      "repeatable": true,
+      "iconName": "orb_0700"
+    },
+    {
+      "id": "0-7-3",
+      "effect": 0,
+      "grade": "A",
+      "trait": "古代種",
+      "name": "ダメージアップ",
+      "description": "古代種に与えるダメージが上がります",
+      "values": [
+        400
+      ],
+      "repeatable": true,
+      "iconName": "orb_0700"
+    },
+    {
+      "id": "0-7-4",
+      "effect": 0,
+      "grade": "S",
+      "trait": "古代種",
+      "name": "ダメージアップ",
+      "description": "古代種に与えるダメージが上がります",
+      "values": [
+        500
+      ],
+      "repeatable": true,
+      "iconName": "orb_0700"
+    },
+    {
+      "id": "1-7-0",
+      "effect": 1,
+      "grade": "D",
+      "trait": "古代種",
+      "name": "ダメージ軽減",
+      "description": "古代種から受けるダメージが軽減します",
+      "values": [
+        4
+      ],
+      "repeatable": true,
+      "iconName": "orb_0701"
+    },
+    {
+      "id": "1-7-1",
+      "effect": 1,
+      "grade": "C",
+      "trait": "古代種",
+      "name": "ダメージ軽減",
+      "description": "古代種から受けるダメージが軽減します",
+      "values": [
+        8
+      ],
+      "repeatable": true,
+      "iconName": "orb_0701"
+    },
+    {
+      "id": "1-7-2",
+      "effect": 1,
+      "grade": "B",
+      "trait": "古代種",
+      "name": "ダメージ軽減",
+      "description": "古代種から受けるダメージが軽減します",
+      "values": [
+        12
+      ],
+      "repeatable": true,
+      "iconName": "orb_0701"
+    },
+    {
+      "id": "1-7-3",
+      "effect": 1,
+      "grade": "A",
+      "trait": "古代種",
+      "name": "ダメージ軽減",
+      "description": "古代種から受けるダメージが軽減します",
+      "values": [
+        16
+      ],
+      "repeatable": true,
+      "iconName": "orb_0701"
+    },
+    {
+      "id": "1-7-4",
+      "effect": 1,
+      "grade": "S",
+      "trait": "古代種",
+      "name": "ダメージ軽減",
+      "description": "古代種から受けるダメージが軽減します",
+      "values": [
+        20
+      ],
+      "repeatable": true,
+      "iconName": "orb_0701"
+    },
+    {
+      "id": "2-7-0",
+      "effect": 2,
+      "grade": "D",
+      "trait": "古代種",
+      "name": "めっぽう強い強化",
+      "description": "古代種にめっぽう強いの効果が上がります",
+      "values": [
+        60,
+        2
+      ],
+      "repeatable": true,
+      "iconName": "orb_0702"
+    },
+    {
+      "id": "2-7-1",
+      "effect": 2,
+      "grade": "C",
+      "trait": "古代種",
+      "name": "めっぽう強い強化",
+      "description": "古代種にめっぽう強いの効果が上がります",
+      "values": [
+        120,
+        4
+      ],
+      "repeatable": true,
+      "iconName": "orb_0702"
+    },
+    {
+      "id": "2-7-2",
+      "effect": 2,
+      "grade": "B",
+      "trait": "古代種",
+      "name": "めっぽう強い強化",
+      "description": "古代種にめっぽう強いの効果が上がります",
+      "values": [
+        180,
+        6
+      ],
+      "repeatable": true,
+      "iconName": "orb_0702"
+    },
+    {
+      "id": "2-7-3",
+      "effect": 2,
+      "grade": "A",
+      "trait": "古代種",
+      "name": "めっぽう強い強化",
+      "description": "古代種にめっぽう強いの効果が上がります",
+      "values": [
+        240,
+        8
+      ],
+      "repeatable": true,
+      "iconName": "orb_0702"
+    },
+    {
+      "id": "2-7-4",
+      "effect": 2,
+      "grade": "S",
+      "trait": "古代種",
+      "name": "めっぽう強い強化",
+      "description": "古代種にめっぽう強いの効果が上がります",
+      "values": [
+        300,
+        10
+      ],
+      "repeatable": true,
+      "iconName": "orb_0702"
+    },
+    {
+      "id": "3-7-0",
+      "effect": 3,
+      "grade": "D",
+      "trait": "古代種",
+      "name": "超ダメージ強化",
+      "description": "古代種に超ダメージの効果が上がります",
+      "values": [
+        30
+      ],
+      "repeatable": true,
+      "iconName": "orb_0703"
+    },
+    {
+      "id": "3-7-1",
+      "effect": 3,
+      "grade": "C",
+      "trait": "古代種",
+      "name": "超ダメージ強化",
+      "description": "古代種に超ダメージの効果が上がります",
+      "values": [
+        60
+      ],
+      "repeatable": true,
+      "iconName": "orb_0703"
+    },
+    {
+      "id": "3-7-2",
+      "effect": 3,
+      "grade": "B",
+      "trait": "古代種",
+      "name": "超ダメージ強化",
+      "description": "古代種に超ダメージの効果が上がります",
+      "values": [
+        90
+      ],
+      "repeatable": true,
+      "iconName": "orb_0703"
+    },
+    {
+      "id": "3-7-3",
+      "effect": 3,
+      "grade": "A",
+      "trait": "古代種",
+      "name": "超ダメージ強化",
+      "description": "古代種に超ダメージの効果が上がります",
+      "values": [
+        120
+      ],
+      "repeatable": true,
+      "iconName": "orb_0703"
+    },
+    {
+      "id": "3-7-4",
+      "effect": 3,
+      "grade": "S",
+      "trait": "古代種",
+      "name": "超ダメージ強化",
+      "description": "古代種に超ダメージの効果が上がります",
+      "values": [
+        150
+      ],
+      "repeatable": true,
+      "iconName": "orb_0703"
+    },
+    {
+      "id": "4-7-0",
+      "effect": 4,
+      "grade": "D",
+      "trait": "古代種",
+      "name": "打たれ強い強化",
+      "description": "古代種に打たれ強いの効果が上がります",
+      "values": [
+        5
+      ],
+      "repeatable": true,
+      "iconName": "orb_0704"
+    },
+    {
+      "id": "4-7-1",
+      "effect": 4,
+      "grade": "C",
+      "trait": "古代種",
+      "name": "打たれ強い強化",
+      "description": "古代種に打たれ強いの効果が上がります",
+      "values": [
+        10
+      ],
+      "repeatable": true,
+      "iconName": "orb_0704"
+    },
+    {
+      "id": "4-7-2",
+      "effect": 4,
+      "grade": "B",
+      "trait": "古代種",
+      "name": "打たれ強い強化",
+      "description": "古代種に打たれ強いの効果が上がります",
+      "values": [
+        15
+      ],
+      "repeatable": true,
+      "iconName": "orb_0704"
+    },
+    {
+      "id": "4-7-3",
+      "effect": 4,
+      "grade": "A",
+      "trait": "古代種",
+      "name": "打たれ強い強化",
+      "description": "古代種に打たれ強いの効果が上がります",
+      "values": [
+        20
+      ],
+      "repeatable": true,
+      "iconName": "orb_0704"
+    },
+    {
+      "id": "4-7-4",
+      "effect": 4,
+      "grade": "S",
+      "trait": "古代種",
+      "name": "打たれ強い強化",
+      "description": "古代種に打たれ強いの効果が上がります",
+      "values": [
+        25
+      ],
+      "repeatable": true,
+      "iconName": "orb_0704"
+    },
+    {
+      "id": "5-12-0",
+      "effect": 5,
+      "grade": "D",
+      "trait": null,
+      "name": "デス小烈波",
+      "description": "キャラクターが倒された時に小烈波を放つ能力が2回生産ごとに付与されます（重複不可）",
+      "values": [
+        3
+      ],
+      "repeatable": false,
+      "iconName": "orb_1205"
+    },
+    {
+      "id": "5-12-1",
+      "effect": 5,
+      "grade": "C",
+      "trait": null,
+      "name": "デス小烈波",
+      "description": "キャラクターが倒された時に小烈波を放つ能力が2回生産ごとに付与されます（重複不可）",
+      "values": [
+        6
+      ],
+      "repeatable": false,
+      "iconName": "orb_1205"
+    },
+    {
+      "id": "5-12-2",
+      "effect": 5,
+      "grade": "B",
+      "trait": null,
+      "name": "デス小烈波",
+      "description": "キャラクターが倒された時に小烈波を放つ能力が2回生産ごとに付与されます（重複不可）",
+      "values": [
+        10
+      ],
+      "repeatable": false,
+      "iconName": "orb_1205"
+    },
+    {
+      "id": "5-12-3",
+      "effect": 5,
+      "grade": "A",
+      "trait": null,
+      "name": "デス小烈波",
+      "description": "キャラクターが倒された時に小烈波を放つ能力が2回生産ごとに付与されます（重複不可）",
+      "values": [
+        14
+      ],
+      "repeatable": false,
+      "iconName": "orb_1205"
+    },
+    {
+      "id": "5-12-4",
+      "effect": 5,
+      "grade": "S",
+      "trait": null,
+      "name": "デス小烈波",
+      "description": "キャラクターが倒された時に小烈波を放つ能力が2回生産ごとに付与されます（重複不可）",
+      "values": [
+        20
+      ],
+      "repeatable": false,
+      "iconName": "orb_1205"
+    },
+    {
+      "id": "6-12-0",
+      "effect": 6,
+      "grade": "D",
+      "trait": null,
+      "name": "波動ダメージ耐性",
+      "description": "敵からの波動攻撃で受けるダメージを軽減します",
+      "values": [
+        5
+      ],
+      "repeatable": true,
+      "iconName": "orb_1206"
+    },
+    {
+      "id": "6-12-1",
+      "effect": 6,
+      "grade": "C",
+      "trait": null,
+      "name": "波動ダメージ耐性",
+      "description": "敵からの波動攻撃で受けるダメージを軽減します",
+      "values": [
+        10
+      ],
+      "repeatable": true,
+      "iconName": "orb_1206"
+    },
+    {
+      "id": "6-12-2",
+      "effect": 6,
+      "grade": "B",
+      "trait": null,
+      "name": "波動ダメージ耐性",
+      "description": "敵からの波動攻撃で受けるダメージを軽減します",
+      "values": [
+        20
+      ],
+      "repeatable": true,
+      "iconName": "orb_1206"
+    },
+    {
+      "id": "6-12-3",
+      "effect": 6,
+      "grade": "A",
+      "trait": null,
+      "name": "波動ダメージ耐性",
+      "description": "敵からの波動攻撃で受けるダメージを軽減します",
+      "values": [
+        30
+      ],
+      "repeatable": true,
+      "iconName": "orb_1206"
+    },
+    {
+      "id": "6-12-4",
+      "effect": 6,
+      "grade": "S",
+      "trait": null,
+      "name": "波動ダメージ耐性",
+      "description": "敵からの波動攻撃で受けるダメージを軽減します",
+      "values": [
+        50
+      ],
+      "repeatable": true,
+      "iconName": "orb_1206"
+    },
+    {
+      "id": "7-12-0",
+      "effect": 7,
+      "grade": "D",
+      "trait": null,
+      "name": "キャッシュバック",
+      "description": "キャラクターが倒された時に生産価格の一部が返却される能力が2回生産ごとに付与されます",
+      "values": [
+        5
+      ],
+      "repeatable": true,
+      "iconName": "orb_1207"
+    },
+    {
+      "id": "7-12-1",
+      "effect": 7,
+      "grade": "C",
+      "trait": null,
+      "name": "キャッシュバック",
+      "description": "キャラクターが倒された時に生産価格の一部が返却される能力が2回生産ごとに付与されます",
+      "values": [
+        10
+      ],
+      "repeatable": true,
+      "iconName": "orb_1207"
+    },
+    {
+      "id": "7-12-2",
+      "effect": 7,
+      "grade": "B",
+      "trait": null,
+      "name": "キャッシュバック",
+      "description": "キャラクターが倒された時に生産価格の一部が返却される能力が2回生産ごとに付与されます",
+      "values": [
+        20
+      ],
+      "repeatable": true,
+      "iconName": "orb_1207"
+    },
+    {
+      "id": "7-12-3",
+      "effect": 7,
+      "grade": "A",
+      "trait": null,
+      "name": "キャッシュバック",
+      "description": "キャラクターが倒された時に生産価格の一部が返却される能力が2回生産ごとに付与されます",
+      "values": [
+        30
+      ],
+      "repeatable": true,
+      "iconName": "orb_1207"
+    },
+    {
+      "id": "7-12-4",
+      "effect": 7,
+      "grade": "S",
+      "trait": null,
+      "name": "キャッシュバック",
+      "description": "キャラクターが倒された時に生産価格の一部が返却される能力が2回生産ごとに付与されます",
+      "values": [
+        50
+      ],
+      "repeatable": true,
+      "iconName": "orb_1207"
+    },
+    {
+      "id": "8-12-0",
+      "effect": 8,
+      "grade": "D",
+      "trait": null,
+      "name": "ふっとばし耐性",
+      "description": "敵キャラクターからの「ふっとばす」効果を軽減します",
+      "values": [
+        5
+      ],
+      "repeatable": true,
+      "iconName": "orb_1208"
+    },
+    {
+      "id": "8-12-1",
+      "effect": 8,
+      "grade": "C",
+      "trait": null,
+      "name": "ふっとばし耐性",
+      "description": "敵キャラクターからの「ふっとばす」効果を軽減します",
+      "values": [
+        10
+      ],
+      "repeatable": true,
+      "iconName": "orb_1208"
+    },
+    {
+      "id": "8-12-2",
+      "effect": 8,
+      "grade": "B",
+      "trait": null,
+      "name": "ふっとばし耐性",
+      "description": "敵キャラクターからの「ふっとばす」効果を軽減します",
+      "values": [
+        20
+      ],
+      "repeatable": true,
+      "iconName": "orb_1208"
+    },
+    {
+      "id": "8-12-3",
+      "effect": 8,
+      "grade": "A",
+      "trait": null,
+      "name": "ふっとばし耐性",
+      "description": "敵キャラクターからの「ふっとばす」効果を軽減します",
+      "values": [
+        30
+      ],
+      "repeatable": true,
+      "iconName": "orb_1208"
+    },
+    {
+      "id": "8-12-4",
+      "effect": 8,
+      "grade": "S",
+      "trait": null,
+      "name": "ふっとばし耐性",
+      "description": "敵キャラクターからの「ふっとばす」効果を軽減します",
+      "values": [
+        50
+      ],
+      "repeatable": true,
+      "iconName": "orb_1208"
+    },
+    {
+      "id": "9-12-0",
+      "effect": 9,
+      "grade": "D",
+      "trait": null,
+      "name": "レジェンドストーリー強化",
+      "description": "レジェンドストーリーで体力と攻撃力が上がります（重複不可）",
+      "values": [
+        5,
+        5
+      ],
+      "repeatable": false,
+      "iconName": "orb_1209"
+    },
+    {
+      "id": "9-12-1",
+      "effect": 9,
+      "grade": "C",
+      "trait": null,
+      "name": "レジェンドストーリー強化",
+      "description": "レジェンドストーリーで体力と攻撃力が上がります（重複不可）",
+      "values": [
+        10,
+        10
+      ],
+      "repeatable": false,
+      "iconName": "orb_1209"
+    },
+    {
+      "id": "9-12-2",
+      "effect": 9,
+      "grade": "B",
+      "trait": null,
+      "name": "レジェンドストーリー強化",
+      "description": "レジェンドストーリーで体力と攻撃力が上がります（重複不可）",
+      "values": [
+        20,
+        20
+      ],
+      "repeatable": false,
+      "iconName": "orb_1209"
+    },
+    {
+      "id": "9-12-3",
+      "effect": 9,
+      "grade": "A",
+      "trait": null,
+      "name": "レジェンドストーリー強化",
+      "description": "レジェンドストーリーで体力と攻撃力が上がります（重複不可）",
+      "values": [
+        30,
+        30
+      ],
+      "repeatable": false,
+      "iconName": "orb_1209"
+    },
+    {
+      "id": "9-12-4",
+      "effect": 9,
+      "grade": "S",
+      "trait": null,
+      "name": "レジェンドストーリー強化",
+      "description": "レジェンドストーリーで体力と攻撃力が上がります（重複不可）",
+      "values": [
+        50,
+        50
+      ],
+      "repeatable": false,
+      "iconName": "orb_1209"
+    },
+    {
+      "id": "10-12-0",
+      "effect": 10,
+      "grade": "D",
+      "trait": null,
+      "name": "超生命体特効",
+      "description": "超生命体特効の能力が2回生産ごとに付与されます（重複不可）",
+      "values": [
+        105,
+        95
+      ],
+      "repeatable": false,
+      "iconName": "orb_1210"
+    },
+    {
+      "id": "10-12-1",
+      "effect": 10,
+      "grade": "C",
+      "trait": null,
+      "name": "超生命体特効",
+      "description": "超生命体特効の能力が2回生産ごとに付与されます（重複不可）",
+      "values": [
+        115,
+        90
+      ],
+      "repeatable": false,
+      "iconName": "orb_1210"
+    },
+    {
+      "id": "10-12-2",
+      "effect": 10,
+      "grade": "B",
+      "trait": null,
+      "name": "超生命体特効",
+      "description": "超生命体特効の能力が2回生産ごとに付与されます（重複不可）",
+      "values": [
+        125,
+        85
+      ],
+      "repeatable": false,
+      "iconName": "orb_1210"
+    },
+    {
+      "id": "10-12-3",
+      "effect": 10,
+      "grade": "A",
+      "trait": null,
+      "name": "超生命体特効",
+      "description": "超生命体特効の能力が2回生産ごとに付与されます（重複不可）",
+      "values": [
+        140,
+        80
+      ],
+      "repeatable": false,
+      "iconName": "orb_1210"
+    },
+    {
+      "id": "10-12-4",
+      "effect": 10,
+      "grade": "S",
+      "trait": null,
+      "name": "超生命体特効",
+      "description": "超生命体特効の能力が2回生産ごとに付与されます（重複不可）",
+      "values": [
+        160,
+        70
+      ],
+      "repeatable": false,
+      "iconName": "orb_1210"
+    },
+    {
+      "id": "11-12-0",
+      "effect": 11,
+      "grade": "D",
+      "trait": null,
+      "name": "にゃんこ砲チャージ",
+      "description": "キャラクターが倒された時ににゃんこ砲がチャージされる能力が2回生産ごとに付与されます（重複不可）",
+      "values": [
+        3
+      ],
+      "repeatable": false,
+      "iconName": "orb_1211"
+    },
+    {
+      "id": "11-12-1",
+      "effect": 11,
+      "grade": "C",
+      "trait": null,
+      "name": "にゃんこ砲チャージ",
+      "description": "キャラクターが倒された時ににゃんこ砲がチャージされる能力が2回生産ごとに付与されます（重複不可）",
+      "values": [
+        5
+      ],
+      "repeatable": false,
+      "iconName": "orb_1211"
+    },
+    {
+      "id": "11-12-2",
+      "effect": 11,
+      "grade": "B",
+      "trait": null,
+      "name": "にゃんこ砲チャージ",
+      "description": "キャラクターが倒された時ににゃんこ砲がチャージされる能力が2回生産ごとに付与されます（重複不可）",
+      "values": [
+        7
+      ],
+      "repeatable": false,
+      "iconName": "orb_1211"
+    },
+    {
+      "id": "11-12-3",
+      "effect": 11,
+      "grade": "A",
+      "trait": null,
+      "name": "にゃんこ砲チャージ",
+      "description": "キャラクターが倒された時ににゃんこ砲がチャージされる能力が2回生産ごとに付与されます（重複不可）",
+      "values": [
+        10
+      ],
+      "repeatable": false,
+      "iconName": "orb_1211"
+    },
+    {
+      "id": "11-12-4",
+      "effect": 11,
+      "grade": "S",
+      "trait": null,
+      "name": "にゃんこ砲チャージ",
+      "description": "キャラクターが倒された時ににゃんこ砲がチャージされる能力が2回生産ごとに付与されます（重複不可）",
+      "values": [
+        15
+      ],
+      "repeatable": false,
+      "iconName": "orb_1211"
+    },
+    {
+      "id": "12-12-0",
+      "effect": 12,
+      "grade": "D",
+      "trait": null,
+      "name": "毒撃ダメージ耐性",
+      "description": "敵キャラクターからの毒撃で受けるダメージを軽減します",
+      "values": [
+        5
+      ],
+      "repeatable": true,
+      "iconName": "orb_1212"
+    },
+    {
+      "id": "12-12-1",
+      "effect": 12,
+      "grade": "C",
+      "trait": null,
+      "name": "毒撃ダメージ耐性",
+      "description": "敵キャラクターからの毒撃で受けるダメージを軽減します",
+      "values": [
+        10
+      ],
+      "repeatable": true,
+      "iconName": "orb_1212"
+    },
+    {
+      "id": "12-12-2",
+      "effect": 12,
+      "grade": "B",
+      "trait": null,
+      "name": "毒撃ダメージ耐性",
+      "description": "敵キャラクターからの毒撃で受けるダメージを軽減します",
+      "values": [
+        20
+      ],
+      "repeatable": true,
+      "iconName": "orb_1212"
+    },
+    {
+      "id": "12-12-3",
+      "effect": 12,
+      "grade": "A",
+      "trait": null,
+      "name": "毒撃ダメージ耐性",
+      "description": "敵キャラクターからの毒撃で受けるダメージを軽減します",
+      "values": [
+        30
+      ],
+      "repeatable": true,
+      "iconName": "orb_1212"
+    },
+    {
+      "id": "12-12-4",
+      "effect": 12,
+      "grade": "S",
+      "trait": null,
+      "name": "毒撃ダメージ耐性",
+      "description": "敵キャラクターからの毒撃で受けるダメージを軽減します",
+      "values": [
+        50
+      ],
+      "repeatable": true,
+      "iconName": "orb_1212"
+    },
+    {
+      "id": "13-12-0",
+      "effect": 13,
+      "grade": "D",
+      "trait": null,
+      "name": "全攻撃無効",
+      "description": "敵キャラクターから一定時間ダメージを受けなくなる能力が2回生産ごとに付与されます（重複不可）",
+      "values": [
+        1,
+        30
+      ],
+      "repeatable": false,
+      "iconName": "orb_1213"
+    },
+    {
+      "id": "13-12-1",
+      "effect": 13,
+      "grade": "C",
+      "trait": null,
+      "name": "全攻撃無効",
+      "description": "敵キャラクターから一定時間ダメージを受けなくなる能力が2回生産ごとに付与されます（重複不可）",
+      "values": [
+        3,
+        30
+      ],
+      "repeatable": false,
+      "iconName": "orb_1213"
+    },
+    {
+      "id": "13-12-2",
+      "effect": 13,
+      "grade": "B",
+      "trait": null,
+      "name": "全攻撃無効",
+      "description": "敵キャラクターから一定時間ダメージを受けなくなる能力が2回生産ごとに付与されます（重複不可）",
+      "values": [
+        5,
+        30
+      ],
+      "repeatable": false,
+      "iconName": "orb_1213"
+    },
+    {
+      "id": "13-12-3",
+      "effect": 13,
+      "grade": "A",
+      "trait": null,
+      "name": "全攻撃無効",
+      "description": "敵キャラクターから一定時間ダメージを受けなくなる能力が2回生産ごとに付与されます（重複不可）",
+      "values": [
+        7,
+        30
+      ],
+      "repeatable": false,
+      "iconName": "orb_1213"
+    },
+    {
+      "id": "13-12-4",
+      "effect": 13,
+      "grade": "S",
+      "trait": null,
+      "name": "全攻撃無効",
+      "description": "敵キャラクターから一定時間ダメージを受けなくなる能力が2回生産ごとに付与されます（重複不可）",
+      "values": [
+        10,
+        30
+      ],
+      "repeatable": false,
+      "iconName": "orb_1213"
+    },
+    {
+      "id": "14-12-0",
+      "effect": 14,
+      "grade": "D",
+      "trait": null,
+      "name": "動きを遅くする耐性",
+      "description": "敵キャラクターからの「動きを遅くする」効果を軽減します",
+      "values": [
+        5
+      ],
+      "repeatable": true,
+      "iconName": "orb_1214"
+    },
+    {
+      "id": "14-12-1",
+      "effect": 14,
+      "grade": "C",
+      "trait": null,
+      "name": "動きを遅くする耐性",
+      "description": "敵キャラクターからの「動きを遅くする」効果を軽減します",
+      "values": [
+        10
+      ],
+      "repeatable": true,
+      "iconName": "orb_1214"
+    },
+    {
+      "id": "14-12-2",
+      "effect": 14,
+      "grade": "B",
+      "trait": null,
+      "name": "動きを遅くする耐性",
+      "description": "敵キャラクターからの「動きを遅くする」効果を軽減します",
+      "values": [
+        20
+      ],
+      "repeatable": true,
+      "iconName": "orb_1214"
+    },
+    {
+      "id": "14-12-3",
+      "effect": 14,
+      "grade": "A",
+      "trait": null,
+      "name": "動きを遅くする耐性",
+      "description": "敵キャラクターからの「動きを遅くする」効果を軽減します",
+      "values": [
+        30
+      ],
+      "repeatable": true,
+      "iconName": "orb_1214"
+    },
+    {
+      "id": "14-12-4",
+      "effect": 14,
+      "grade": "S",
+      "trait": null,
+      "name": "動きを遅くする耐性",
+      "description": "敵キャラクターからの「動きを遅くする」効果を軽減します",
+      "values": [
+        50
+      ],
+      "repeatable": true,
+      "iconName": "orb_1214"
+    },
+    {
+      "id": "15-12-0",
+      "effect": 15,
+      "grade": "D",
+      "trait": null,
+      "name": "古代の呪い耐性",
+      "description": "敵キャラクターからの「古代の呪い」効果を軽減します",
+      "values": [
+        5
+      ],
+      "repeatable": true,
+      "iconName": "orb_1215"
+    },
+    {
+      "id": "15-12-1",
+      "effect": 15,
+      "grade": "C",
+      "trait": null,
+      "name": "古代の呪い耐性",
+      "description": "敵キャラクターからの「古代の呪い」効果を軽減します",
+      "values": [
+        10
+      ],
+      "repeatable": true,
+      "iconName": "orb_1215"
+    },
+    {
+      "id": "15-12-2",
+      "effect": 15,
+      "grade": "B",
+      "trait": null,
+      "name": "古代の呪い耐性",
+      "description": "敵キャラクターからの「古代の呪い」効果を軽減します",
+      "values": [
+        20
+      ],
+      "repeatable": true,
+      "iconName": "orb_1215"
+    },
+    {
+      "id": "15-12-3",
+      "effect": 15,
+      "grade": "A",
+      "trait": null,
+      "name": "古代の呪い耐性",
+      "description": "敵キャラクターからの「古代の呪い」効果を軽減します",
+      "values": [
+        30
+      ],
+      "repeatable": true,
+      "iconName": "orb_1215"
+    },
+    {
+      "id": "15-12-4",
+      "effect": 15,
+      "grade": "S",
+      "trait": null,
+      "name": "古代の呪い耐性",
+      "description": "敵キャラクターからの「古代の呪い」効果を軽減します",
+      "values": [
+        50
+      ],
+      "repeatable": true,
+      "iconName": "orb_1215"
+    },
+    {
+      "id": "16-12-0",
+      "effect": 16,
+      "grade": "D",
+      "trait": null,
+      "name": "真レジェンドストーリー強化",
+      "description": "真レジェンドストーリーで体力と攻撃力が上がります（重複不可）",
+      "values": [
+        5,
+        5
+      ],
+      "repeatable": false,
+      "iconName": "orb_1216"
+    },
+    {
+      "id": "16-12-1",
+      "effect": 16,
+      "grade": "C",
+      "trait": null,
+      "name": "真レジェンドストーリー強化",
+      "description": "真レジェンドストーリーで体力と攻撃力が上がります（重複不可）",
+      "values": [
+        10,
+        10
+      ],
+      "repeatable": false,
+      "iconName": "orb_1216"
+    },
+    {
+      "id": "16-12-2",
+      "effect": 16,
+      "grade": "B",
+      "trait": null,
+      "name": "真レジェンドストーリー強化",
+      "description": "真レジェンドストーリーで体力と攻撃力が上がります（重複不可）",
+      "values": [
+        20,
+        20
+      ],
+      "repeatable": false,
+      "iconName": "orb_1216"
+    },
+    {
+      "id": "16-12-3",
+      "effect": 16,
+      "grade": "A",
+      "trait": null,
+      "name": "真レジェンドストーリー強化",
+      "description": "真レジェンドストーリーで体力と攻撃力が上がります（重複不可）",
+      "values": [
+        30,
+        30
+      ],
+      "repeatable": false,
+      "iconName": "orb_1216"
+    },
+    {
+      "id": "16-12-4",
+      "effect": 16,
+      "grade": "S",
+      "trait": null,
+      "name": "真レジェンドストーリー強化",
+      "description": "真レジェンドストーリーで体力と攻撃力が上がります（重複不可）",
+      "values": [
+        50,
+        50
+      ],
+      "repeatable": false,
+      "iconName": "orb_1216"
+    },
+    {
+      "id": "17-12-0",
+      "effect": 17,
+      "grade": "D",
+      "trait": null,
+      "name": "１回烈波カウンター",
+      "description": "烈波攻撃でダメージを受けた時、敵に烈波攻撃を1度だけ放ち返す能力が2回生産ごとに付与されます（重複不可）",
+      "values": [
+        10
+      ],
+      "repeatable": false,
+      "iconName": "orb_1217"
+    },
+    {
+      "id": "17-12-1",
+      "effect": 17,
+      "grade": "C",
+      "trait": null,
+      "name": "１回烈波カウンター",
+      "description": "烈波攻撃でダメージを受けた時、敵に烈波攻撃を1度だけ放ち返す能力が2回生産ごとに付与されます（重複不可）",
+      "values": [
+        30
+      ],
+      "repeatable": false,
+      "iconName": "orb_1217"
+    },
+    {
+      "id": "17-12-2",
+      "effect": 17,
+      "grade": "B",
+      "trait": null,
+      "name": "１回烈波カウンター",
+      "description": "烈波攻撃でダメージを受けた時、敵に烈波攻撃を1度だけ放ち返す能力が2回生産ごとに付与されます（重複不可）",
+      "values": [
+        50
+      ],
+      "repeatable": false,
+      "iconName": "orb_1217"
+    },
+    {
+      "id": "17-12-3",
+      "effect": 17,
+      "grade": "A",
+      "trait": null,
+      "name": "１回烈波カウンター",
+      "description": "烈波攻撃でダメージを受けた時、敵に烈波攻撃を1度だけ放ち返す能力が2回生産ごとに付与されます（重複不可）",
+      "values": [
+        70
+      ],
+      "repeatable": false,
+      "iconName": "orb_1217"
+    },
+    {
+      "id": "17-12-4",
+      "effect": 17,
+      "grade": "S",
+      "trait": null,
+      "name": "１回烈波カウンター",
+      "description": "烈波攻撃でダメージを受けた時、敵に烈波攻撃を1度だけ放ち返す能力が2回生産ごとに付与されます（重複不可）",
+      "values": [
+        100
+      ],
+      "repeatable": false,
+      "iconName": "orb_1217"
+    },
+    {
+      "id": "18-12-0",
+      "effect": 18,
+      "grade": "D",
+      "trait": null,
+      "name": "撃破時攻撃力アップ",
+      "description": "敵キャラクターを一定数倒した時に攻撃力が上がる能力が付与されます（重複不可）",
+      "values": [
+        3
+      ],
+      "repeatable": false,
+      "iconName": "orb_1218"
+    },
+    {
+      "id": "18-12-1",
+      "effect": 18,
+      "grade": "C",
+      "trait": null,
+      "name": "撃破時攻撃力アップ",
+      "description": "敵キャラクターを一定数倒した時に攻撃力が上がる能力が付与されます（重複不可）",
+      "values": [
+        6
+      ],
+      "repeatable": false,
+      "iconName": "orb_1218"
+    },
+    {
+      "id": "18-12-2",
+      "effect": 18,
+      "grade": "B",
+      "trait": null,
+      "name": "撃破時攻撃力アップ",
+      "description": "敵キャラクターを一定数倒した時に攻撃力が上がる能力が付与されます（重複不可）",
+      "values": [
+        10
+      ],
+      "repeatable": false,
+      "iconName": "orb_1218"
+    },
+    {
+      "id": "18-12-3",
+      "effect": 18,
+      "grade": "A",
+      "trait": null,
+      "name": "撃破時攻撃力アップ",
+      "description": "敵キャラクターを一定数倒した時に攻撃力が上がる能力が付与されます（重複不可）",
+      "values": [
+        14
+      ],
+      "repeatable": false,
+      "iconName": "orb_1218"
+    },
+    {
+      "id": "18-12-4",
+      "effect": 18,
+      "grade": "S",
+      "trait": null,
+      "name": "撃破時攻撃力アップ",
+      "description": "敵キャラクターを一定数倒した時に攻撃力が上がる能力が付与されます（重複不可）",
+      "values": [
+        20
+      ],
+      "repeatable": false,
+      "iconName": "orb_1218"
+    },
+    {
+      "id": "19-12-0",
+      "effect": 19,
+      "grade": "D",
+      "trait": null,
+      "name": "生産時間短縮",
+      "description": "生産時間を短縮する能力が2回生産ごとに付与されます（重複不可）",
+      "values": [
+        2
+      ],
+      "repeatable": false,
+      "iconName": "orb_1219"
+    },
+    {
+      "id": "19-12-1",
+      "effect": 19,
+      "grade": "C",
+      "trait": null,
+      "name": "生産時間短縮",
+      "description": "生産時間を短縮する能力が2回生産ごとに付与されます（重複不可）",
+      "values": [
+        4
+      ],
+      "repeatable": false,
+      "iconName": "orb_1219"
+    },
+    {
+      "id": "19-12-2",
+      "effect": 19,
+      "grade": "B",
+      "trait": null,
+      "name": "生産時間短縮",
+      "description": "生産時間を短縮する能力が2回生産ごとに付与されます（重複不可）",
+      "values": [
+        7
+      ],
+      "repeatable": false,
+      "iconName": "orb_1219"
+    },
+    {
+      "id": "19-12-3",
+      "effect": 19,
+      "grade": "A",
+      "trait": null,
+      "name": "生産時間短縮",
+      "description": "生産時間を短縮する能力が2回生産ごとに付与されます（重複不可）",
+      "values": [
+        10
+      ],
+      "repeatable": false,
+      "iconName": "orb_1219"
+    },
+    {
+      "id": "19-12-4",
+      "effect": 19,
+      "grade": "S",
+      "trait": null,
+      "name": "生産時間短縮",
+      "description": "生産時間を短縮する能力が2回生産ごとに付与されます（重複不可）",
+      "values": [
+        15
+      ],
+      "repeatable": false,
+      "iconName": "orb_1219"
+    },
+    {
+      "id": "20-12-0",
+      "effect": 20,
+      "grade": "D",
+      "trait": null,
+      "name": "動きを止める耐性",
+      "description": "敵キャラクターからの「動きを止める」効果を軽減します",
+      "values": [
+        5
+      ],
+      "repeatable": true,
+      "iconName": "orb_1220"
+    },
+    {
+      "id": "20-12-1",
+      "effect": 20,
+      "grade": "C",
+      "trait": null,
+      "name": "動きを止める耐性",
+      "description": "敵キャラクターからの「動きを止める」効果を軽減します",
+      "values": [
+        10
+      ],
+      "repeatable": true,
+      "iconName": "orb_1220"
+    },
+    {
+      "id": "20-12-2",
+      "effect": 20,
+      "grade": "B",
+      "trait": null,
+      "name": "動きを止める耐性",
+      "description": "敵キャラクターからの「動きを止める」効果を軽減します",
+      "values": [
+        20
+      ],
+      "repeatable": true,
+      "iconName": "orb_1220"
+    },
+    {
+      "id": "20-12-3",
+      "effect": 20,
+      "grade": "A",
+      "trait": null,
+      "name": "動きを止める耐性",
+      "description": "敵キャラクターからの「動きを止める」効果を軽減します",
+      "values": [
+        30
+      ],
+      "repeatable": true,
+      "iconName": "orb_1220"
+    },
+    {
+      "id": "20-12-4",
+      "effect": 20,
+      "grade": "S",
+      "trait": null,
+      "name": "動きを止める耐性",
+      "description": "敵キャラクターからの「動きを止める」効果を軽減します",
+      "values": [
+        50
+      ],
+      "repeatable": true,
+      "iconName": "orb_1220"
+    },
+    {
+      "id": "21-12-0",
+      "effect": 21,
+      "grade": "D",
+      "trait": null,
+      "name": "攻撃力ダウン耐性",
+      "description": "敵キャラクターからの「攻撃力ダウン」効果を軽減します",
+      "values": [
+        5
+      ],
+      "repeatable": true,
+      "iconName": "orb_1221"
+    },
+    {
+      "id": "21-12-1",
+      "effect": 21,
+      "grade": "C",
+      "trait": null,
+      "name": "攻撃力ダウン耐性",
+      "description": "敵キャラクターからの「攻撃力ダウン」効果を軽減します",
+      "values": [
+        10
+      ],
+      "repeatable": true,
+      "iconName": "orb_1221"
+    },
+    {
+      "id": "21-12-2",
+      "effect": 21,
+      "grade": "B",
+      "trait": null,
+      "name": "攻撃力ダウン耐性",
+      "description": "敵キャラクターからの「攻撃力ダウン」効果を軽減します",
+      "values": [
+        20
+      ],
+      "repeatable": true,
+      "iconName": "orb_1221"
+    },
+    {
+      "id": "21-12-3",
+      "effect": 21,
+      "grade": "A",
+      "trait": null,
+      "name": "攻撃力ダウン耐性",
+      "description": "敵キャラクターからの「攻撃力ダウン」効果を軽減します",
+      "values": [
+        30
+      ],
+      "repeatable": true,
+      "iconName": "orb_1221"
+    },
+    {
+      "id": "21-12-4",
+      "effect": 21,
+      "grade": "S",
+      "trait": null,
+      "name": "攻撃力ダウン耐性",
+      "description": "敵キャラクターからの「攻撃力ダウン」効果を軽減します",
+      "values": [
+        50
+      ],
+      "repeatable": true,
+      "iconName": "orb_1221"
+    },
+    {
+      "id": "22-12-0",
+      "effect": 22,
+      "grade": "D",
+      "trait": null,
+      "name": "生産コスト割引",
+      "description": "生産コストが減少する能力が2回生産ごとに付与されます（重複不可）",
+      "values": [
+        5
+      ],
+      "repeatable": false,
+      "iconName": "orb_1222"
+    },
+    {
+      "id": "22-12-1",
+      "effect": 22,
+      "grade": "C",
+      "trait": null,
+      "name": "生産コスト割引",
+      "description": "生産コストが減少する能力が2回生産ごとに付与されます（重複不可）",
+      "values": [
+        10
+      ],
+      "repeatable": false,
+      "iconName": "orb_1222"
+    },
+    {
+      "id": "22-12-2",
+      "effect": 22,
+      "grade": "B",
+      "trait": null,
+      "name": "生産コスト割引",
+      "description": "生産コストが減少する能力が2回生産ごとに付与されます（重複不可）",
+      "values": [
+        15
+      ],
+      "repeatable": false,
+      "iconName": "orb_1222"
+    },
+    {
+      "id": "22-12-3",
+      "effect": 22,
+      "grade": "A",
+      "trait": null,
+      "name": "生産コスト割引",
+      "description": "生産コストが減少する能力が2回生産ごとに付与されます（重複不可）",
+      "values": [
+        20
+      ],
+      "repeatable": false,
+      "iconName": "orb_1222"
+    },
+    {
+      "id": "22-12-4",
+      "effect": 22,
+      "grade": "S",
+      "trait": null,
+      "name": "生産コスト割引",
+      "description": "生産コストが減少する能力が2回生産ごとに付与されます（重複不可）",
+      "values": [
+        30
+      ],
+      "repeatable": false,
+      "iconName": "orb_1222"
+    },
+    {
+      "id": "23-12-0",
+      "effect": 23,
+      "grade": "D",
+      "trait": null,
+      "name": "烈波ダメージ耐性",
+      "description": "敵からの烈波攻撃で受けるダメージを軽減します",
+      "values": [
+        5
+      ],
+      "repeatable": true,
+      "iconName": "orb_1223"
+    },
+    {
+      "id": "23-12-1",
+      "effect": 23,
+      "grade": "C",
+      "trait": null,
+      "name": "烈波ダメージ耐性",
+      "description": "敵からの烈波攻撃で受けるダメージを軽減します",
+      "values": [
+        10
+      ],
+      "repeatable": true,
+      "iconName": "orb_1223"
+    },
+    {
+      "id": "23-12-2",
+      "effect": 23,
+      "grade": "B",
+      "trait": null,
+      "name": "烈波ダメージ耐性",
+      "description": "敵からの烈波攻撃で受けるダメージを軽減します",
+      "values": [
+        20
+      ],
+      "repeatable": true,
+      "iconName": "orb_1223"
+    },
+    {
+      "id": "23-12-3",
+      "effect": 23,
+      "grade": "A",
+      "trait": null,
+      "name": "烈波ダメージ耐性",
+      "description": "敵からの烈波攻撃で受けるダメージを軽減します",
+      "values": [
+        30
+      ],
+      "repeatable": true,
+      "iconName": "orb_1223"
+    },
+    {
+      "id": "23-12-4",
+      "effect": 23,
+      "grade": "S",
+      "trait": null,
+      "name": "烈波ダメージ耐性",
+      "description": "敵からの烈波攻撃で受けるダメージを軽減します",
+      "values": [
+        50
+      ],
+      "repeatable": true,
+      "iconName": "orb_1223"
+    },
+    {
+      "id": "24-12-0",
+      "effect": 24,
+      "grade": "D",
+      "trait": null,
+      "name": "初回撃破時お金アップ",
+      "description": "初回撃破時に獲得するお金が少し増える能力が2回生産ごとに付与されます（重複不可）",
+      "values": [
+        5
+      ],
+      "repeatable": false,
+      "iconName": "orb_1224"
+    },
+    {
+      "id": "24-12-1",
+      "effect": 24,
+      "grade": "C",
+      "trait": null,
+      "name": "初回撃破時お金アップ",
+      "description": "初回撃破時に獲得するお金が少し増える能力が2回生産ごとに付与されます（重複不可）",
+      "values": [
+        10
+      ],
+      "repeatable": false,
+      "iconName": "orb_1224"
+    },
+    {
+      "id": "24-12-2",
+      "effect": 24,
+      "grade": "B",
+      "trait": null,
+      "name": "初回撃破時お金アップ",
+      "description": "初回撃破時に獲得するお金が少し増える能力が2回生産ごとに付与されます（重複不可）",
+      "values": [
+        15
+      ],
+      "repeatable": false,
+      "iconName": "orb_1224"
+    },
+    {
+      "id": "24-12-3",
+      "effect": 24,
+      "grade": "A",
+      "trait": null,
+      "name": "初回撃破時お金アップ",
+      "description": "初回撃破時に獲得するお金が少し増える能力が2回生産ごとに付与されます（重複不可）",
+      "values": [
+        25
+      ],
+      "repeatable": false,
+      "iconName": "orb_1224"
+    },
+    {
+      "id": "24-12-4",
+      "effect": 24,
+      "grade": "S",
+      "trait": null,
+      "name": "初回撃破時お金アップ",
+      "description": "初回撃破時に獲得するお金が少し増える能力が2回生産ごとに付与されます（重複不可）",
+      "values": [
+        40
+      ],
+      "repeatable": false,
+      "iconName": "orb_1224"
+    },
+    {
+      "id": "25-12-0",
+      "effect": 25,
+      "grade": "D",
+      "trait": null,
+      "name": "爆波ダメージ耐性",
+      "description": "敵からの爆波攻撃で受けるダメージを軽減します",
+      "values": [
+        5
+      ],
+      "repeatable": true,
+      "iconName": "orb_1225"
+    },
+    {
+      "id": "25-12-1",
+      "effect": 25,
+      "grade": "C",
+      "trait": null,
+      "name": "爆波ダメージ耐性",
+      "description": "敵からの爆波攻撃で受けるダメージを軽減します",
+      "values": [
+        10
+      ],
+      "repeatable": true,
+      "iconName": "orb_1225"
+    },
+    {
+      "id": "25-12-2",
+      "effect": 25,
+      "grade": "B",
+      "trait": null,
+      "name": "爆波ダメージ耐性",
+      "description": "敵からの爆波攻撃で受けるダメージを軽減します",
+      "values": [
+        20
+      ],
+      "repeatable": true,
+      "iconName": "orb_1225"
+    },
+    {
+      "id": "25-12-3",
+      "effect": 25,
+      "grade": "A",
+      "trait": null,
+      "name": "爆波ダメージ耐性",
+      "description": "敵からの爆波攻撃で受けるダメージを軽減します",
+      "values": [
+        30
+      ],
+      "repeatable": true,
+      "iconName": "orb_1225"
+    },
+    {
+      "id": "25-12-4",
+      "effect": 25,
+      "grade": "S",
+      "trait": null,
+      "name": "爆波ダメージ耐性",
+      "description": "敵からの爆波攻撃で受けるダメージを軽減します",
+      "values": [
+        50
+      ],
+      "repeatable": true,
+      "iconName": "orb_1225"
+    }
+  ],
+  "sources": {
+    "equipmentlist.json": {
+      "url": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/data/DataLocal/equipmentlist.json",
+      "sha256": "da6340b98ee605687f2225ec5a0b8b1f3109e2b801107fed4773cdfe7b419ca2"
+    },
+    "equipmentslot.csv": {
+      "url": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/data/DataLocal/equipmentslot.csv",
+      "sha256": "b61d4750a8dd0be6772474d49981a408a7b8746ce3362322e7e7e464bfb64fe1"
+    },
+    "equipment_option.csv": {
+      "url": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/data/DataLocal/equipment_option.csv",
+      "sha256": "b1d88ca74c0922248623d00acde1ddb212c2baad2124a975de479f8ec7bcdd16"
+    },
+    "equipment_attribute.csv": {
+      "url": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/data/DataLocal/equipment_attribute.csv",
+      "sha256": "fae405707d7d06089f62f6713673f69bef777f8c4a1dacd1fcab8bafc86192fe"
+    },
+    "equipmentgrade.csv": {
+      "url": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/data/DataLocal/equipmentgrade.csv",
+      "sha256": "c3a0ab0fedf8f4d170b2de688818f2b243d74877b92272cc3fd9a3315cecf352"
+    },
+    "equipment_explonation.tsv": {
+      "url": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/data/resLocal_ja/equipment_explonation.tsv",
+      "sha256": "f92f2f9e665cddeba8efd597d9c06010713e68b269b6fd37dac7b8b0054b96bb"
+    },
+    "equipment_effect.imgcut": {
+      "url": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/data/ImageDataLocal/equipment_effect.imgcut",
+      "sha256": "3a19d1a5bf5d9e47b4b950cb292fc79b1471c17318579e0a4bd2da72cdcc5e4d"
+    },
+    "equipment_effect.png": {
+      "url": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/game/equipment_effect.png",
+      "sha256": "23662d5101a4682512503613471b6467e2618c5ad5c2f6c39347c8e938895f19"
+    },
+    "equipment_attribute.imgcut": {
+      "url": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/data/ImageDataLocal/equipment_attribute.imgcut",
+      "sha256": "6bb514aeaf8ed7dab6f0fbd9ad9c56b194d18e715310641ad2adefff79589f5d"
+    },
+    "equipment_attribute.png": {
+      "url": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/game/equipment_attribute.png",
+      "sha256": "c6ba7e011e91c8560c04a4011a745c5754cc46d68f4a783d8ea84b8e9c7dc2d7"
+    }
+  }
+}

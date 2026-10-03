@@ -1,0 +1,5519 @@
+{
+  "12周年記念ケーキわんこ" : {
+    "normalizedName" : "12周年記念けーきわんこ",
+    "original" : "12周年記念ケーキわんこ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "12しゅうねんきねんけーきわんこ"
+    ],
+    "searchText" : "12周年記念けーきわんこ 12しゅうねんきねんけーきわんこ"
+  },
+  "13周年記念ケーキわんこ" : {
+    "normalizedName" : "13周年記念けーきわんこ",
+    "original" : "13周年記念ケーキわんこ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "13しゅうねんきねんけーきわんこ"
+    ],
+    "searchText" : "13周年記念けーきわんこ 13しゅうねんきねんけーきわんこ"
+  },
+  "1億1111万DL記念ケーキわんこ" : {
+    "normalizedName" : "1億1111万dl記念けーきわんこ",
+    "original" : "1億1111万DL記念ケーキわんこ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "1おく1111まんdlきねんけーきわんこ"
+    ],
+    "searchText" : "1億1111万dl記念けーきわんこ 1おく1111まんdlきねんけーきわんこ"
+  },
+  "Hyper Mr." : {
+    "normalizedName" : "hypermr",
+    "original" : "Hyper Mr.",
+    "readingSource" : "automatic",
+    "readings" : [
+      "hypermr"
+    ],
+    "searchText" : "hypermr"
+  },
+  "SV-001" : {
+    "normalizedName" : "sv001",
+    "original" : "SV-001",
+    "readingSource" : "automatic",
+    "readings" : [
+      "sv001"
+    ],
+    "searchText" : "sv001"
+  },
+  "お菓子の魔女" : {
+    "normalizedName" : "お菓子の魔女",
+    "original" : "お菓子の魔女",
+    "readingSource" : "automatic",
+    "readings" : [
+      "おかしのまじょ"
+    ],
+    "searchText" : "お菓子の魔女 おかしのまじょ"
+  },
+  "お菓子の魔女・執着" : {
+    "normalizedName" : "お菓子の魔女執着",
+    "original" : "お菓子の魔女・執着",
+    "readingSource" : "automatic",
+    "readings" : [
+      "おかしのまじょしゅうちゃく"
+    ],
+    "searchText" : "お菓子の魔女執着 おかしのまじょしゅうちゃく"
+  },
+  "かわわっぱJr." : {
+    "normalizedName" : "かわわっぱjr",
+    "original" : "かわわっぱJr.",
+    "readingSource" : "automatic",
+    "readings" : [
+      "かわわっぱjr"
+    ],
+    "searchText" : "かわわっぱjr"
+  },
+  "くるみ割りの魔女" : {
+    "normalizedName" : "くるみ割りの魔女",
+    "original" : "くるみ割りの魔女",
+    "readingSource" : "automatic",
+    "readings" : [
+      "くるみわりのまじょ"
+    ],
+    "searchText" : "くるみ割りの魔女 くるみわりのまじょ"
+  },
+  "こぶへい" : {
+    "normalizedName" : "こぶへい",
+    "original" : "こぶへい",
+    "readingSource" : "automatic",
+    "readings" : [
+      "こぶへい"
+    ],
+    "searchText" : "こぶへい"
+  },
+  "ごん兵衛" : {
+    "normalizedName" : "ごん兵衛",
+    "original" : "ごん兵衛",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ごんひょうえ"
+    ],
+    "searchText" : "ごん兵衛 ごんひょうえ"
+  },
+  "さくら" : {
+    "normalizedName" : "さくら",
+    "original" : "さくら",
+    "readingSource" : "automatic",
+    "readings" : [
+      "さくら"
+    ],
+    "searchText" : "さくら"
+  },
+  "だっふんと機関銃" : {
+    "normalizedName" : "だっふんと機関銃",
+    "original" : "だっふんと機関銃",
+    "readingSource" : "automatic",
+    "readings" : [
+      "だっふんときかんじゅう"
+    ],
+    "searchText" : "だっふんと機関銃 だっふんときかんじゅう"
+  },
+  "だっふんど" : {
+    "normalizedName" : "だっふんど",
+    "original" : "だっふんど",
+    "readingSource" : "automatic",
+    "readings" : [
+      "だっふんど"
+    ],
+    "searchText" : "だっふんど"
+  },
+  "ちびぶんぶん" : {
+    "normalizedName" : "ちびぶんぶん",
+    "original" : "ちびぶんぶん",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ちびぶんぶん"
+    ],
+    "searchText" : "ちびぶんぶん"
+  },
+  "ちびわんこ" : {
+    "normalizedName" : "ちびわんこ",
+    "original" : "ちびわんこ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ちびわんこ"
+    ],
+    "searchText" : "ちびわんこ"
+  },
+  "ちびイノシャシ" : {
+    "normalizedName" : "ちびいのしゃし",
+    "original" : "ちびイノシャシ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ちびいのしゃし"
+    ],
+    "searchText" : "ちびいのしゃし"
+  },
+  "ちびケーキわんこ" : {
+    "normalizedName" : "ちびけーきわんこ",
+    "original" : "ちびケーキわんこ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ちびけーきわんこ"
+    ],
+    "searchText" : "ちびけーきわんこ"
+  },
+  "ちびゴムネコ" : {
+    "normalizedName" : "ちびごむねこ",
+    "original" : "ちびゴムネコ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ちびごむねこ"
+    ],
+    "searchText" : "ちびごむねこ"
+  },
+  "ちびネコキングドラゴン" : {
+    "normalizedName" : "ちびねこきんぐどらごん",
+    "original" : "ちびネコキングドラゴン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ちびねこきんぐどらごん"
+    ],
+    "searchText" : "ちびねこきんぐどらごん"
+  },
+  "ちびネコジャラミ" : {
+    "normalizedName" : "ちびねこじゃらみ",
+    "original" : "ちびネコジャラミ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ちびねこじゃらみ"
+    ],
+    "searchText" : "ちびねこじゃらみ"
+  },
+  "ちびネコモヒカン" : {
+    "normalizedName" : "ちびねこもひかん",
+    "original" : "ちびネコモヒカン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ちびねこもひかん"
+    ],
+    "searchText" : "ちびねこもひかん"
+  },
+  "ちびネコライオン" : {
+    "normalizedName" : "ちびねこらいおん",
+    "original" : "ちびネコライオン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ちびねこらいおん"
+    ],
+    "searchText" : "ちびねこらいおん"
+  },
+  "ちびネコ島" : {
+    "normalizedName" : "ちびねこ島",
+    "original" : "ちびネコ島",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ちびねことう"
+    ],
+    "searchText" : "ちびねこ島 ちびねことう"
+  },
+  "ちびムキあしネコ" : {
+    "normalizedName" : "ちびむきあしねこ",
+    "original" : "ちびムキあしネコ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ちびむきあしねこ"
+    ],
+    "searchText" : "ちびむきあしねこ"
+  },
+  "ちび暗黒ネコ" : {
+    "normalizedName" : "ちび暗黒ねこ",
+    "original" : "ちび暗黒ネコ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ちびあんこくねこ"
+    ],
+    "searchText" : "ちび暗黒ねこ ちびあんこくねこ"
+  },
+  "とどめき" : {
+    "normalizedName" : "とどめき",
+    "original" : "とどめき",
+    "readingSource" : "automatic",
+    "readings" : [
+      "とどめき"
+    ],
+    "searchText" : "とどめき"
+  },
+  "なめ（天使）" : {
+    "normalizedName" : "なめ天使",
+    "original" : "なめ（天使）",
+    "readingSource" : "automatic",
+    "readings" : [
+      "なめてんし"
+    ],
+    "searchText" : "なめ天使 なめてんし"
+  },
+  "なめ（赤）" : {
+    "normalizedName" : "なめ赤",
+    "original" : "なめ（赤）",
+    "readingSource" : "automatic",
+    "readings" : [
+      "なめあか"
+    ],
+    "searchText" : "なめ赤 なめあか"
+  },
+  "なめ（黒）" : {
+    "normalizedName" : "なめ黒",
+    "original" : "なめ（黒）",
+    "readingSource" : "automatic",
+    "readings" : [
+      "なめくろ"
+    ],
+    "searchText" : "なめ黒 なめくろ"
+  },
+  "にゃんことメルク" : {
+    "normalizedName" : "にゃんことめるく",
+    "original" : "にゃんことメルク",
+    "readingSource" : "automatic",
+    "readings" : [
+      "にゃんことめるく"
+    ],
+    "searchText" : "にゃんことめるく"
+  },
+  "にゃんこカートP" : {
+    "normalizedName" : "にゃんこかーとp",
+    "original" : "にゃんこカートP",
+    "readingSource" : "automatic",
+    "readings" : [
+      "にゃんこかーとp"
+    ],
+    "searchText" : "にゃんこかーとp"
+  },
+  "にゃんこバーガーセット" : {
+    "normalizedName" : "にゃんこばーがーせっと",
+    "original" : "にゃんこバーガーセット",
+    "readingSource" : "automatic",
+    "readings" : [
+      "にゃんこばーがーせっと"
+    ],
+    "searchText" : "にゃんこばーがーせっと"
+  },
+  "にゃんこ化癒術士" : {
+    "normalizedName" : "にゃんこ化癒術士",
+    "original" : "にゃんこ化癒術士",
+    "readingSource" : "automatic",
+    "readings" : [
+      "にゃんこかいえじゅつし"
+    ],
+    "searchText" : "にゃんこ化癒術士 にゃんこかいえじゅつし"
+  },
+  "にゃんこ囚人" : {
+    "normalizedName" : "にゃんこ囚人",
+    "original" : "にゃんこ囚人",
+    "readingSource" : "automatic",
+    "readings" : [
+      "にゃんこしゅうじん"
+    ],
+    "searchText" : "にゃんこ囚人 にゃんこしゅうじん"
+  },
+  "にゃんこ村のネコ" : {
+    "normalizedName" : "にゃんこ村のねこ",
+    "original" : "にゃんこ村のネコ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "にゃんこむらのねこ"
+    ],
+    "searchText" : "にゃんこ村のねこ にゃんこむらのねこ"
+  },
+  "にょろ" : {
+    "normalizedName" : "にょろ",
+    "original" : "にょろ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "にょろ"
+    ],
+    "searchText" : "にょろ"
+  },
+  "にょろろん" : {
+    "normalizedName" : "にょろろん",
+    "original" : "にょろろん",
+    "readingSource" : "automatic",
+    "readings" : [
+      "にょろろん"
+    ],
+    "searchText" : "にょろろん"
+  },
+  "ねこななふん" : {
+    "normalizedName" : "ねこななふん",
+    "original" : "ねこななふん",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ねこななふん"
+    ],
+    "searchText" : "ねこななふん"
+  },
+  "はぐれたヤツ" : {
+    "normalizedName" : "はぐれたやつ",
+    "original" : "はぐれたヤツ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "はぐれたやつ"
+    ],
+    "searchText" : "はぐれたやつ"
+  },
+  "はぐれケモルル" : {
+    "normalizedName" : "はぐれけもるる",
+    "original" : "はぐれケモルル",
+    "readingSource" : "automatic",
+    "readings" : [
+      "はぐれけもるる"
+    ],
+    "searchText" : "はぐれけもるる"
+  },
+  "ふくろう博士" : {
+    "normalizedName" : "ふくろう博士",
+    "original" : "ふくろう博士",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ふくろうはかせ"
+    ],
+    "searchText" : "ふくろう博士 ふくろうはかせ"
+  },
+  "ぶんぶん先生" : {
+    "normalizedName" : "ぶんぶん先生",
+    "original" : "ぶんぶん先生",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ぶんぶんせんせい"
+    ],
+    "searchText" : "ぶんぶん先生 ぶんぶんせんせい"
+  },
+  "ぺ仙人" : {
+    "normalizedName" : "ぺ仙人",
+    "original" : "ぺ仙人",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ぺせんにん"
+    ],
+    "searchText" : "ぺ仙人 ぺせんにん"
+  },
+  "ぼったくラッコ" : {
+    "normalizedName" : "ぼったくらっこ",
+    "original" : "ぼったくラッコ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ぼったくらっこ"
+    ],
+    "searchText" : "ぼったくらっこ"
+  },
+  "まゆげどり" : {
+    "normalizedName" : "まゆげどり",
+    "original" : "まゆげどり",
+    "readingSource" : "automatic",
+    "readings" : [
+      "まゆげどり"
+    ],
+    "searchText" : "まゆげどり"
+  },
+  "まゆげ伯爵" : {
+    "normalizedName" : "まゆげ伯爵",
+    "original" : "まゆげ伯爵",
+    "readingSource" : "automatic",
+    "readings" : [
+      "まゆげはくしゃく"
+    ],
+    "searchText" : "まゆげ伯爵 まゆげはくしゃく"
+  },
+  "やぐらわんこ" : {
+    "normalizedName" : "やぐらわんこ",
+    "original" : "やぐらわんこ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "やぐらわんこ"
+    ],
+    "searchText" : "やぐらわんこ"
+  },
+  "よいち" : {
+    "normalizedName" : "よいち",
+    "original" : "よいち",
+    "readingSource" : "automatic",
+    "readings" : [
+      "よいち"
+    ],
+    "searchText" : "よいち"
+  },
+  "よっちゃん" : {
+    "normalizedName" : "よっちゃん",
+    "original" : "よっちゃん",
+    "readingSource" : "automatic",
+    "readings" : [
+      "よっちゃん"
+    ],
+    "searchText" : "よっちゃん"
+  },
+  "わんこ" : {
+    "normalizedName" : "わんこ",
+    "original" : "わんこ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "わんこ"
+    ],
+    "searchText" : "わんこ"
+  },
+  "わんこずきんミーニャ" : {
+    "normalizedName" : "わんこずきんみーにゃ",
+    "original" : "わんこずきんミーニャ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "わんこずきんみーにゃ"
+    ],
+    "searchText" : "わんこずきんみーにゃ"
+  },
+  "わんぷきん" : {
+    "normalizedName" : "わんぷきん",
+    "original" : "わんぷきん",
+    "readingSource" : "automatic",
+    "readings" : [
+      "わんぷきん"
+    ],
+    "searchText" : "わんぷきん"
+  },
+  "わんわん大王" : {
+    "normalizedName" : "わんわん大王",
+    "original" : "わんわん大王",
+    "readingSource" : "automatic",
+    "readings" : [
+      "わんわんだいおう"
+    ],
+    "searchText" : "わんわん大王 わんわんだいおう"
+  },
+  "アイスわんこ" : {
+    "normalizedName" : "あいすわんこ",
+    "original" : "アイスわんこ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "あいすわんこ"
+    ],
+    "searchText" : "あいすわんこ"
+  },
+  "アウラ" : {
+    "normalizedName" : "あうら",
+    "original" : "アウラ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "あうら"
+    ],
+    "searchText" : "あうら"
+  },
+  "アカンゾウ" : {
+    "normalizedName" : "あかんぞう",
+    "original" : "アカンゾウ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "あかんぞう"
+    ],
+    "searchText" : "あかんぞう"
+  },
+  "アシュラ" : {
+    "normalizedName" : "あしゅら",
+    "original" : "アシュラ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "あしゅら"
+    ],
+    "searchText" : "あしゅら"
+  },
+  "アックマ閣下" : {
+    "normalizedName" : "あっくま閣下",
+    "original" : "アックマ閣下",
+    "readingSource" : "automatic",
+    "readings" : [
+      "あっくまかっか"
+    ],
+    "searchText" : "あっくま閣下 あっくまかっか"
+  },
+  "アヒルンルン" : {
+    "normalizedName" : "あひるんるん",
+    "original" : "アヒルンルン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "あひるんるん"
+    ],
+    "searchText" : "あひるんるん"
+  },
+  "アルパッカ" : {
+    "normalizedName" : "あるぱっか",
+    "original" : "アルパッカ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "あるぱっか"
+    ],
+    "searchText" : "あるぱっか"
+  },
+  "アレン・オニール" : {
+    "normalizedName" : "あれんおにーる",
+    "original" : "アレン・オニール",
+    "readingSource" : "automatic",
+    "readings" : [
+      "あれんおにーる"
+    ],
+    "searchText" : "あれんおにーる"
+  },
+  "アロイス" : {
+    "normalizedName" : "あろいす",
+    "original" : "アロイス",
+    "readingSource" : "automatic",
+    "readings" : [
+      "あろいす"
+    ],
+    "searchText" : "あろいす"
+  },
+  "アンデッドサイクロン" : {
+    "normalizedName" : "あんでっどさいくろん",
+    "original" : "アンデッドサイクロン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "あんでっどさいくろん"
+    ],
+    "searchText" : "あんでっどさいくろん"
+  },
+  "アンドロメ・ダ長官" : {
+    "normalizedName" : "あんどろめだ長官",
+    "original" : "アンドロメ・ダ長官",
+    "readingSource" : "automatic",
+    "readings" : [
+      "あんどろめだちょうかん"
+    ],
+    "searchText" : "あんどろめだ長官 あんどろめだちょうかん"
+  },
+  "アーチャー" : {
+    "normalizedName" : "あーちゃー",
+    "original" : "アーチャー",
+    "readingSource" : "automatic",
+    "readings" : [
+      "あーちゃー"
+    ],
+    "searchText" : "あーちゃー"
+  },
+  "イカ" : {
+    "normalizedName" : "いか",
+    "original" : "イカ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "いか"
+    ],
+    "searchText" : "いか"
+  },
+  "イカ天" : {
+    "normalizedName" : "いか天",
+    "original" : "イカ天",
+    "readingSource" : "automatic",
+    "readings" : [
+      "いかてん"
+    ],
+    "searchText" : "いか天 いかてん"
+  },
+  "イチリンリン" : {
+    "normalizedName" : "いちりんりん",
+    "original" : "イチリンリン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "いちりんりん"
+    ],
+    "searchText" : "いちりんりん"
+  },
+  "イディ:Ne" : {
+    "normalizedName" : "いでぃne",
+    "original" : "イディ:Ne",
+    "readingSource" : "automatic",
+    "readings" : [
+      "いでぃne"
+    ],
+    "searchText" : "いでぃne"
+  },
+  "イディ:Re" : {
+    "normalizedName" : "いでぃre",
+    "original" : "イディ:Re",
+    "readingSource" : "automatic",
+    "readings" : [
+      "いでぃre"
+    ],
+    "searchText" : "いでぃre"
+  },
+  "イノエンジェル" : {
+    "normalizedName" : "いのえんじぇる",
+    "original" : "イノエンジェル",
+    "readingSource" : "automatic",
+    "readings" : [
+      "いのえんじぇる"
+    ],
+    "searchText" : "いのえんじぇる"
+  },
+  "イノシャシ" : {
+    "normalizedName" : "いのしゃし",
+    "original" : "イノシャシ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "いのしゃし"
+    ],
+    "searchText" : "いのしゃし"
+  },
+  "イノワール" : {
+    "normalizedName" : "いのわーる",
+    "original" : "イノワール",
+    "readingSource" : "automatic",
+    "readings" : [
+      "いのわーる"
+    ],
+    "searchText" : "いのわーる"
+  },
+  "イノヴァルカン" : {
+    "normalizedName" : "いのゔぁるかん",
+    "original" : "イノヴァルカン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "いのゔぁるかん"
+    ],
+    "searchText" : "いのゔぁるかん"
+  },
+  "イリヤスフィール" : {
+    "normalizedName" : "いりやすふぃーる",
+    "original" : "イリヤスフィール",
+    "readingSource" : "automatic",
+    "readings" : [
+      "いりやすふぃーる"
+    ],
+    "searchText" : "いりやすふぃーる"
+  },
+  "イルカ娘" : {
+    "normalizedName" : "いるか娘",
+    "original" : "イルカ娘",
+    "readingSource" : "automatic",
+    "readings" : [
+      "いるかむすめ"
+    ],
+    "searchText" : "いるか娘 いるかむすめ"
+  },
+  "イワシ" : {
+    "normalizedName" : "いわし",
+    "original" : "イワシ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "いわし"
+    ],
+    "searchText" : "いわし"
+  },
+  "インキュベーター" : {
+    "normalizedName" : "いんきゅべーたー",
+    "original" : "インキュベーター",
+    "readingSource" : "automatic",
+    "readings" : [
+      "いんきゅべーたー"
+    ],
+    "searchText" : "いんきゅべーたー"
+  },
+  "インキーわんこ" : {
+    "normalizedName" : "いんきーわんこ",
+    "original" : "インキーわんこ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "いんきーわんこ"
+    ],
+    "searchText" : "いんきーわんこ"
+  },
+  "イングリッス" : {
+    "normalizedName" : "いんぐりっす",
+    "original" : "イングリッス",
+    "readingSource" : "automatic",
+    "readings" : [
+      "いんぐりっす"
+    ],
+    "searchText" : "いんぐりっす"
+  },
+  "インフェルにょろ" : {
+    "normalizedName" : "いんふぇるにょろ",
+    "original" : "インフェルにょろ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "いんふぇるにょろ"
+    ],
+    "searchText" : "いんふぇるにょろ"
+  },
+  "イースターウサ銀" : {
+    "normalizedName" : "いーすたーうさ銀",
+    "original" : "イースターウサ銀",
+    "readingSource" : "automatic",
+    "readings" : [
+      "いーすたーうさぎん"
+    ],
+    "searchText" : "いーすたーうさ銀 いーすたーうさぎん"
+  },
+  "イースタールンルン" : {
+    "normalizedName" : "いーすたーるんるん",
+    "original" : "イースタールンルン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "いーすたーるんるん"
+    ],
+    "searchText" : "いーすたーるんるん"
+  },
+  "ウィスキングマイスター" : {
+    "normalizedName" : "うぃすきんぐまいすたー",
+    "original" : "ウィスキングマイスター",
+    "readingSource" : "automatic",
+    "readings" : [
+      "うぃすきんぐまいすたー"
+    ],
+    "searchText" : "うぃすきんぐまいすたー"
+  },
+  "ウサ銀" : {
+    "normalizedName" : "うさ銀",
+    "original" : "ウサ銀",
+    "readingSource" : "automatic",
+    "readings" : [
+      "うさぎん"
+    ],
+    "searchText" : "うさ銀 うさぎん"
+  },
+  "ウリボーイ" : {
+    "normalizedName" : "うりぼーい",
+    "original" : "ウリボーイ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "うりぼーい"
+    ],
+    "searchText" : "うりぼーい"
+  },
+  "ウルトラメェメェ" : {
+    "normalizedName" : "うるとらめぇめぇ",
+    "original" : "ウルトラメェメェ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "うるとらめぇめぇ"
+    ],
+    "searchText" : "うるとらめぇめぇ"
+  },
+  "ウルフとウルルン" : {
+    "normalizedName" : "うるふとうるるん",
+    "original" : "ウルフとウルルン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "うるふとうるるん"
+    ],
+    "searchText" : "うるふとうるるん"
+  },
+  "エイリワン" : {
+    "normalizedName" : "えいりわん",
+    "original" : "エイリワン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "えいりわん"
+    ],
+    "searchText" : "えいりわん"
+  },
+  "エドモンド本田" : {
+    "normalizedName" : "えどもんど本田",
+    "original" : "エドモンド本田",
+    "readingSource" : "automatic",
+    "readings" : [
+      "えどもんどほんだ"
+    ],
+    "searchText" : "えどもんど本田 えどもんどほんだ"
+  },
+  "エリザベス2世" : {
+    "normalizedName" : "えりざべす2世",
+    "original" : "エリザベス2世",
+    "readingSource" : "automatic",
+    "readings" : [
+      "えりざべす2せい"
+    ],
+    "searchText" : "えりざべす2世 えりざべす2せい"
+  },
+  "エリザベス56世" : {
+    "normalizedName" : "えりざべす56世",
+    "original" : "エリザベス56世",
+    "readingSource" : "automatic",
+    "readings" : [
+      "えりざべす56せい"
+    ],
+    "searchText" : "えりざべす56世 えりざべす56せい"
+  },
+  "エリートエイリワン" : {
+    "normalizedName" : "えりーとえいりわん",
+    "original" : "エリートエイリワン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "えりーとえいりわん"
+    ],
+    "searchText" : "えりーとえいりわん"
+  },
+  "エンシェントサイクロン" : {
+    "normalizedName" : "えんしぇんとさいくろん",
+    "original" : "エンシェントサイクロン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "えんしぇんとさいくろん"
+    ],
+    "searchText" : "えんしぇんとさいくろん"
+  },
+  "エンジェルサイクロン" : {
+    "normalizedName" : "えんじぇるさいくろん",
+    "original" : "エンジェルサイクロン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "えんじぇるさいくろん"
+    ],
+    "searchText" : "えんじぇるさいくろん"
+  },
+  "エンジェ・ルース" : {
+    "normalizedName" : "えんじぇるーす",
+    "original" : "エンジェ・ルース",
+    "readingSource" : "automatic",
+    "readings" : [
+      "えんじぇるーす"
+    ],
+    "searchText" : "えんじぇるーす"
+  },
+  "エヴァ第１３号機" : {
+    "normalizedName" : "えゔぁ第13号機",
+    "original" : "エヴァ第１３号機",
+    "readingSource" : "automatic",
+    "readings" : [
+      "えゔぁだい13ごうき"
+    ],
+    "searchText" : "えゔぁ第13号機 えゔぁだい13ごうき"
+  },
+  "エヴァ第１３号機 疑似シン化" : {
+    "normalizedName" : "えゔぁ第13号機疑似しん化",
+    "original" : "エヴァ第１３号機 疑似シン化",
+    "readingSource" : "automatic",
+    "readings" : [
+      "えゔぁだい13ごうきぎじしんか"
+    ],
+    "searchText" : "えゔぁ第13号機疑似しん化 えゔぁだい13ごうきぎじしんか"
+  },
+  "エヴァ量産機" : {
+    "normalizedName" : "えゔぁ量産機",
+    "original" : "エヴァ量産機",
+    "readingSource" : "automatic",
+    "readings" : [
+      "えゔぁりょうさんき"
+    ],
+    "searchText" : "えゔぁ量産機 えゔぁりょうさんき"
+  },
+  "オオさん" : {
+    "normalizedName" : "おおさん",
+    "original" : "オオさん",
+    "readingSource" : "automatic",
+    "readings" : [
+      "おおさん"
+    ],
+    "searchText" : "おおさん"
+  },
+  "オオウサ銀" : {
+    "normalizedName" : "おおうさ銀",
+    "original" : "オオウサ銀",
+    "readingSource" : "automatic",
+    "readings" : [
+      "おおうさぎん"
+    ],
+    "searchText" : "おおうさ銀 おおうさぎん"
+  },
+  "オルガ" : {
+    "normalizedName" : "おるが",
+    "original" : "オルガ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "おるが"
+    ],
+    "searchText" : "おるが"
+  },
+  "オルトス" : {
+    "normalizedName" : "おるとす",
+    "original" : "オルトス",
+    "readingSource" : "automatic",
+    "readings" : [
+      "おるとす"
+    ],
+    "searchText" : "おるとす"
+  },
+  "オーメンズ" : {
+    "normalizedName" : "おーめんず",
+    "original" : "オーメンズ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "おーめんず"
+    ],
+    "searchText" : "おーめんず"
+  },
+  "オールドリー" : {
+    "normalizedName" : "おーるどりー",
+    "original" : "オールドリー",
+    "readingSource" : "automatic",
+    "readings" : [
+      "おーるどりー"
+    ],
+    "searchText" : "おーるどりー"
+  },
+  "カオル君" : {
+    "normalizedName" : "かおる君",
+    "original" : "カオル君",
+    "readingSource" : "custom",
+    "readings" : [
+      "かおるくん"
+    ],
+    "searchText" : "かおる君 かおるくん"
+  },
+  "カオ男爵" : {
+    "normalizedName" : "かお男爵",
+    "original" : "カオ男爵",
+    "readingSource" : "automatic",
+    "readings" : [
+      "かおだんしゃく"
+    ],
+    "searchText" : "かお男爵 かおだんしゃく"
+  },
+  "カノとソウマ" : {
+    "normalizedName" : "かのとそうま",
+    "original" : "カノとソウマ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "かのとそうま"
+    ],
+    "searchText" : "かのとそうま"
+  },
+  "カバちゃん" : {
+    "normalizedName" : "かばちゃん",
+    "original" : "カバちゃん",
+    "readingSource" : "automatic",
+    "readings" : [
+      "かばちゃん"
+    ],
+    "searchText" : "かばちゃん"
+  },
+  "カバタリアン" : {
+    "normalizedName" : "かばたりあん",
+    "original" : "カバタリアン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "かばたりあん"
+    ],
+    "searchText" : "かばたりあん"
+  },
+  "カベわんこ" : {
+    "normalizedName" : "かべわんこ",
+    "original" : "カベわんこ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "かべわんこ"
+    ],
+    "searchText" : "かべわんこ"
+  },
+  "カルピンチョ" : {
+    "normalizedName" : "かるぴんちょ",
+    "original" : "カルピンチョ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "かるぴんちょ"
+    ],
+    "searchText" : "かるぴんちょ"
+  },
+  "カヲルさん" : {
+    "normalizedName" : "かをるさん",
+    "original" : "カヲルさん",
+    "readingSource" : "automatic",
+    "readings" : [
+      "かをるさん"
+    ],
+    "searchText" : "かをるさん"
+  },
+  "カンバン娘" : {
+    "normalizedName" : "かんばん娘",
+    "original" : "カンバン娘",
+    "readingSource" : "automatic",
+    "readings" : [
+      "かんばんむすめ"
+    ],
+    "searchText" : "かんばん娘 かんばんむすめ"
+  },
+  "カ・ンガリュ" : {
+    "normalizedName" : "かんがりゅ",
+    "original" : "カ・ンガリュ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "かんがりゅ"
+    ],
+    "searchText" : "かんがりゅ"
+  },
+  "カーバチャン" : {
+    "normalizedName" : "かーばちゃん",
+    "original" : "カーバチャン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "かーばちゃん"
+    ],
+    "searchText" : "かーばちゃん"
+  },
+  "ガイル" : {
+    "normalizedName" : "がいる",
+    "original" : "ガイル",
+    "readingSource" : "automatic",
+    "readings" : [
+      "がいる"
+    ],
+    "searchText" : "がいる"
+  },
+  "ガガガガ" : {
+    "normalizedName" : "がががが",
+    "original" : "ガガガガ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "がががが"
+    ],
+    "searchText" : "がががが"
+  },
+  "ガリゴリくん" : {
+    "normalizedName" : "がりごりくん",
+    "original" : "ガリゴリくん",
+    "readingSource" : "automatic",
+    "readings" : [
+      "がりごりくん"
+    ],
+    "searchText" : "がりごりくん"
+  },
+  "キスヨリ・ス・ゴイ" : {
+    "normalizedName" : "きすよりすごい",
+    "original" : "キスヨリ・ス・ゴイ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "きすよりすごい"
+    ],
+    "searchText" : "きすよりすごい"
+  },
+  "キャプテン・モグー" : {
+    "normalizedName" : "きゃぷてんもぐー",
+    "original" : "キャプテン・モグー",
+    "readingSource" : "automatic",
+    "readings" : [
+      "きゃぷてんもぐー"
+    ],
+    "searchText" : "きゃぷてんもぐー"
+  },
+  "キャベロン" : {
+    "normalizedName" : "きゃべろん",
+    "original" : "キャベロン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "きゃべろん"
+    ],
+    "searchText" : "きゃべろん"
+  },
+  "キャミィ" : {
+    "normalizedName" : "きゃみぃ",
+    "original" : "キャミィ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "きゃみぃ"
+    ],
+    "searchText" : "きゃみぃ"
+  },
+  "キュゥべえ" : {
+    "normalizedName" : "きゅぅべえ",
+    "original" : "キュゥべえ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "きゅぅべえ"
+    ],
+    "searchText" : "きゅぅべえ"
+  },
+  "キョセーヌ" : {
+    "normalizedName" : "きょせーぬ",
+    "original" : "キョセーヌ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "きょせーぬ"
+    ],
+    "searchText" : "きょせーぬ"
+  },
+  "ギガガガ" : {
+    "normalizedName" : "ぎががが",
+    "original" : "ギガガガ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ぎががが"
+    ],
+    "searchText" : "ぎががが"
+  },
+  "ギャラクシーニャンダム" : {
+    "normalizedName" : "ぎゃらくしーにゃんだむ",
+    "original" : "ギャラクシーニャンダム",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ぎゃらくしーにゃんだむ"
+    ],
+    "searchText" : "ぎゃらくしーにゃんだむ"
+  },
+  "ギルガメッシュ" : {
+    "normalizedName" : "ぎるがめっしゅ",
+    "original" : "ギルガメッシュ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ぎるがめっしゅ"
+    ],
+    "searchText" : "ぎるがめっしゅ"
+  },
+  "ギルティ・ペン" : {
+    "normalizedName" : "ぎるてぃぺん",
+    "original" : "ギルティ・ペン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ぎるてぃぺん"
+    ],
+    "searchText" : "ぎるてぃぺん"
+  },
+  "クオリネス卿" : {
+    "normalizedName" : "くおりねす卿",
+    "original" : "クオリネス卿",
+    "readingSource" : "automatic",
+    "readings" : [
+      "くおりねすきょう"
+    ],
+    "searchText" : "くおりねす卿 くおりねすきょう"
+  },
+  "クマトーク" : {
+    "normalizedName" : "くまとーく",
+    "original" : "クマトーク",
+    "readingSource" : "automatic",
+    "readings" : [
+      "くまとーく"
+    ],
+    "searchText" : "くまとーく"
+  },
+  "クマンケン" : {
+    "normalizedName" : "くまんけん",
+    "original" : "クマンケン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "くまんけん"
+    ],
+    "searchText" : "くまんけん"
+  },
+  "クマンチュー" : {
+    "normalizedName" : "くまんちゅー",
+    "original" : "クマンチュー",
+    "readingSource" : "automatic",
+    "readings" : [
+      "くまんちゅー"
+    ],
+    "searchText" : "くまんちゅー"
+  },
+  "クマ先生" : {
+    "normalizedName" : "くま先生",
+    "original" : "クマ先生",
+    "readingSource" : "automatic",
+    "readings" : [
+      "くませんせい"
+    ],
+    "searchText" : "くま先生 くませんせい"
+  },
+  "クライドゴリさん" : {
+    "normalizedName" : "くらいどごりさん",
+    "original" : "クライドゴリさん",
+    "readingSource" : "automatic",
+    "readings" : [
+      "くらいどごりさん"
+    ],
+    "searchText" : "くらいどごりさん"
+  },
+  "クロサワ監督" : {
+    "normalizedName" : "くろさわ監督",
+    "original" : "クロサワ監督",
+    "readingSource" : "automatic",
+    "readings" : [
+      "くろさわかんとく"
+    ],
+    "searchText" : "くろさわ監督 くろさわかんとく"
+  },
+  "クロマジロ" : {
+    "normalizedName" : "くろまじろ",
+    "original" : "クロマジロ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "くろまじろ"
+    ],
+    "searchText" : "くろまじろ"
+  },
+  "グミネコ" : {
+    "normalizedName" : "ぐみねこ",
+    "original" : "グミネコ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ぐみねこ"
+    ],
+    "searchText" : "ぐみねこ"
+  },
+  "グレゴリー将軍" : {
+    "normalizedName" : "ぐれごりー将軍",
+    "original" : "グレゴリー将軍",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ぐれごりーしょうぐん"
+    ],
+    "searchText" : "ぐれごりー将軍 ぐれごりーしょうぐん"
+  },
+  "ケルベローズ" : {
+    "normalizedName" : "けるべろーず",
+    "original" : "ケルベローズ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "けるべろーず"
+    ],
+    "searchText" : "けるべろーず"
+  },
+  "ケロ助" : {
+    "normalizedName" : "けろ助",
+    "original" : "ケロ助",
+    "readingSource" : "automatic",
+    "readings" : [
+      "けろじょ"
+    ],
+    "searchText" : "けろ助 けろじょ"
+  },
+  "ケン" : {
+    "normalizedName" : "けん",
+    "original" : "ケン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "けん"
+    ],
+    "searchText" : "けん"
+  },
+  "ケーキわんこ" : {
+    "normalizedName" : "けーきわんこ",
+    "original" : "ケーキわんこ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "けーきわんこ"
+    ],
+    "searchText" : "けーきわんこ"
+  },
+  "ゲコック" : {
+    "normalizedName" : "げこっく",
+    "original" : "ゲコック",
+    "readingSource" : "automatic",
+    "readings" : [
+      "げこっく"
+    ],
+    "searchText" : "げこっく"
+  },
+  "コアラッキョ" : {
+    "normalizedName" : "こあらっきょ",
+    "original" : "コアラッキョ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "こあらっきょ"
+    ],
+    "searchText" : "こあらっきょ"
+  },
+  "コニャンダム" : {
+    "normalizedName" : "こにゃんだむ",
+    "original" : "コニャンダム",
+    "readingSource" : "automatic",
+    "readings" : [
+      "こにゃんだむ"
+    ],
+    "searchText" : "こにゃんだむ"
+  },
+  "コライノくん" : {
+    "normalizedName" : "こらいのくん",
+    "original" : "コライノくん",
+    "readingSource" : "automatic",
+    "readings" : [
+      "こらいのくん"
+    ],
+    "searchText" : "こらいのくん"
+  },
+  "コワラッキョ夫人" : {
+    "normalizedName" : "こわらっきょ夫人",
+    "original" : "コワラッキョ夫人",
+    "readingSource" : "automatic",
+    "readings" : [
+      "こわらっきょふじん"
+    ],
+    "searchText" : "こわらっきょ夫人 こわらっきょふじん"
+  },
+  "コーネリア" : {
+    "normalizedName" : "こーねりあ",
+    "original" : "コーネリア",
+    "readingSource" : "automatic",
+    "readings" : [
+      "こーねりあ"
+    ],
+    "searchText" : "こーねりあ"
+  },
+  "コールセンターのＯＬ" : {
+    "normalizedName" : "こーるせんたーのol",
+    "original" : "コールセンターのＯＬ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "こーるせんたーのol"
+    ],
+    "searchText" : "こーるせんたーのol"
+  },
+  "ゴマさま" : {
+    "normalizedName" : "ごまさま",
+    "original" : "ゴマさま",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ごまさま"
+    ],
+    "searchText" : "ごまさま"
+  },
+  "ゴマサーマン" : {
+    "normalizedName" : "ごまさーまん",
+    "original" : "ゴマサーマン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ごまさーまん"
+    ],
+    "searchText" : "ごまさーまん"
+  },
+  "ゴリさん" : {
+    "normalizedName" : "ごりさん",
+    "original" : "ゴリさん",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ごりさん"
+    ],
+    "searchText" : "ごりさん"
+  },
+  "ゴリ・ンジュ" : {
+    "normalizedName" : "ごりんじゅ",
+    "original" : "ゴリ・ンジュ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ごりんじゅ"
+    ],
+    "searchText" : "ごりんじゅ"
+  },
+  "ゴリ婿" : {
+    "normalizedName" : "ごり婿",
+    "original" : "ゴリ婿",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ごりむこ"
+    ],
+    "searchText" : "ごり婿 ごりむこ"
+  },
+  "ゴリ男氏" : {
+    "normalizedName" : "ごり男氏",
+    "original" : "ゴリ男氏",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ごりおとこし"
+    ],
+    "searchText" : "ごり男氏 ごりおとこし"
+  },
+  "ゴーストにょろ" : {
+    "normalizedName" : "ごーすとにょろ",
+    "original" : "ゴーストにょろ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ごーすとにょろ"
+    ],
+    "searchText" : "ごーすとにょろ"
+  },
+  "ゴーストわんこ" : {
+    "normalizedName" : "ごーすとわんこ",
+    "original" : "ゴーストわんこ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ごーすとわんこ"
+    ],
+    "searchText" : "ごーすとわんこ"
+  },
+  "ゴーストメェメェ" : {
+    "normalizedName" : "ごーすとめぇめぇ",
+    "original" : "ゴーストメェメェ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ごーすとめぇめぇ"
+    ],
+    "searchText" : "ごーすとめぇめぇ"
+  },
+  "ゴールデンわんこ" : {
+    "normalizedName" : "ごーるでんわんこ",
+    "original" : "ゴールデンわんこ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ごーるでんわんこ"
+    ],
+    "searchText" : "ごーるでんわんこ"
+  },
+  "ゴーレム" : {
+    "normalizedName" : "ごーれむ",
+    "original" : "ゴーレム",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ごーれむ"
+    ],
+    "searchText" : "ごーれむ"
+  },
+  "サイクロプス" : {
+    "normalizedName" : "さいくろぷす",
+    "original" : "サイクロプス",
+    "readingSource" : "automatic",
+    "readings" : [
+      "さいくろぷす"
+    ],
+    "searchText" : "さいくろぷす"
+  },
+  "サイバーX" : {
+    "normalizedName" : "さいばーx",
+    "original" : "サイバーX",
+    "readingSource" : "automatic",
+    "readings" : [
+      "さいばーx"
+    ],
+    "searchText" : "さいばーx"
+  },
+  "サイバープリティキャット" : {
+    "normalizedName" : "さいばーぷりてぃきゃっと",
+    "original" : "サイバープリティキャット",
+    "readingSource" : "automatic",
+    "readings" : [
+      "さいばーぷりてぃきゃっと"
+    ],
+    "searchText" : "さいばーぷりてぃきゃっと"
+  },
+  "サガット" : {
+    "normalizedName" : "さがっと",
+    "original" : "サガット",
+    "readingSource" : "automatic",
+    "readings" : [
+      "さがっと"
+    ],
+    "searchText" : "さがっと"
+  },
+  "サタンカーメン8号" : {
+    "normalizedName" : "さたんかーめん8号",
+    "original" : "サタンカーメン8号",
+    "readingSource" : "automatic",
+    "readings" : [
+      "さたんかーめん8ごう"
+    ],
+    "searchText" : "さたんかーめん8号 さたんかーめん8ごう"
+  },
+  "サタンクロース" : {
+    "normalizedName" : "さたんくろーす",
+    "original" : "サタンクロース",
+    "readingSource" : "automatic",
+    "readings" : [
+      "さたんくろーす"
+    ],
+    "searchText" : "さたんくろーす"
+  },
+  "サタンマリア" : {
+    "normalizedName" : "さたんまりあ",
+    "original" : "サタンマリア",
+    "readingSource" : "automatic",
+    "readings" : [
+      "さたんまりあ"
+    ],
+    "searchText" : "さたんまりあ"
+  },
+  "サホリ" : {
+    "normalizedName" : "さほり",
+    "original" : "サホリ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "さほり"
+    ],
+    "searchText" : "さほり"
+  },
+  "ザンギエフ" : {
+    "normalizedName" : "ざんぎえふ",
+    "original" : "ザンギエフ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ざんぎえふ"
+    ],
+    "searchText" : "ざんぎえふ"
+  },
+  "シスターデビル" : {
+    "normalizedName" : "しすたーでびる",
+    "original" : "シスターデビル",
+    "readingSource" : "automatic",
+    "readings" : [
+      "しすたーでびる"
+    ],
+    "searchText" : "しすたーでびる"
+  },
+  "シノシシ" : {
+    "normalizedName" : "しのしし",
+    "original" : "シノシシ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "しのしし"
+    ],
+    "searchText" : "しのしし"
+  },
+  "シャチコ" : {
+    "normalizedName" : "しゃちこ",
+    "original" : "シャチコ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "しゃちこ"
+    ],
+    "searchText" : "しゃちこ"
+  },
+  "シャドウ" : {
+    "normalizedName" : "しゃどう",
+    "original" : "シャドウ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "しゃどう"
+    ],
+    "searchText" : "しゃどう"
+  },
+  "シャドウボクサー" : {
+    "normalizedName" : "しゃどうぼくさー",
+    "original" : "シャドウボクサー",
+    "readingSource" : "automatic",
+    "readings" : [
+      "しゃどうぼくさー"
+    ],
+    "searchText" : "しゃどうぼくさー"
+  },
+  "シャーマンカーン" : {
+    "normalizedName" : "しゃーまんかーん",
+    "original" : "シャーマンカーン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "しゃーまんかーん"
+    ],
+    "searchText" : "しゃーまんかーん"
+  },
+  "ジャイアント黒蔵" : {
+    "normalizedName" : "じゃいあんと黒蔵",
+    "original" : "ジャイアント黒蔵",
+    "readingSource" : "automatic",
+    "readings" : [
+      "じゃいあんとくろくら"
+    ],
+    "searchText" : "じゃいあんと黒蔵 じゃいあんとくろくら"
+  },
+  "ジャッキー・ペン" : {
+    "normalizedName" : "じゃっきーぺん",
+    "original" : "ジャッキー・ペン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "じゃっきーぺん"
+    ],
+    "searchText" : "じゃっきーぺん"
+  },
+  "ジャッキー・ペンZ" : {
+    "normalizedName" : "じゃっきーぺんz",
+    "original" : "ジャッキー・ペンZ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "じゃっきーぺんz"
+    ],
+    "searchText" : "じゃっきーぺんz"
+  },
+  "ジャック・ハンマー" : {
+    "normalizedName" : "じゃっくはんまー",
+    "original" : "ジャック・ハンマー",
+    "readingSource" : "automatic",
+    "readings" : [
+      "じゃっくはんまー"
+    ],
+    "searchText" : "じゃっくはんまー"
+  },
+  "ジャンボーグ鈴木" : {
+    "normalizedName" : "じゃんぼーぐ鈴木",
+    "original" : "ジャンボーグ鈴木",
+    "readingSource" : "automatic",
+    "readings" : [
+      "じゃんぼーぐすずき"
+    ],
+    "searchText" : "じゃんぼーぐ鈴木 じゃんぼーぐすずき"
+  },
+  "ジュピターキング" : {
+    "normalizedName" : "じゅぴたーきんぐ",
+    "original" : "ジュピターキング",
+    "readingSource" : "automatic",
+    "readings" : [
+      "じゅぴたーきんぐ"
+    ],
+    "searchText" : "じゅぴたーきんぐ"
+  },
+  "ジュリ" : {
+    "normalizedName" : "じゅり",
+    "original" : "ジュリ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "じゅり"
+    ],
+    "searchText" : "じゅり"
+  },
+  "ジョン・レオン" : {
+    "normalizedName" : "じょんれおん",
+    "original" : "ジョン・レオン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "じょんれおん"
+    ],
+    "searchText" : "じょんれおん"
+  },
+  "スカルボクサー" : {
+    "normalizedName" : "すかるぼくさー",
+    "original" : "スカルボクサー",
+    "readingSource" : "automatic",
+    "readings" : [
+      "すかるぼくさー"
+    ],
+    "searchText" : "すかるぼくさー"
+  },
+  "スターフィリバスター" : {
+    "normalizedName" : "すたーふぃりばすたー",
+    "original" : "スターフィリバスター",
+    "readingSource" : "automatic",
+    "readings" : [
+      "すたーふぃりばすたー"
+    ],
+    "searchText" : "すたーふぃりばすたー"
+  },
+  "スター・ペン" : {
+    "normalizedName" : "すたーぺん",
+    "original" : "スター・ペン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "すたーぺん"
+    ],
+    "searchText" : "すたーぺん"
+  },
+  "スペースサイクロン" : {
+    "normalizedName" : "すぺーすさいくろん",
+    "original" : "スペースサイクロン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "すぺーすさいくろん"
+    ],
+    "searchText" : "すぺーすさいくろん"
+  },
+  "スペースマンボルグ" : {
+    "normalizedName" : "すぺーすまんぼるぐ",
+    "original" : "スペースマンボルグ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "すぺーすまんぼるぐ"
+    ],
+    "searchText" : "すぺーすまんぼるぐ"
+  },
+  "スリラーズ" : {
+    "normalizedName" : "すりらーず",
+    "original" : "スリラーズ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "すりらーず"
+    ],
+    "searchText" : "すりらーず"
+  },
+  "スーパースペースサイクロン" : {
+    "normalizedName" : "すーぱーすぺーすさいくろん",
+    "original" : "スーパースペースサイクロン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "すーぱーすぺーすさいくろん"
+    ],
+    "searchText" : "すーぱーすぺーすさいくろん"
+  },
+  "スーパーゼウス" : {
+    "normalizedName" : "すーぱーぜうす",
+    "original" : "スーパーゼウス",
+    "readingSource" : "automatic",
+    "readings" : [
+      "すーぱーぜうす"
+    ],
+    "searchText" : "すーぱーぜうす"
+  },
+  "スーパーデビル" : {
+    "normalizedName" : "すーぱーでびる",
+    "original" : "スーパーデビル",
+    "readingSource" : "automatic",
+    "readings" : [
+      "すーぱーでびる"
+    ],
+    "searchText" : "すーぱーでびる"
+  },
+  "セイバー" : {
+    "normalizedName" : "せいばー",
+    "original" : "セイバー",
+    "readingSource" : "automatic",
+    "readings" : [
+      "せいばー"
+    ],
+    "searchText" : "せいばー"
+  },
+  "セイバーオルタ" : {
+    "normalizedName" : "せいばーおるた",
+    "original" : "セイバーオルタ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "せいばーおるた"
+    ],
+    "searchText" : "せいばーおるた"
+  },
+  "セラム" : {
+    "normalizedName" : "せらむ",
+    "original" : "セラム",
+    "readingSource" : "automatic",
+    "readings" : [
+      "せらむ"
+    ],
+    "searchText" : "せらむ"
+  },
+  "セレス" : {
+    "normalizedName" : "せれす",
+    "original" : "セレス",
+    "readingSource" : "automatic",
+    "readings" : [
+      "せれす"
+    ],
+    "searchText" : "せれす"
+  },
+  "セレブ" : {
+    "normalizedName" : "せれぶ",
+    "original" : "セレブ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "せれぶ"
+    ],
+    "searchText" : "せれぶ"
+  },
+  "ソニック" : {
+    "normalizedName" : "そにっく",
+    "original" : "ソニック",
+    "readingSource" : "automatic",
+    "readings" : [
+      "そにっく"
+    ],
+    "searchText" : "そにっく"
+  },
+  "ソル・デ・ロカ" : {
+    "normalizedName" : "そるでろか",
+    "original" : "ソル・デ・ロカ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "そるでろか"
+    ],
+    "searchText" : "そるでろか"
+  },
+  "ゾンビワン" : {
+    "normalizedName" : "ぞんびわん",
+    "original" : "ゾンビワン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ぞんびわん"
+    ],
+    "searchText" : "ぞんびわん"
+  },
+  "タクヤ" : {
+    "normalizedName" : "たくや",
+    "original" : "タクヤ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "たくや"
+    ],
+    "searchText" : "たくや"
+  },
+  "タクヤとビューティユキ" : {
+    "normalizedName" : "たくやとびゅーてぃゆき",
+    "original" : "タクヤとビューティユキ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "たくやとびゅーてぃゆき"
+    ],
+    "searchText" : "たくやとびゅーてぃゆき"
+  },
+  "タスマニアオオガニ" : {
+    "normalizedName" : "たすまにあおおがに",
+    "original" : "タスマニアオオガニ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "たすまにあおおがに"
+    ],
+    "searchText" : "たすまにあおおがに"
+  },
+  "タッちゃん" : {
+    "normalizedName" : "たっちゃん",
+    "original" : "タッちゃん",
+    "readingSource" : "automatic",
+    "readings" : [
+      "たっちゃん"
+    ],
+    "searchText" : "たっちゃん"
+  },
+  "タッキー" : {
+    "normalizedName" : "たっきー",
+    "original" : "タッキー",
+    "readingSource" : "automatic",
+    "readings" : [
+      "たっきー"
+    ],
+    "searchText" : "たっきー"
+  },
+  "ダイコワラッキョ夫人" : {
+    "normalizedName" : "だいこわらっきょ夫人",
+    "original" : "ダイコワラッキョ夫人",
+    "readingSource" : "automatic",
+    "readings" : [
+      "だいこわらっきょふじん"
+    ],
+    "searchText" : "だいこわらっきょ夫人 だいこわらっきょふじん"
+  },
+  "ダチョウ同好会" : {
+    "normalizedName" : "だちょう同好会",
+    "original" : "ダチョウ同好会",
+    "readingSource" : "automatic",
+    "readings" : [
+      "だちょうどうこうかい"
+    ],
+    "searchText" : "だちょう同好会 だちょうどうこうかい"
+  },
+  "ダッシュ死太郎" : {
+    "normalizedName" : "だっしゅ死太郎",
+    "original" : "ダッシュ死太郎",
+    "readingSource" : "automatic",
+    "readings" : [
+      "だっしゅしたろう"
+    ],
+    "searchText" : "だっしゅ死太郎 だっしゅしたろう"
+  },
+  "ダッフンデッド" : {
+    "normalizedName" : "だっふんでっど",
+    "original" : "ダッフンデッド",
+    "readingSource" : "automatic",
+    "readings" : [
+      "だっふんでっど"
+    ],
+    "searchText" : "だっふんでっど"
+  },
+  "ダテメガネル" : {
+    "normalizedName" : "だてめがねる",
+    "original" : "ダテメガネル",
+    "readingSource" : "automatic",
+    "readings" : [
+      "だてめがねる"
+    ],
+    "searchText" : "だてめがねる"
+  },
+  "ダディ" : {
+    "normalizedName" : "だでぃ",
+    "original" : "ダディ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "だでぃ"
+    ],
+    "searchText" : "だでぃ"
+  },
+  "ダルシム" : {
+    "normalizedName" : "だるしむ",
+    "original" : "ダルシム",
+    "readingSource" : "automatic",
+    "readings" : [
+      "だるしむ"
+    ],
+    "searchText" : "だるしむ"
+  },
+  "ダ・チョー老" : {
+    "normalizedName" : "だちょー老",
+    "original" : "ダ・チョー老",
+    "readingSource" : "automatic",
+    "readings" : [
+      "だちょーろう"
+    ],
+    "searchText" : "だちょー老 だちょーろう"
+  },
+  "チキランラン" : {
+    "normalizedName" : "ちきらんらん",
+    "original" : "チキランラン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ちきらんらん"
+    ],
+    "searchText" : "ちきらんらん"
+  },
+  "チョコわんこ" : {
+    "normalizedName" : "ちょこわんこ",
+    "original" : "チョコわんこ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ちょこわんこ"
+    ],
+    "searchText" : "ちょこわんこ"
+  },
+  "チョコサプネコカプセル" : {
+    "normalizedName" : "ちょこさぷねこかぷせる",
+    "original" : "チョコサプネコカプセル",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ちょこさぷねこかぷせる"
+    ],
+    "searchText" : "ちょこさぷねこかぷせる"
+  },
+  "チワワン伯爵" : {
+    "normalizedName" : "ちわわん伯爵",
+    "original" : "チワワン伯爵",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ちわわんはくしゃく"
+    ],
+    "searchText" : "ちわわん伯爵 ちわわんはくしゃく"
+  },
+  "チンアナ５兄弟" : {
+    "normalizedName" : "ちんあな5兄弟",
+    "original" : "チンアナ５兄弟",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ちんあな5きょうだい"
+    ],
+    "searchText" : "ちんあな5兄弟 ちんあな5きょうだい"
+  },
+  "ツバサターン" : {
+    "normalizedName" : "つばさたーん",
+    "original" : "ツバサターン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "つばさたーん"
+    ],
+    "searchText" : "つばさたーん"
+  },
+  "ツバメンズ" : {
+    "normalizedName" : "つばめんず",
+    "original" : "ツバメンズ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "つばめんず"
+    ],
+    "searchText" : "つばめんず"
+  },
+  "テイルス" : {
+    "normalizedName" : "ているす",
+    "original" : "テイルス",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ているす"
+    ],
+    "searchText" : "ているす"
+  },
+  "テク・ノロ爺" : {
+    "normalizedName" : "てくのろ爺",
+    "original" : "テク・ノロ爺",
+    "readingSource" : "automatic",
+    "readings" : [
+      "てくのろじい"
+    ],
+    "searchText" : "てくのろ爺 てくのろじい"
+  },
+  "テッポー" : {
+    "normalizedName" : "てっぽー",
+    "original" : "テッポー",
+    "readingSource" : "automatic",
+    "readings" : [
+      "てっぽー"
+    ],
+    "searchText" : "てっぽー"
+  },
+  "テバムラサキホネツバメ" : {
+    "normalizedName" : "てばむらさきほねつばめ",
+    "original" : "テバムラサキホネツバメ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "てばむらさきほねつばめ"
+    ],
+    "searchText" : "てばむらさきほねつばめ"
+  },
+  "デカメガネル" : {
+    "normalizedName" : "でかめがねる",
+    "original" : "デカメガネル",
+    "readingSource" : "automatic",
+    "readings" : [
+      "でかめがねる"
+    ],
+    "searchText" : "でかめがねる"
+  },
+  "デスコアラッキョ" : {
+    "normalizedName" : "ですこあらっきょ",
+    "original" : "デスコアラッキョ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ですこあらっきょ"
+    ],
+    "searchText" : "ですこあらっきょ"
+  },
+  "デッカーバチャン" : {
+    "normalizedName" : "でっかーばちゃん",
+    "original" : "デッカーバチャン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "でっかーばちゃん"
+    ],
+    "searchText" : "でっかーばちゃん"
+  },
+  "デビルカツヤ" : {
+    "normalizedName" : "でびるかつや",
+    "original" : "デビルカツヤ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "でびるかつや"
+    ],
+    "searchText" : "でびるかつや"
+  },
+  "デビルサイクロン" : {
+    "normalizedName" : "でびるさいくろん",
+    "original" : "デビルサイクロン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "でびるさいくろん"
+    ],
+    "searchText" : "でびるさいくろん"
+  },
+  "デビルワン" : {
+    "normalizedName" : "でびるわん",
+    "original" : "デビルワン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "でびるわん"
+    ],
+    "searchText" : "でびるわん"
+  },
+  "デヴィル夫人" : {
+    "normalizedName" : "でゔぃる夫人",
+    "original" : "デヴィル夫人",
+    "readingSource" : "automatic",
+    "readings" : [
+      "でゔぃるふじん"
+    ],
+    "searchText" : "でゔぃる夫人 でゔぃるふじん"
+  },
+  "トリニティ" : {
+    "normalizedName" : "とりにてぃ",
+    "original" : "トリニティ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "とりにてぃ"
+    ],
+    "searchText" : "とりにてぃ"
+  },
+  "トロリンチョ" : {
+    "normalizedName" : "とろりんちょ",
+    "original" : "トロリンチョ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "とろりんちょ"
+    ],
+    "searchText" : "とろりんちょ"
+  },
+  "トンシー" : {
+    "normalizedName" : "とんしー",
+    "original" : "トンシー",
+    "readingSource" : "automatic",
+    "readings" : [
+      "とんしー"
+    ],
+    "searchText" : "とんしー"
+  },
+  "ドクターK.O." : {
+    "normalizedName" : "どくたーko",
+    "original" : "ドクターK.O.",
+    "readingSource" : "automatic",
+    "readings" : [
+      "どくたーko"
+    ],
+    "searchText" : "どくたーko"
+  },
+  "ドバット" : {
+    "normalizedName" : "どばっと",
+    "original" : "ドバット",
+    "readingSource" : "automatic",
+    "readings" : [
+      "どばっと"
+    ],
+    "searchText" : "どばっと"
+  },
+  "ドラゴンライダー" : {
+    "normalizedName" : "どらごんらいだー",
+    "original" : "ドラゴンライダー",
+    "readingSource" : "automatic",
+    "readings" : [
+      "どらごんらいだー"
+    ],
+    "searchText" : "どらごんらいだー"
+  },
+  "ドリュウ" : {
+    "normalizedName" : "どりゅう",
+    "original" : "ドリュウ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "どりゅう"
+    ],
+    "searchText" : "どりゅう"
+  },
+  "ドレミちゃん" : {
+    "normalizedName" : "どれみちゃん",
+    "original" : "ドレミちゃん",
+    "readingSource" : "automatic",
+    "readings" : [
+      "どれみちゃん"
+    ],
+    "searchText" : "どれみちゃん"
+  },
+  "ドヴェルダーク" : {
+    "normalizedName" : "どゔぇるだーく",
+    "original" : "ドヴェルダーク",
+    "readingSource" : "automatic",
+    "readings" : [
+      "どゔぇるだーく"
+    ],
+    "searchText" : "どゔぇるだーく"
+  },
+  "ド鳩・サブ・レー" : {
+    "normalizedName" : "ど鳩さぶれー",
+    "original" : "ド鳩・サブ・レー",
+    "readingSource" : "automatic",
+    "readings" : [
+      "どはとさぶれー"
+    ],
+    "searchText" : "ど鳩さぶれー どはとさぶれー"
+  },
+  "ナカイくん" : {
+    "normalizedName" : "なかいくん",
+    "original" : "ナカイくん",
+    "readingSource" : "automatic",
+    "readings" : [
+      "なかいくん"
+    ],
+    "searchText" : "なかいくん"
+  },
+  "ナカイサンタ" : {
+    "normalizedName" : "なかいさんた",
+    "original" : "ナカイサンタ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "なかいさんた"
+    ],
+    "searchText" : "なかいさんた"
+  },
+  "ナックルズ" : {
+    "normalizedName" : "なっくるず",
+    "original" : "ナックルズ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "なっくるず"
+    ],
+    "searchText" : "なっくるず"
+  },
+  "ナマルケモルル" : {
+    "normalizedName" : "なまるけもるる",
+    "original" : "ナマルケモルル",
+    "readingSource" : "automatic",
+    "readings" : [
+      "なまるけもるる"
+    ],
+    "searchText" : "なまるけもるる"
+  },
+  "ナミエちゃん" : {
+    "normalizedName" : "なみえちゃん",
+    "original" : "ナミエちゃん",
+    "readingSource" : "automatic",
+    "readings" : [
+      "なみえちゃん"
+    ],
+    "searchText" : "なみえちゃん"
+  },
+  "ニャラジン" : {
+    "normalizedName" : "にゃらじん",
+    "original" : "ニャラジン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "にゃらじん"
+    ],
+    "searchText" : "にゃらじん"
+  },
+  "ネコにぎり" : {
+    "normalizedName" : "ねこにぎり",
+    "original" : "ネコにぎり",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ねこにぎり"
+    ],
+    "searchText" : "ねこにぎり"
+  },
+  "ネコぺろきゃん" : {
+    "normalizedName" : "ねこぺろきゃん",
+    "original" : "ネコぺろきゃん",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ねこぺろきゃん"
+    ],
+    "searchText" : "ねこぺろきゃん"
+  },
+  "ネコアミーゴ" : {
+    "normalizedName" : "ねこあみーご",
+    "original" : "ネコアミーゴ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ねこあみーご"
+    ],
+    "searchText" : "ねこあみーご"
+  },
+  "ネコウエハースBIG" : {
+    "normalizedName" : "ねこうえはーすbig",
+    "original" : "ネコウエハースBIG",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ねこうえはーすbig"
+    ],
+    "searchText" : "ねこうえはーすbig"
+  },
+  "ネコエッグ３" : {
+    "normalizedName" : "ねこえっぐ3",
+    "original" : "ネコエッグ３",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ねこえっぐ3"
+    ],
+    "searchText" : "ねこえっぐ3"
+  },
+  "ネコダンサー" : {
+    "normalizedName" : "ねこだんさー",
+    "original" : "ネコダンサー",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ねこだんさー"
+    ],
+    "searchText" : "ねこだんさー"
+  },
+  "ネコティティ" : {
+    "normalizedName" : "ねこてぃてぃ",
+    "original" : "ネコティティ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ねこてぃてぃ"
+    ],
+    "searchText" : "ねこてぃてぃ"
+  },
+  "ネコパティシエ" : {
+    "normalizedName" : "ねこぱてぃしえ",
+    "original" : "ネコパティシエ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ねこぱてぃしえ"
+    ],
+    "searchText" : "ねこぱてぃしえ"
+  },
+  "ネコボーン" : {
+    "normalizedName" : "ねこぼーん",
+    "original" : "ネコボーン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ねこぼーん"
+    ],
+    "searchText" : "ねこぼーん"
+  },
+  "ネコマッチョ" : {
+    "normalizedName" : "ねこまっちょ",
+    "original" : "ネコマッチョ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ねこまっちょ"
+    ],
+    "searchText" : "ねこまっちょ"
+  },
+  "ネコンドーSP" : {
+    "normalizedName" : "ねこんどーsp",
+    "original" : "ネコンドーSP",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ねこんどーsp"
+    ],
+    "searchText" : "ねこんどーsp"
+  },
+  "ネコヴァルキリー・聖" : {
+    "normalizedName" : "ねこゔぁるきりー聖",
+    "original" : "ネコヴァルキリー・聖",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ねこゔぁるきりーきよし"
+    ],
+    "searchText" : "ねこゔぁるきりー聖 ねこゔぁるきりーきよし"
+  },
+  "ネコ仙人" : {
+    "normalizedName" : "ねこ仙人",
+    "original" : "ネコ仙人",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ねこせんにん"
+    ],
+    "searchText" : "ねこ仙人 ねこせんにん"
+  },
+  "ネコ店長＆ネコ店員" : {
+    "normalizedName" : "ねこ店長ねこ店員",
+    "original" : "ネコ店長＆ネコ店員",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ねこてんちょうねこてんいん"
+    ],
+    "searchText" : "ねこ店長ねこ店員 ねこてんちょうねこてんいん"
+  },
+  "ネコ棒倒し" : {
+    "normalizedName" : "ねこ棒倒し",
+    "original" : "ネコ棒倒し",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ねこぼうたおし"
+    ],
+    "searchText" : "ねこ棒倒し ねこぼうたおし"
+  },
+  "ネコ火祭り" : {
+    "normalizedName" : "ねこ火祭り",
+    "original" : "ネコ火祭り",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ねこひまつり"
+    ],
+    "searchText" : "ねこ火祭り ねこひまつり"
+  },
+  "ネコ神面のウララー" : {
+    "normalizedName" : "ねこ神面のうららー",
+    "original" : "ネコ神面のウララー",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ねこしんめんのうららー"
+    ],
+    "searchText" : "ねこ神面のうららー ねこしんめんのうららー"
+  },
+  "ネコ神面のウリル" : {
+    "normalizedName" : "ねこ神面のうりる",
+    "original" : "ネコ神面のウリル",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ねこしんめんのうりる"
+    ],
+    "searchText" : "ねこ神面のうりる ねこしんめんのうりる"
+  },
+  "ネコ紳士同盟" : {
+    "normalizedName" : "ねこ紳士同盟",
+    "original" : "ネコ紳士同盟",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ねこしんしどうめい"
+    ],
+    "searchText" : "ねこ紳士同盟 ねこしんしどうめい"
+  },
+  "ネコ給食当番" : {
+    "normalizedName" : "ねこ給食当番",
+    "original" : "ネコ給食当番",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ねこきゅうしょくとうばん"
+    ],
+    "searchText" : "ねこ給食当番 ねこきゅうしょくとうばん"
+  },
+  "ノノ" : {
+    "normalizedName" : "のの",
+    "original" : "ノノ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "のの"
+    ],
+    "searchText" : "のの"
+  },
+  "ノルン" : {
+    "normalizedName" : "のるん",
+    "original" : "ノルン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "のるん"
+    ],
+    "searchText" : "のるん"
+  },
+  "ハイ・エナジー" : {
+    "normalizedName" : "はいえなじー",
+    "original" : "ハイ・エナジー",
+    "readingSource" : "automatic",
+    "readings" : [
+      "はいえなじー"
+    ],
+    "searchText" : "はいえなじー"
+  },
+  "ハイ・ドゥ" : {
+    "normalizedName" : "はいどぅ",
+    "original" : "ハイ・ドゥ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "はいどぅ"
+    ],
+    "searchText" : "はいどぅ"
+  },
+  "ハコの魔女とその手下" : {
+    "normalizedName" : "はこの魔女とその手下",
+    "original" : "ハコの魔女とその手下",
+    "readingSource" : "automatic",
+    "readings" : [
+      "はこのまじょとそのてした"
+    ],
+    "searchText" : "はこの魔女とその手下 はこのまじょとそのてした"
+  },
+  "ハサミーマン" : {
+    "normalizedName" : "はさみーまん",
+    "original" : "ハサミーマン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "はさみーまん"
+    ],
+    "searchText" : "はさみーまん"
+  },
+  "ハシル君" : {
+    "normalizedName" : "はしる君",
+    "original" : "ハシル君",
+    "readingSource" : "automatic",
+    "readings" : [
+      "はしるくん"
+    ],
+    "searchText" : "はしる君 はしるくん"
+  },
+  "ハニワンワン" : {
+    "normalizedName" : "はにわんわん",
+    "original" : "ハニワンワン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "はにわんわん"
+    ],
+    "searchText" : "はにわんわん"
+  },
+  "ハハパオン" : {
+    "normalizedName" : "ははぱおん",
+    "original" : "ハハパオン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ははぱおん"
+    ],
+    "searchText" : "ははぱおん"
+  },
+  "ハマンボ崎あゆみ" : {
+    "normalizedName" : "はまんぼ崎あゆみ",
+    "original" : "ハマンボ崎あゆみ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "はまんぼさきあゆみ"
+    ],
+    "searchText" : "はまんぼ崎あゆみ はまんぼさきあゆみ"
+  },
+  "ハリケーンサイクロン" : {
+    "normalizedName" : "はりけーんさいくろん",
+    "original" : "ハリケーンサイクロン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "はりけーんさいくろん"
+    ],
+    "searchText" : "はりけーんさいくろん"
+  },
+  "ハルシュト" : {
+    "normalizedName" : "はるしゅと",
+    "original" : "ハルシュト",
+    "readingSource" : "automatic",
+    "readings" : [
+      "はるしゅと"
+    ],
+    "searchText" : "はるしゅと"
+  },
+  "バイソン" : {
+    "normalizedName" : "ばいそん",
+    "original" : "バイソン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ばいそん"
+    ],
+    "searchText" : "ばいそん"
+  },
+  "バトルクマッチョ" : {
+    "normalizedName" : "ばとるくまっちょ",
+    "original" : "バトルクマッチョ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ばとるくまっちょ"
+    ],
+    "searchText" : "ばとるくまっちょ"
+  },
+  "バトルコアラッキョ" : {
+    "normalizedName" : "ばとるこあらっきょ",
+    "original" : "バトルコアラッキョ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ばとるこあらっきょ"
+    ],
+    "searchText" : "ばとるこあらっきょ"
+  },
+  "バトルバルーン" : {
+    "normalizedName" : "ばとるばるーん",
+    "original" : "バトルバルーン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ばとるばるーん"
+    ],
+    "searchText" : "ばとるばるーん"
+  },
+  "バトルバルーンUFO" : {
+    "normalizedName" : "ばとるばるーんufo",
+    "original" : "バトルバルーンUFO",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ばとるばるーんufo"
+    ],
+    "searchText" : "ばとるばるーんufo"
+  },
+  "バルログ" : {
+    "normalizedName" : "ばるろぐ",
+    "original" : "バルログ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ばるろぐ"
+    ],
+    "searchText" : "ばるろぐ"
+  },
+  "パオン" : {
+    "normalizedName" : "ぱおん",
+    "original" : "パオン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ぱおん"
+    ],
+    "searchText" : "ぱおん"
+  },
+  "パオンモス" : {
+    "normalizedName" : "ぱおんもす",
+    "original" : "パオンモス",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ぱおんもす"
+    ],
+    "searchText" : "ぱおんもす"
+  },
+  "パラサイトブンブン" : {
+    "normalizedName" : "ぱらさいとぶんぶん",
+    "original" : "パラサイトブンブン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ぱらさいとぶんぶん"
+    ],
+    "searchText" : "ぱらさいとぶんぶん"
+  },
+  "パワハラッコ部長" : {
+    "normalizedName" : "ぱわはらっこ部長",
+    "original" : "パワハラッコ部長",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ぱわはらっこぶちょう"
+    ],
+    "searchText" : "ぱわはらっこ部長 ぱわはらっこぶちょう"
+  },
+  "ヒウマ" : {
+    "normalizedName" : "ひうま",
+    "original" : "ヒウマ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ひうま"
+    ],
+    "searchText" : "ひうま"
+  },
+  "ヒカル" : {
+    "normalizedName" : "ひかる",
+    "original" : "ヒカル",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ひかる"
+    ],
+    "searchText" : "ひかる"
+  },
+  "ヒツギイヌ" : {
+    "normalizedName" : "ひつぎいぬ",
+    "original" : "ヒツギイヌ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ひつぎいぬ"
+    ],
+    "searchText" : "ひつぎいぬ"
+  },
+  "ヒュージゴマ" : {
+    "normalizedName" : "ひゅーじごま",
+    "original" : "ヒュージゴマ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ひゅーじごま"
+    ],
+    "searchText" : "ひゅーじごま"
+  },
+  "ヒュージハーミット" : {
+    "normalizedName" : "ひゅーじはーみっと",
+    "original" : "ヒュージハーミット",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ひゅーじはーみっと"
+    ],
+    "searchText" : "ひゅーじはーみっと"
+  },
+  "ビキニグマ" : {
+    "normalizedName" : "びきにぐま",
+    "original" : "ビキニグマ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "びきにぐま"
+    ],
+    "searchText" : "びきにぐま"
+  },
+  "ビッグカオ男爵" : {
+    "normalizedName" : "びっぐかお男爵",
+    "original" : "ビッグカオ男爵",
+    "readingSource" : "automatic",
+    "readings" : [
+      "びっぐかおだんしゃく"
+    ],
+    "searchText" : "びっぐかお男爵 びっぐかおだんしゃく"
+  },
+  "ビッグペンZ" : {
+    "normalizedName" : "びっぐぺんz",
+    "original" : "ビッグペンZ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "びっぐぺんz"
+    ],
+    "searchText" : "びっぐぺんz"
+  },
+  "ピンキークマ先生" : {
+    "normalizedName" : "ぴんきーくま先生",
+    "original" : "ピンキークマ先生",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ぴんきーくませんせい"
+    ],
+    "searchText" : "ぴんきーくま先生 ぴんきーくませんせい"
+  },
+  "ファイナルギガグランド神さま" : {
+    "normalizedName" : "ふぁいなるぎがぐらんど神さま",
+    "original" : "ファイナルギガグランド神さま",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ふぁいなるぎがぐらんどかみさま"
+    ],
+    "searchText" : "ふぁいなるぎがぐらんど神さま ふぁいなるぎがぐらんどかみさま"
+  },
+  "フィッシュ・ド・ノエル" : {
+    "normalizedName" : "ふぃっしゅどのえる",
+    "original" : "フィッシュ・ド・ノエル",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ふぃっしゅどのえる"
+    ],
+    "searchText" : "ふぃっしゅどのえる"
+  },
+  "フウ" : {
+    "normalizedName" : "ふう",
+    "original" : "フウ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ふう"
+    ],
+    "searchText" : "ふう"
+  },
+  "フェンリルとウルス" : {
+    "normalizedName" : "ふぇんりるとうるす",
+    "original" : "フェンリルとウルス",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ふぇんりるとうるす"
+    ],
+    "searchText" : "ふぇんりるとうるす"
+  },
+  "フグ太くん" : {
+    "normalizedName" : "ふぐ太くん",
+    "original" : "フグ太くん",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ふぐふとくん"
+    ],
+    "searchText" : "ふぐ太くん ふぐふとくん"
+  },
+  "フルぼっこ" : {
+    "normalizedName" : "ふるぼっこ",
+    "original" : "フルぼっこ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ふるぼっこ"
+    ],
+    "searchText" : "ふるぼっこ"
+  },
+  "フレイムドラゴンライダー" : {
+    "normalizedName" : "ふれいむどらごんらいだー",
+    "original" : "フレイムドラゴンライダー",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ふれいむどらごんらいだー"
+    ],
+    "searchText" : "ふれいむどらごんらいだー"
+  },
+  "ブタヤロウ" : {
+    "normalizedName" : "ぶたやろう",
+    "original" : "ブタヤロウ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ぶたやろう"
+    ],
+    "searchText" : "ぶたやろう"
+  },
+  "ブチゴマさま" : {
+    "normalizedName" : "ぶちごまさま",
+    "original" : "ブチゴマさま",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ぶちごまさま"
+    ],
+    "searchText" : "ぶちごまさま"
+  },
+  "ブラックサイクロン" : {
+    "normalizedName" : "ぶらっくさいくろん",
+    "original" : "ブラックサイクロン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ぶらっくさいくろん"
+    ],
+    "searchText" : "ぶらっくさいくろん"
+  },
+  "ブラックブンブン" : {
+    "normalizedName" : "ぶらっくぶんぶん",
+    "original" : "ブラックブンブン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ぶらっくぶんぶん"
+    ],
+    "searchText" : "ぶらっくぶんぶん"
+  },
+  "ブラックマ" : {
+    "normalizedName" : "ぶらっくま",
+    "original" : "ブラックマ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ぶらっくま"
+    ],
+    "searchText" : "ぶらっくま"
+  },
+  "ブラッコ" : {
+    "normalizedName" : "ぶらっこ",
+    "original" : "ブラッコ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ぶらっこ"
+    ],
+    "searchText" : "ぶらっこ"
+  },
+  "ブラッゴリ" : {
+    "normalizedName" : "ぶらっごり",
+    "original" : "ブラッゴリ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ぶらっごり"
+    ],
+    "searchText" : "ぶらっごり"
+  },
+  "ブランカ" : {
+    "normalizedName" : "ぶらんか",
+    "original" : "ブランカ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ぶらんか"
+    ],
+    "searchText" : "ぶらんか"
+  },
+  "ブリンキーコアラッキョ" : {
+    "normalizedName" : "ぶりんきーこあらっきょ",
+    "original" : "ブリンキーコアラッキョ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ぶりんきーこあらっきょ"
+    ],
+    "searchText" : "ぶりんきーこあらっきょ"
+  },
+  "プドール夫人" : {
+    "normalizedName" : "ぷどーる夫人",
+    "original" : "プドール夫人",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ぷどーるふじん"
+    ],
+    "searchText" : "ぷどーる夫人 ぷどーるふじん"
+  },
+  "プリティキャット" : {
+    "normalizedName" : "ぷりてぃきゃっと",
+    "original" : "プリティキャット",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ぷりてぃきゃっと"
+    ],
+    "searchText" : "ぷりてぃきゃっと"
+  },
+  "ヘッドロココ" : {
+    "normalizedName" : "へっどろここ",
+    "original" : "ヘッドロココ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "へっどろここ"
+    ],
+    "searchText" : "へっどろここ"
+  },
+  "ヘルゴリラー" : {
+    "normalizedName" : "へるごりらー",
+    "original" : "ヘルゴリラー",
+    "readingSource" : "automatic",
+    "readings" : [
+      "へるごりらー"
+    ],
+    "searchText" : "へるごりらー"
+  },
+  "ベガ" : {
+    "normalizedName" : "べが",
+    "original" : "ベガ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "べが"
+    ],
+    "searchText" : "べが"
+  },
+  "ペリ艦長" : {
+    "normalizedName" : "ぺり艦長",
+    "original" : "ペリ艦長",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ぺりかんちょう"
+    ],
+    "searchText" : "ぺり艦長 ぺりかんちょう"
+  },
+  "ペンライトなヤツ" : {
+    "normalizedName" : "ぺんらいとなやつ",
+    "original" : "ペンライトなヤツ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ぺんらいとなやつ"
+    ],
+    "searchText" : "ぺんらいとなやつ"
+  },
+  "ペ課長" : {
+    "normalizedName" : "ぺ課長",
+    "original" : "ペ課長",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ぺかちょう"
+    ],
+    "searchText" : "ぺ課長 ぺかちょう"
+  },
+  "ホワイトサイクロン" : {
+    "normalizedName" : "ほわいとさいくろん",
+    "original" : "ホワイトサイクロン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ほわいとさいくろん"
+    ],
+    "searchText" : "ほわいとさいくろん"
+  },
+  "ボルケーノゴーレム" : {
+    "normalizedName" : "ぼるけーのごーれむ",
+    "original" : "ボルケーノゴーレム",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ぼるけーのごーれむ"
+    ],
+    "searchText" : "ぼるけーのごーれむ"
+  },
+  "マスターダッフン" : {
+    "normalizedName" : "ますたーだっふん",
+    "original" : "マスターダッフン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ますたーだっふん"
+    ],
+    "searchText" : "ますたーだっふん"
+  },
+  "マダム・ザ・サバンナ" : {
+    "normalizedName" : "まだむざさばんな",
+    "original" : "マダム・ザ・サバンナ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "まだむざさばんな"
+    ],
+    "searchText" : "まだむざさばんな"
+  },
+  "マデューさん" : {
+    "normalizedName" : "までゅーさん",
+    "original" : "マデューさん",
+    "readingSource" : "automatic",
+    "readings" : [
+      "までゅーさん"
+    ],
+    "searchText" : "までゅーさん"
+  },
+  "マドンナ先生" : {
+    "normalizedName" : "まどんな先生",
+    "original" : "マドンナ先生",
+    "readingSource" : "automatic",
+    "readings" : [
+      "まどんなせんせい"
+    ],
+    "searchText" : "まどんな先生 まどんなせんせい"
+  },
+  "マナブくん" : {
+    "normalizedName" : "まなぶくん",
+    "original" : "マナブくん",
+    "readingSource" : "automatic",
+    "readings" : [
+      "まなぶくん"
+    ],
+    "searchText" : "まなぶくん"
+  },
+  "マルコ" : {
+    "normalizedName" : "まるこ",
+    "original" : "マルコ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "まるこ"
+    ],
+    "searchText" : "まるこ"
+  },
+  "マンボーグ鈴木" : {
+    "normalizedName" : "まんぼーぐ鈴木",
+    "original" : "マンボーグ鈴木",
+    "readingSource" : "automatic",
+    "readings" : [
+      "まんぼーぐすずき"
+    ],
+    "searchText" : "まんぼーぐ鈴木 まんぼーぐすずき"
+  },
+  "マンボ王" : {
+    "normalizedName" : "まんぼ王",
+    "original" : "マンボ王",
+    "readingSource" : "automatic",
+    "readings" : [
+      "まんぼおう"
+    ],
+    "searchText" : "まんぼ王 まんぼおう"
+  },
+  "マーさん" : {
+    "normalizedName" : "まーさん",
+    "original" : "マーさん",
+    "readingSource" : "automatic",
+    "readings" : [
+      "まーさん"
+    ],
+    "searchText" : "まーさん"
+  },
+  "マーズピープル" : {
+    "normalizedName" : "まーずぴーぷる",
+    "original" : "マーズピープル",
+    "readingSource" : "automatic",
+    "readings" : [
+      "まーずぴーぷる"
+    ],
+    "searchText" : "まーずぴーぷる"
+  },
+  "マーチン" : {
+    "normalizedName" : "まーちん",
+    "original" : "マーチン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "まーちん"
+    ],
+    "searchText" : "まーちん"
+  },
+  "ミシェリア" : {
+    "normalizedName" : "みしぇりあ",
+    "original" : "ミシェリア",
+    "readingSource" : "automatic",
+    "readings" : [
+      "みしぇりあ"
+    ],
+    "searchText" : "みしぇりあ"
+  },
+  "ミスターエンジェル" : {
+    "normalizedName" : "みすたーえんじぇる",
+    "original" : "ミスターエンジェル",
+    "readingSource" : "automatic",
+    "readings" : [
+      "みすたーえんじぇる"
+    ],
+    "searchText" : "みすたーえんじぇる"
+  },
+  "ミセス・ペン" : {
+    "normalizedName" : "みせすぺん",
+    "original" : "ミセス・ペン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "みせすぺん"
+    ],
+    "searchText" : "みせすぺん"
+  },
+  "ミッドナイトナカイ" : {
+    "normalizedName" : "みっどないとなかい",
+    "original" : "ミッドナイトナカイ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "みっどないとなかい"
+    ],
+    "searchText" : "みっどないとなかい"
+  },
+  "ミニアンデッドサイクロン" : {
+    "normalizedName" : "みにあんでっどさいくろん",
+    "original" : "ミニアンデッドサイクロン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "みにあんでっどさいくろん"
+    ],
+    "searchText" : "みにあんでっどさいくろん"
+  },
+  "ミニエンジェルサイクロン" : {
+    "normalizedName" : "みにえんじぇるさいくろん",
+    "original" : "ミニエンジェルサイクロン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "みにえんじぇるさいくろん"
+    ],
+    "searchText" : "みにえんじぇるさいくろん"
+  },
+  "ミニスターサイクロン" : {
+    "normalizedName" : "みにすたーさいくろん",
+    "original" : "ミニスターサイクロン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "みにすたーさいくろん"
+    ],
+    "searchText" : "みにすたーさいくろん"
+  },
+  "ミニホワイトサイクロン" : {
+    "normalizedName" : "みにほわいとさいくろん",
+    "original" : "ミニホワイトサイクロン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "みにほわいとさいくろん"
+    ],
+    "searchText" : "みにほわいとさいくろん"
+  },
+  "ムササビネコ忍者" : {
+    "normalizedName" : "むささびねこ忍者",
+    "original" : "ムササビネコ忍者",
+    "readingSource" : "automatic",
+    "readings" : [
+      "むささびねこにんじゃ"
+    ],
+    "searchText" : "むささびねこ忍者 むささびねこにんじゃ"
+  },
+  "メェメェ" : {
+    "normalizedName" : "めぇめぇ",
+    "original" : "メェメェ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "めぇめぇ"
+    ],
+    "searchText" : "めぇめぇ"
+  },
+  "メガにゃんこ" : {
+    "normalizedName" : "めがにゃんこ",
+    "original" : "メガにゃんこ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "めがにゃんこ"
+    ],
+    "searchText" : "めがにゃんこ"
+  },
+  "メガにゃんこEX" : {
+    "normalizedName" : "めがにゃんこex",
+    "original" : "メガにゃんこEX",
+    "readingSource" : "automatic",
+    "readings" : [
+      "めがにゃんこex"
+    ],
+    "searchText" : "めがにゃんこex"
+  },
+  "メガメェメェ" : {
+    "normalizedName" : "めがめぇめぇ",
+    "original" : "メガメェメェ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "めがめぇめぇ"
+    ],
+    "searchText" : "めがめぇめぇ"
+  },
+  "メシエ" : {
+    "normalizedName" : "めしえ",
+    "original" : "メシエ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "めしえ"
+    ],
+    "searchText" : "めしえ"
+  },
+  "メタックマ" : {
+    "normalizedName" : "めたっくま",
+    "original" : "メタックマ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "めたっくま"
+    ],
+    "searchText" : "めたっくま"
+  },
+  "メタフィリバスター" : {
+    "normalizedName" : "めたふぃりばすたー",
+    "original" : "メタフィリバスター",
+    "readingSource" : "automatic",
+    "readings" : [
+      "めたふぃりばすたー"
+    ],
+    "searchText" : "めたふぃりばすたー"
+  },
+  "メタルにょろ" : {
+    "normalizedName" : "めたるにょろ",
+    "original" : "メタルにょろ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "めたるにょろ"
+    ],
+    "searchText" : "めたるにょろ"
+  },
+  "メタルわんこ" : {
+    "normalizedName" : "めたるわんこ",
+    "original" : "メタルわんこ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "めたるわんこ"
+    ],
+    "searchText" : "めたるわんこ"
+  },
+  "メタルカオル君" : {
+    "normalizedName" : "めたるかおる君",
+    "original" : "メタルカオル君",
+    "readingSource" : "custom",
+    "readings" : [
+      "めたるかおるくん"
+    ],
+    "searchText" : "めたるかおる君 めたるかおるくん"
+  },
+  "メタルカバちゃん" : {
+    "normalizedName" : "めたるかばちゃん",
+    "original" : "メタルカバちゃん",
+    "readingSource" : "automatic",
+    "readings" : [
+      "めたるかばちゃん"
+    ],
+    "searchText" : "めたるかばちゃん"
+  },
+  "メタルコアラッキョ" : {
+    "normalizedName" : "めたるこあらっきょ",
+    "original" : "メタルコアラッキョ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "めたるこあらっきょ"
+    ],
+    "searchText" : "めたるこあらっきょ"
+  },
+  "メタルゴマさま" : {
+    "normalizedName" : "めたるごまさま",
+    "original" : "メタルゴマさま",
+    "readingSource" : "automatic",
+    "readings" : [
+      "めたるごまさま"
+    ],
+    "searchText" : "めたるごまさま"
+  },
+  "メタルサイクロン" : {
+    "normalizedName" : "めたるさいくろん",
+    "original" : "メタルサイクロン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "めたるさいくろん"
+    ],
+    "searchText" : "めたるさいくろん"
+  },
+  "メタルサイボーグ" : {
+    "normalizedName" : "めたるさいぼーぐ",
+    "original" : "メタルサイボーグ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "めたるさいぼーぐ"
+    ],
+    "searchText" : "めたるさいぼーぐ"
+  },
+  "モーデン元帥" : {
+    "normalizedName" : "もーでん元帥",
+    "original" : "モーデン元帥",
+    "readingSource" : "automatic",
+    "readings" : [
+      "もーでんげんすい"
+    ],
+    "searchText" : "もーでん元帥 もーでんげんすい"
+  },
+  "ヤドカリー" : {
+    "normalizedName" : "やどかりー",
+    "original" : "ヤドカリー",
+    "readingSource" : "automatic",
+    "readings" : [
+      "やどかりー"
+    ],
+    "searchText" : "やどかりー"
+  },
+  "ユキ" : {
+    "normalizedName" : "ゆき",
+    "original" : "ユキ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ゆき"
+    ],
+    "searchText" : "ゆき"
+  },
+  "ユメミちゃん" : {
+    "normalizedName" : "ゆめみちゃん",
+    "original" : "ユメミちゃん",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ゆめみちゃん"
+    ],
+    "searchText" : "ゆめみちゃん"
+  },
+  "ヨキカナ" : {
+    "normalizedName" : "よきかな",
+    "original" : "ヨキカナ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "よきかな"
+    ],
+    "searchText" : "よきかな"
+  },
+  "ライダー" : {
+    "normalizedName" : "らいだー",
+    "original" : "ライダー",
+    "readingSource" : "automatic",
+    "readings" : [
+      "らいだー"
+    ],
+    "searchText" : "らいだー"
+  },
+  "ランサー" : {
+    "normalizedName" : "らんさー",
+    "original" : "ランサー",
+    "readingSource" : "automatic",
+    "readings" : [
+      "らんさー"
+    ],
+    "searchText" : "らんさー"
+  },
+  "リッスントゥミー" : {
+    "normalizedName" : "りっすんとぅみー",
+    "original" : "リッスントゥミー",
+    "readingSource" : "automatic",
+    "readings" : [
+      "りっすんとぅみー"
+    ],
+    "searchText" : "りっすんとぅみー"
+  },
+  "リュウ" : {
+    "normalizedName" : "りゅう",
+    "original" : "リュウ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "りゅう"
+    ],
+    "searchText" : "りゅう"
+  },
+  "ルーク" : {
+    "normalizedName" : "るーく",
+    "original" : "ルーク",
+    "readingSource" : "automatic",
+    "readings" : [
+      "るーく"
+    ],
+    "searchText" : "るーく"
+  },
+  "ルーパールーパー" : {
+    "normalizedName" : "るーぱーるーぱー",
+    "original" : "ルーパールーパー",
+    "readingSource" : "automatic",
+    "readings" : [
+      "るーぱーるーぱー"
+    ],
+    "searchText" : "るーぱーるーぱー"
+  },
+  "レイ" : {
+    "normalizedName" : "れい",
+    "original" : "レイ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "れい"
+    ],
+    "searchText" : "れい"
+  },
+  "レインボークマトーク" : {
+    "normalizedName" : "れいんぼーくまとーく",
+    "original" : "レインボークマトーク",
+    "readingSource" : "automatic",
+    "readings" : [
+      "れいんぼーくまとーく"
+    ],
+    "searchText" : "れいんぼーくまとーく"
+  },
+  "レジェンドブンブンΩ" : {
+    "normalizedName" : "れじぇんどぶんぶんω",
+    "original" : "レジェンドブンブンΩ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "れじぇんどぶんぶんω"
+    ],
+    "searchText" : "れじぇんどぶんぶんω"
+  },
+  "レッドサイクロン" : {
+    "normalizedName" : "れっどさいくろん",
+    "original" : "レッドサイクロン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "れっどさいくろん"
+    ],
+    "searchText" : "れっどさいくろん"
+  },
+  "レッドヘルクマッチョ" : {
+    "normalizedName" : "れっどへるくまっちょ",
+    "original" : "レッドヘルクマッチョ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "れっどへるくまっちょ"
+    ],
+    "searchText" : "れっどへるくまっちょ"
+  },
+  "レッド・エナG" : {
+    "normalizedName" : "れっどえなg",
+    "original" : "レッド・エナG",
+    "readingSource" : "automatic",
+    "readings" : [
+      "れっどえなg"
+    ],
+    "searchText" : "れっどえなg"
+  },
+  "レディ・ガ" : {
+    "normalizedName" : "れでぃが",
+    "original" : "レディ・ガ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "れでぃが"
+    ],
+    "searchText" : "れでぃが"
+  },
+  "ワイバーン" : {
+    "normalizedName" : "わいばーん",
+    "original" : "ワイバーン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "わいばーん"
+    ],
+    "searchText" : "わいばーん"
+  },
+  "ワニック" : {
+    "normalizedName" : "わにっく",
+    "original" : "ワニック",
+    "readingSource" : "automatic",
+    "readings" : [
+      "わにっく"
+    ],
+    "searchText" : "わにっく"
+  },
+  "ワニボン" : {
+    "normalizedName" : "わにぼん",
+    "original" : "ワニボン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "わにぼん"
+    ],
+    "searchText" : "わにぼん"
+  },
+  "ワルザベス" : {
+    "normalizedName" : "わるざべす",
+    "original" : "ワルザベス",
+    "readingSource" : "automatic",
+    "readings" : [
+      "わるざべす"
+    ],
+    "searchText" : "わるざべす"
+  },
+  "ワルプルギスの夜" : {
+    "normalizedName" : "わるぷるぎすの夜",
+    "original" : "ワルプルギスの夜",
+    "readingSource" : "automatic",
+    "readings" : [
+      "わるぷるぎすのよる"
+    ],
+    "searchText" : "わるぷるぎすの夜 わるぷるぎすのよる"
+  },
+  "ワンダーマリア" : {
+    "normalizedName" : "わんだーまりあ",
+    "original" : "ワンダーマリア",
+    "readingSource" : "automatic",
+    "readings" : [
+      "わんだーまりあ"
+    ],
+    "searchText" : "わんだーまりあ"
+  },
+  "ワーニック" : {
+    "normalizedName" : "わーにっく",
+    "original" : "ワーニック",
+    "readingSource" : "automatic",
+    "readings" : [
+      "わーにっく"
+    ],
+    "searchText" : "わーにっく"
+  },
+  "ワーニネーター" : {
+    "normalizedName" : "わーにねーたー",
+    "original" : "ワーニネーター",
+    "readingSource" : "automatic",
+    "readings" : [
+      "わーにねーたー"
+    ],
+    "searchText" : "わーにねーたー"
+  },
+  "一角くん" : {
+    "normalizedName" : "一角くん",
+    "original" : "一角くん",
+    "readingSource" : "automatic",
+    "readings" : [
+      "いっかくくん"
+    ],
+    "searchText" : "一角くん いっかくくん"
+  },
+  "丸太" : {
+    "normalizedName" : "丸太",
+    "original" : "丸太",
+    "readingSource" : "automatic",
+    "readings" : [
+      "まるた"
+    ],
+    "searchText" : "丸太 まるた"
+  },
+  "亡者デブウ" : {
+    "normalizedName" : "亡者でぶう",
+    "original" : "亡者デブウ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "もうじゃでぶう"
+    ],
+    "searchText" : "亡者でぶう もうじゃでぶう"
+  },
+  "仮面のネコ仙人" : {
+    "normalizedName" : "仮面のねこ仙人",
+    "original" : "仮面のネコ仙人",
+    "readingSource" : "automatic",
+    "readings" : [
+      "かめんのねこせんにん"
+    ],
+    "searchText" : "仮面のねこ仙人 かめんのねこせんにん"
+  },
+  "例のヤツ" : {
+    "normalizedName" : "例のやつ",
+    "original" : "例のヤツ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "れいのやつ"
+    ],
+    "searchText" : "例のやつ れいのやつ"
+  },
+  "傾奇者アシュラ" : {
+    "normalizedName" : "傾奇者あしゅら",
+    "original" : "傾奇者アシュラ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "けえきしゃあしゅら"
+    ],
+    "searchText" : "傾奇者あしゅら けえきしゃあしゅら"
+  },
+  "凧にゃん" : {
+    "normalizedName" : "凧にゃん",
+    "original" : "凧にゃん",
+    "readingSource" : "automatic",
+    "readings" : [
+      "たこにゃん"
+    ],
+    "searchText" : "凧にゃん たこにゃん"
+  },
+  "剛拳にゃんこG" : {
+    "normalizedName" : "剛拳にゃんこg",
+    "original" : "剛拳にゃんこG",
+    "readingSource" : "automatic",
+    "readings" : [
+      "つよしけんにゃんこg"
+    ],
+    "searchText" : "剛拳にゃんこg つよしけんにゃんこg"
+  },
+  "剣士" : {
+    "normalizedName" : "剣士",
+    "original" : "剣士",
+    "readingSource" : "automatic",
+    "readings" : [
+      "けんし"
+    ],
+    "searchText" : "剣士 けんし"
+  },
+  "午わんこ" : {
+    "normalizedName" : "午わんこ",
+    "original" : "午わんこ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "うまわんこ"
+    ],
+    "searchText" : "午わんこ うまわんこ"
+  },
+  "南国わんこ" : {
+    "normalizedName" : "南国わんこ",
+    "original" : "南国わんこ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "なんごくわんこ"
+    ],
+    "searchText" : "南国わんこ なんごくわんこ"
+  },
+  "南国ラッコ" : {
+    "normalizedName" : "南国らっこ",
+    "original" : "南国ラッコ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "なんごくらっこ"
+    ],
+    "searchText" : "南国らっこ なんごくらっこ"
+  },
+  "反逆のヴァルキリー" : {
+    "normalizedName" : "反逆のゔぁるきりー",
+    "original" : "反逆のヴァルキリー",
+    "readingSource" : "automatic",
+    "readings" : [
+      "はんぎゃくのゔぁるきりー"
+    ],
+    "searchText" : "反逆のゔぁるきりー はんぎゃくのゔぁるきりー"
+  },
+  "反逆の戦国魔王・織田信長" : {
+    "normalizedName" : "反逆の戦国魔王織田信長",
+    "original" : "反逆の戦国魔王・織田信長",
+    "readingSource" : "automatic",
+    "readings" : [
+      "はんぎゃくのせんごくまおうおだのぶなが"
+    ],
+    "searchText" : "反逆の戦国魔王織田信長 はんぎゃくのせんごくまおうおだのぶなが"
+  },
+  "古代わんこ" : {
+    "normalizedName" : "古代わんこ",
+    "original" : "古代わんこ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "こだいわんこ"
+    ],
+    "searchText" : "古代わんこ こだいわんこ"
+  },
+  "古兵器マンボロス" : {
+    "normalizedName" : "古兵器まんぼろす",
+    "original" : "古兵器マンボロス",
+    "readingSource" : "automatic",
+    "readings" : [
+      "こへいきまんぼろす"
+    ],
+    "searchText" : "古兵器まんぼろす こへいきまんぼろす"
+  },
+  "古我王" : {
+    "normalizedName" : "古我王",
+    "original" : "古我王",
+    "readingSource" : "automatic",
+    "readings" : [
+      "こがおう"
+    ],
+    "searchText" : "古我王 こがおう"
+  },
+  "古神炎ドロン" : {
+    "normalizedName" : "古神炎どろん",
+    "original" : "古神炎ドロン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ふるかみえんどろん"
+    ],
+    "searchText" : "古神炎どろん ふるかみえんどろん"
+  },
+  "合格野郎" : {
+    "normalizedName" : "合格野郎",
+    "original" : "合格野郎",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ごうかくやろう"
+    ],
+    "searchText" : "合格野郎 ごうかくやろう"
+  },
+  "名賢わんこ" : {
+    "normalizedName" : "名賢わんこ",
+    "original" : "名賢わんこ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "めいけんわんこ"
+    ],
+    "searchText" : "名賢わんこ めいけんわんこ"
+  },
+  "四乃森蒼紫" : {
+    "normalizedName" : "四乃森蒼紫",
+    "original" : "四乃森蒼紫",
+    "readingSource" : "automatic",
+    "readings" : [
+      "よんのもりあおいむらさき"
+    ],
+    "searchText" : "四乃森蒼紫 よんのもりあおいむらさき"
+  },
+  "土偶戦士ドグ丸" : {
+    "normalizedName" : "土偶戦士どぐ丸",
+    "original" : "土偶戦士ドグ丸",
+    "readingSource" : "automatic",
+    "readings" : [
+      "どぐうせんしどぐまる"
+    ],
+    "searchText" : "土偶戦士どぐ丸 どぐうせんしどぐまる"
+  },
+  "墓手太郎" : {
+    "normalizedName" : "墓手太郎",
+    "original" : "墓手太郎",
+    "readingSource" : "automatic",
+    "readings" : [
+      "はかてたろう"
+    ],
+    "searchText" : "墓手太郎 はかてたろう"
+  },
+  "墓手花子" : {
+    "normalizedName" : "墓手花子",
+    "original" : "墓手花子",
+    "readingSource" : "automatic",
+    "readings" : [
+      "はかてばなこ"
+    ],
+    "searchText" : "墓手花子 はかてばなこ"
+  },
+  "売り子エル" : {
+    "normalizedName" : "売り子える",
+    "original" : "売り子エル",
+    "readingSource" : "automatic",
+    "readings" : [
+      "うりこえる"
+    ],
+    "searchText" : "売り子える うりこえる"
+  },
+  "夏セレブ" : {
+    "normalizedName" : "夏せれぶ",
+    "original" : "夏セレブ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "なつせれぶ"
+    ],
+    "searchText" : "夏せれぶ なつせれぶ"
+  },
+  "大型土器ダイハニワン" : {
+    "normalizedName" : "大型土器だいはにわん",
+    "original" : "大型土器ダイハニワン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "おおがたどきだいはにわん"
+    ],
+    "searchText" : "大型土器だいはにわん おおがたどきだいはにわん"
+  },
+  "大夢くん" : {
+    "normalizedName" : "大夢くん",
+    "original" : "大夢くん",
+    "readingSource" : "automatic",
+    "readings" : [
+      "たいむくん"
+    ],
+    "searchText" : "大夢くん たいむくん"
+  },
+  "大天使エクスエル" : {
+    "normalizedName" : "大天使えくすえる",
+    "original" : "大天使エクスエル",
+    "readingSource" : "automatic",
+    "readings" : [
+      "だいてんしえくすえる"
+    ],
+    "searchText" : "大天使えくすえる だいてんしえくすえる"
+  },
+  "大天使エルファント" : {
+    "normalizedName" : "大天使えるふぁんと",
+    "original" : "大天使エルファント",
+    "readingSource" : "automatic",
+    "readings" : [
+      "だいてんしえるふぁんと"
+    ],
+    "searchText" : "大天使えるふぁんと だいてんしえるふぁんと"
+  },
+  "大天使チビネル" : {
+    "normalizedName" : "大天使ちびねる",
+    "original" : "大天使チビネル",
+    "readingSource" : "automatic",
+    "readings" : [
+      "だいてんしちびねる"
+    ],
+    "searchText" : "大天使ちびねる だいてんしちびねる"
+  },
+  "大岩" : {
+    "normalizedName" : "大岩",
+    "original" : "大岩",
+    "readingSource" : "automatic",
+    "readings" : [
+      "おおいわ"
+    ],
+    "searchText" : "大岩 おおいわ"
+  },
+  "大狂乱のゴムネコ" : {
+    "normalizedName" : "大狂乱のごむねこ",
+    "original" : "大狂乱のゴムネコ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "だいきょうらんのごむねこ"
+    ],
+    "searchText" : "大狂乱のごむねこ だいきょうらんのごむねこ"
+  },
+  "大狂乱のネコキングドラゴン" : {
+    "normalizedName" : "大狂乱のねこきんぐどらごん",
+    "original" : "大狂乱のネコキングドラゴン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "だいきょうらんのねこきんぐどらごん"
+    ],
+    "searchText" : "大狂乱のねこきんぐどらごん だいきょうらんのねこきんぐどらごん"
+  },
+  "大狂乱のネコジャラミ" : {
+    "normalizedName" : "大狂乱のねこじゃらみ",
+    "original" : "大狂乱のネコジャラミ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "だいきょうらんのねこじゃらみ"
+    ],
+    "searchText" : "大狂乱のねこじゃらみ だいきょうらんのねこじゃらみ"
+  },
+  "大狂乱のネコモヒカン" : {
+    "normalizedName" : "大狂乱のねこもひかん",
+    "original" : "大狂乱のネコモヒカン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "だいきょうらんのねこもひかん"
+    ],
+    "searchText" : "大狂乱のねこもひかん だいきょうらんのねこもひかん"
+  },
+  "大狂乱のネコライオン" : {
+    "normalizedName" : "大狂乱のねこらいおん",
+    "original" : "大狂乱のネコライオン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "だいきょうらんのねこらいおん"
+    ],
+    "searchText" : "大狂乱のねこらいおん だいきょうらんのねこらいおん"
+  },
+  "大狂乱のネコ島" : {
+    "normalizedName" : "大狂乱のねこ島",
+    "original" : "大狂乱のネコ島",
+    "readingSource" : "automatic",
+    "readings" : [
+      "だいきょうらんのねことう"
+    ],
+    "searchText" : "大狂乱のねこ島 だいきょうらんのねことう"
+  },
+  "大狂乱のムキあしネコ" : {
+    "normalizedName" : "大狂乱のむきあしねこ",
+    "original" : "大狂乱のムキあしネコ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "だいきょうらんのむきあしねこ"
+    ],
+    "searchText" : "大狂乱のむきあしねこ だいきょうらんのむきあしねこ"
+  },
+  "大狂乱の天空のネコ" : {
+    "normalizedName" : "大狂乱の天空のねこ",
+    "original" : "大狂乱の天空のネコ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "だいきょうらんのてんくうのねこ"
+    ],
+    "searchText" : "大狂乱の天空のねこ だいきょうらんのてんくうのねこ"
+  },
+  "大狂乱の暗黒ネコ" : {
+    "normalizedName" : "大狂乱の暗黒ねこ",
+    "original" : "大狂乱の暗黒ネコ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "だいきょうらんのあんこくねこ"
+    ],
+    "searchText" : "大狂乱の暗黒ねこ だいきょうらんのあんこくねこ"
+  },
+  "大玉（白）" : {
+    "normalizedName" : "大玉白",
+    "original" : "大玉（白）",
+    "readingSource" : "automatic",
+    "readings" : [
+      "おおだましろ"
+    ],
+    "searchText" : "大玉白 おおだましろ"
+  },
+  "大玉（赤）" : {
+    "normalizedName" : "大玉赤",
+    "original" : "大玉（赤）",
+    "readingSource" : "automatic",
+    "readings" : [
+      "おおだまあか"
+    ],
+    "searchText" : "大玉赤 おおだまあか"
+  },
+  "大玉（鉄）" : {
+    "normalizedName" : "大玉鉄",
+    "original" : "大玉（鉄）",
+    "readingSource" : "automatic",
+    "readings" : [
+      "おおだまてつ"
+    ],
+    "searchText" : "大玉鉄 おおだまてつ"
+  },
+  "大王の化身" : {
+    "normalizedName" : "大王の化身",
+    "original" : "大王の化身",
+    "readingSource" : "automatic",
+    "readings" : [
+      "だいおうのけしん"
+    ],
+    "searchText" : "大王の化身 だいおうのけしん"
+  },
+  "大神官マモーン" : {
+    "normalizedName" : "大神官まもーん",
+    "original" : "大神官マモーン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "おおみわかんまもーん"
+    ],
+    "searchText" : "大神官まもーん おおみわかんまもーん"
+  },
+  "大花火職人" : {
+    "normalizedName" : "大花火職人",
+    "original" : "大花火職人",
+    "readingSource" : "automatic",
+    "readings" : [
+      "おおはなびしょくにん"
+    ],
+    "searchText" : "大花火職人 おおはなびしょくにん"
+  },
+  "大魔王ニャンダム" : {
+    "normalizedName" : "大魔王にゃんだむ",
+    "original" : "大魔王ニャンダム",
+    "readingSource" : "automatic",
+    "readings" : [
+      "だいまおうにゃんだむ"
+    ],
+    "searchText" : "大魔王にゃんだむ だいまおうにゃんだむ"
+  },
+  "大魔道士ミモーン" : {
+    "normalizedName" : "大魔道士みもーん",
+    "original" : "大魔道士ミモーン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "だいまどうしみもーん"
+    ],
+    "searchText" : "大魔道士みもーん だいまどうしみもーん"
+  },
+  "天使カバちゃん" : {
+    "normalizedName" : "天使かばちゃん",
+    "original" : "天使カバちゃん",
+    "readingSource" : "automatic",
+    "readings" : [
+      "てんしかばちゃん"
+    ],
+    "searchText" : "天使かばちゃん てんしかばちゃん"
+  },
+  "天使ガブリエル" : {
+    "normalizedName" : "天使がぶりえる",
+    "original" : "天使ガブリエル",
+    "readingSource" : "automatic",
+    "readings" : [
+      "てんしがぶりえる"
+    ],
+    "searchText" : "天使がぶりえる てんしがぶりえる"
+  },
+  "天使ゴンザレス" : {
+    "normalizedName" : "天使ごんざれす",
+    "original" : "天使ゴンザレス",
+    "readingSource" : "automatic",
+    "readings" : [
+      "てんしごんざれす"
+    ],
+    "searchText" : "天使ごんざれす てんしごんざれす"
+  },
+  "天使スレイプニール" : {
+    "normalizedName" : "天使すれいぷにーる",
+    "original" : "天使スレイプニール",
+    "readingSource" : "automatic",
+    "readings" : [
+      "てんしすれいぷにーる"
+    ],
+    "searchText" : "天使すれいぷにーる てんしすれいぷにーる"
+  },
+  "天使ドーヴエル" : {
+    "normalizedName" : "天使どーゔえる",
+    "original" : "天使ドーヴエル",
+    "readingSource" : "automatic",
+    "readings" : [
+      "てんしどーゔえる"
+    ],
+    "searchText" : "天使どーゔえる てんしどーゔえる"
+  },
+  "天使ヒオコエル" : {
+    "normalizedName" : "天使ひおこえる",
+    "original" : "天使ヒオコエル",
+    "readingSource" : "automatic",
+    "readings" : [
+      "てんしひおこえる"
+    ],
+    "searchText" : "天使ひおこえる てんしひおこえる"
+  },
+  "天使ブッタ" : {
+    "normalizedName" : "天使ぶった",
+    "original" : "天使ブッタ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "てんしぶった"
+    ],
+    "searchText" : "天使ぶった てんしぶった"
+  },
+  "天使メガミエル" : {
+    "normalizedName" : "天使めがみえる",
+    "original" : "天使メガミエル",
+    "readingSource" : "automatic",
+    "readings" : [
+      "てんしめがみえる"
+    ],
+    "searchText" : "天使めがみえる てんしめがみえる"
+  },
+  "天使愛好家" : {
+    "normalizedName" : "天使愛好家",
+    "original" : "天使愛好家",
+    "readingSource" : "automatic",
+    "readings" : [
+      "てんしあいこうか"
+    ],
+    "searchText" : "天使愛好家 てんしあいこうか"
+  },
+  "天空のちびネコ" : {
+    "normalizedName" : "天空のちびねこ",
+    "original" : "天空のちびネコ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "てんくうのちびねこ"
+    ],
+    "searchText" : "天空のちびねこ てんくうのちびねこ"
+  },
+  "太古の蜜江" : {
+    "normalizedName" : "太古の蜜江",
+    "original" : "太古の蜜江",
+    "readingSource" : "automatic",
+    "readings" : [
+      "たいこのみつこう"
+    ],
+    "searchText" : "太古の蜜江 たいこのみつこう"
+  },
+  "失われし世界のユキ" : {
+    "normalizedName" : "失われし世界のゆき",
+    "original" : "失われし世界のユキ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "うしなわれしせかいのゆき"
+    ],
+    "searchText" : "失われし世界のゆき うしなわれしせかいのゆき"
+  },
+  "完璧ヘラクライスト" : {
+    "normalizedName" : "完璧へらくらいすと",
+    "original" : "完璧ヘラクライスト",
+    "readingSource" : "automatic",
+    "readings" : [
+      "かんぺきへらくらいすと"
+    ],
+    "searchText" : "完璧へらくらいすと かんぺきへらくらいすと"
+  },
+  "川野かわわっぱ" : {
+    "normalizedName" : "川野かわわっぱ",
+    "original" : "川野かわわっぱ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "かわのかわわっぱ"
+    ],
+    "searchText" : "川野かわわっぱ かわのかわわっぱ"
+  },
+  "工房マンボウ" : {
+    "normalizedName" : "工房まんぼう",
+    "original" : "工房マンボウ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "こうぼうまんぼう"
+    ],
+    "searchText" : "工房まんぼう こうぼうまんぼう"
+  },
+  "巨匠" : {
+    "normalizedName" : "巨匠",
+    "original" : "巨匠",
+    "readingSource" : "automatic",
+    "readings" : [
+      "きょしょう"
+    ],
+    "searchText" : "巨匠 きょしょう"
+  },
+  "巨大パックマン" : {
+    "normalizedName" : "巨大ぱっくまん",
+    "original" : "巨大パックマン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "きょだいぱっくまん"
+    ],
+    "searchText" : "巨大ぱっくまん きょだいぱっくまん"
+  },
+  "巳わんこ" : {
+    "normalizedName" : "巳わんこ",
+    "original" : "巳わんこ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "みわんこ"
+    ],
+    "searchText" : "巳わんこ みわんこ"
+  },
+  "師匠" : {
+    "normalizedName" : "師匠",
+    "original" : "師匠",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ししょう"
+    ],
+    "searchText" : "師匠 ししょう"
+  },
+  "幸福の犬" : {
+    "normalizedName" : "幸福の犬",
+    "original" : "幸福の犬",
+    "readingSource" : "automatic",
+    "readings" : [
+      "こうふくのいぬ"
+    ],
+    "searchText" : "幸福の犬 こうふくのいぬ"
+  },
+  "怒りのブラッゴリ" : {
+    "normalizedName" : "怒りのぶらっごり",
+    "original" : "怒りのブラッゴリ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "いかりのぶらっごり"
+    ],
+    "searchText" : "怒りのぶらっごり いかりのぶらっごり"
+  },
+  "怪人わんこ" : {
+    "normalizedName" : "怪人わんこ",
+    "original" : "怪人わんこ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "かいじんわんこ"
+    ],
+    "searchText" : "怪人わんこ かいじんわんこ"
+  },
+  "悪のネコ帝王" : {
+    "normalizedName" : "悪のねこ帝王",
+    "original" : "悪のネコ帝王",
+    "readingSource" : "automatic",
+    "readings" : [
+      "あくのねこていおう"
+    ],
+    "searchText" : "悪のねこ帝王 あくのねこていおう"
+  },
+  "悪の帝王 ニャンダム" : {
+    "normalizedName" : "悪の帝王にゃんだむ",
+    "original" : "悪の帝王 ニャンダム",
+    "readingSource" : "automatic",
+    "readings" : [
+      "あくのていおうにゃんだむ"
+    ],
+    "searchText" : "悪の帝王にゃんだむ あくのていおうにゃんだむ"
+  },
+  "悪魔ベヒモッス" : {
+    "normalizedName" : "悪魔べひもっす",
+    "original" : "悪魔ベヒモッス",
+    "readingSource" : "automatic",
+    "readings" : [
+      "あくまべひもっす"
+    ],
+    "searchText" : "悪魔べひもっす あくまべひもっす"
+  },
+  "悪魔王サンタ" : {
+    "normalizedName" : "悪魔王さんた",
+    "original" : "悪魔王サンタ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "あくまおうさんた"
+    ],
+    "searchText" : "悪魔王さんた あくまおうさんた"
+  },
+  "愚地克巳" : {
+    "normalizedName" : "愚地克巳",
+    "original" : "愚地克巳",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ぐちかつみ"
+    ],
+    "searchText" : "愚地克巳 ぐちかつみ"
+  },
+  "操られしわんわん大王" : {
+    "normalizedName" : "操られしわんわん大王",
+    "original" : "操られしわんわん大王",
+    "readingSource" : "automatic",
+    "readings" : [
+      "あやつられしわんわんだいおう"
+    ],
+    "searchText" : "操られしわんわん大王 あやつられしわんわんだいおう"
+  },
+  "操られしゴールドにゃんこ" : {
+    "normalizedName" : "操られしごーるどにゃんこ",
+    "original" : "操られしゴールドにゃんこ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "あやつられしごーるどにゃんこ"
+    ],
+    "searchText" : "操られしごーるどにゃんこ あやつられしごーるどにゃんこ"
+  },
+  "操られしシルバーにゃんこ" : {
+    "normalizedName" : "操られししるばーにゃんこ",
+    "original" : "操られしシルバーにゃんこ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "あやつられししるばーにゃんこ"
+    ],
+    "searchText" : "操られししるばーにゃんこ あやつられししるばーにゃんこ"
+  },
+  "操られしネコ女王" : {
+    "normalizedName" : "操られしねこ女王",
+    "original" : "操られしネコ女王",
+    "readingSource" : "automatic",
+    "readings" : [
+      "あやつられしねこじょおう"
+    ],
+    "searchText" : "操られしねこ女王 あやつられしねこじょおう"
+  },
+  "教授" : {
+    "normalizedName" : "教授",
+    "original" : "教授",
+    "readingSource" : "automatic",
+    "readings" : [
+      "きょうじゅ"
+    ],
+    "searchText" : "教授 きょうじゅ"
+  },
+  "文化祭のカンバン娘" : {
+    "normalizedName" : "文化祭のかんばん娘",
+    "original" : "文化祭のカンバン娘",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ぶんかさいのかんばんむすめ"
+    ],
+    "searchText" : "文化祭のかんばん娘 ぶんかさいのかんばんむすめ"
+  },
+  "斎藤一" : {
+    "normalizedName" : "斎藤一",
+    "original" : "斎藤一",
+    "readingSource" : "automatic",
+    "readings" : [
+      "さいとうはじめ"
+    ],
+    "searchText" : "斎藤一 さいとうはじめ"
+  },
+  "断罪天使クオリネル" : {
+    "normalizedName" : "断罪天使くおりねる",
+    "original" : "断罪天使クオリネル",
+    "readingSource" : "automatic",
+    "readings" : [
+      "だんざいてんしくおりねる"
+    ],
+    "searchText" : "断罪天使くおりねる だんざいてんしくおりねる"
+  },
+  "日の出わんこ" : {
+    "normalizedName" : "日の出わんこ",
+    "original" : "日の出わんこ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ひのでわんこ"
+    ],
+    "searchText" : "日の出わんこ ひのでわんこ"
+  },
+  "明王の剣士" : {
+    "normalizedName" : "明王の剣士",
+    "original" : "明王の剣士",
+    "readingSource" : "automatic",
+    "readings" : [
+      "みょうおうのけんし"
+    ],
+    "searchText" : "明王の剣士 みょうおうのけんし"
+  },
+  "春麗" : {
+    "normalizedName" : "春麗",
+    "original" : "春麗",
+    "readingSource" : "automatic",
+    "readings" : [
+      "しゅんれい"
+    ],
+    "searchText" : "春麗 しゅんれい"
+  },
+  "時空のサイクロプス" : {
+    "normalizedName" : "時空のさいくろぷす",
+    "original" : "時空のサイクロプス",
+    "readingSource" : "automatic",
+    "readings" : [
+      "じくうのさいくろぷす"
+    ],
+    "searchText" : "時空のさいくろぷす じくうのさいくろぷす"
+  },
+  "暗黒嬢" : {
+    "normalizedName" : "暗黒嬢",
+    "original" : "暗黒嬢",
+    "readingSource" : "automatic",
+    "readings" : [
+      "あんこくじょう"
+    ],
+    "searchText" : "暗黒嬢 あんこくじょう"
+  },
+  "暴走のネコムート" : {
+    "normalizedName" : "暴走のねこむーと",
+    "original" : "暴走のネコムート",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ぼうそうのねこむーと"
+    ],
+    "searchText" : "暴走のねこむーと ぼうそうのねこむーと"
+  },
+  "松 黒蔵" : {
+    "normalizedName" : "松黒蔵",
+    "original" : "松 黒蔵",
+    "readingSource" : "automatic",
+    "readings" : [
+      "まつくろくら"
+    ],
+    "searchText" : "松黒蔵 まつくろくら"
+  },
+  "柏餅2.0" : {
+    "normalizedName" : "柏餅20",
+    "original" : "柏餅2.0",
+    "readingSource" : "automatic",
+    "readings" : [
+      "かしわもち20"
+    ],
+    "searchText" : "柏餅20 かしわもち20"
+  },
+  "染香綺狐 ‧ 妲己" : {
+    "normalizedName" : "染香綺狐妲己",
+    "original" : "染香綺狐 ‧ 妲己",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ら̌んくせぃああんぐき̌へぅ́だ́じ̌"
+    ],
+    "searchText" : "染香綺狐妲己 ら̌んくせぃああんぐき̌へぅ́だ́じ̌"
+  },
+  "森の蜜子" : {
+    "normalizedName" : "森の蜜子",
+    "original" : "森の蜜子",
+    "readingSource" : "automatic",
+    "readings" : [
+      "もりのみつし"
+    ],
+    "searchText" : "森の蜜子 もりのみつし"
+  },
+  "極悪なゴムネコ" : {
+    "normalizedName" : "極悪なごむねこ",
+    "original" : "極悪なゴムネコ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ごくあくなごむねこ"
+    ],
+    "searchText" : "極悪なごむねこ ごくあくなごむねこ"
+  },
+  "極悪なネコキングドラゴン" : {
+    "normalizedName" : "極悪なねこきんぐどらごん",
+    "original" : "極悪なネコキングドラゴン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ごくあくなねこきんぐどらごん"
+    ],
+    "searchText" : "極悪なねこきんぐどらごん ごくあくなねこきんぐどらごん"
+  },
+  "極悪なネコジャラミ" : {
+    "normalizedName" : "極悪なねこじゃらみ",
+    "original" : "極悪なネコジャラミ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ごくあくなねこじゃらみ"
+    ],
+    "searchText" : "極悪なねこじゃらみ ごくあくなねこじゃらみ"
+  },
+  "極悪なネコモヒカン" : {
+    "normalizedName" : "極悪なねこもひかん",
+    "original" : "極悪なネコモヒカン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ごくあくなねこもひかん"
+    ],
+    "searchText" : "極悪なねこもひかん ごくあくなねこもひかん"
+  },
+  "極悪なネコライオン" : {
+    "normalizedName" : "極悪なねこらいおん",
+    "original" : "極悪なネコライオン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ごくあくなねこらいおん"
+    ],
+    "searchText" : "極悪なねこらいおん ごくあくなねこらいおん"
+  },
+  "極悪なネコ島" : {
+    "normalizedName" : "極悪なねこ島",
+    "original" : "極悪なネコ島",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ごくあくなねことう"
+    ],
+    "searchText" : "極悪なねこ島 ごくあくなねことう"
+  },
+  "極悪なムキあしネコ" : {
+    "normalizedName" : "極悪なむきあしねこ",
+    "original" : "極悪なムキあしネコ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ごくあくなむきあしねこ"
+    ],
+    "searchText" : "極悪なむきあしねこ ごくあくなむきあしねこ"
+  },
+  "極悪な天空のネコ" : {
+    "normalizedName" : "極悪な天空のねこ",
+    "original" : "極悪な天空のネコ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ごくあくなてんくうのねこ"
+    ],
+    "searchText" : "極悪な天空のねこ ごくあくなてんくうのねこ"
+  },
+  "極悪な暗黒ネコ" : {
+    "normalizedName" : "極悪な暗黒ねこ",
+    "original" : "極悪な暗黒ネコ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ごくあくなあんこくねこ"
+    ],
+    "searchText" : "極悪な暗黒ねこ ごくあくなあんこくねこ"
+  },
+  "極悪大帝ワルモーン" : {
+    "normalizedName" : "極悪大帝わるもーん",
+    "original" : "極悪大帝ワルモーン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ごくあくたいていわるもーん"
+    ],
+    "searchText" : "極悪大帝わるもーん ごくあくたいていわるもーん"
+  },
+  "武将ぶんぶん" : {
+    "normalizedName" : "武将ぶんぶん",
+    "original" : "武将ぶんぶん",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ぶしょうぶんぶん"
+    ],
+    "searchText" : "武将ぶんぶん ぶしょうぶんぶん"
+  },
+  "武将カオル君" : {
+    "normalizedName" : "武将かおる君",
+    "original" : "武将カオル君",
+    "readingSource" : "custom",
+    "readings" : [
+      "ぶしょうかおるくん"
+    ],
+    "searchText" : "武将かおる君 ぶしょうかおるくん"
+  },
+  "武将ニャンダム" : {
+    "normalizedName" : "武将にゃんだむ",
+    "original" : "武将ニャンダム",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ぶしょうにゃんだむ"
+    ],
+    "searchText" : "武将にゃんだむ ぶしょうにゃんだむ"
+  },
+  "武将般若我王" : {
+    "normalizedName" : "武将般若我王",
+    "original" : "武将般若我王",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ぶしょうはんにゃわがおう"
+    ],
+    "searchText" : "武将般若我王 ぶしょうはんにゃわがおう"
+  },
+  "武者わんこ" : {
+    "normalizedName" : "武者わんこ",
+    "original" : "武者わんこ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "むしゃわんこ"
+    ],
+    "searchText" : "武者わんこ むしゃわんこ"
+  },
+  "死霊妖精クオリネム" : {
+    "normalizedName" : "死霊妖精くおりねむ",
+    "original" : "死霊妖精クオリネム",
+    "readingSource" : "automatic",
+    "readings" : [
+      "しりょうようせいくおりねむ"
+    ],
+    "searchText" : "死霊妖精くおりねむ しりょうようせいくおりねむ"
+  },
+  "殺意のわんこ" : {
+    "normalizedName" : "殺意のわんこ",
+    "original" : "殺意のわんこ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "さついのわんこ"
+    ],
+    "searchText" : "殺意のわんこ さついのわんこ"
+  },
+  "殺意のウシネコノトリ" : {
+    "normalizedName" : "殺意のうしねこのとり",
+    "original" : "殺意のウシネコノトリ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "さついのうしねこのとり"
+    ],
+    "searchText" : "殺意のうしねこのとり さついのうしねこのとり"
+  },
+  "殺意のキモネコ" : {
+    "normalizedName" : "殺意のきもねこ",
+    "original" : "殺意のキモネコ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "さついのきもねこ"
+    ],
+    "searchText" : "殺意のきもねこ さついのきもねこ"
+  },
+  "殺意のタンクネコ" : {
+    "normalizedName" : "殺意のたんくねこ",
+    "original" : "殺意のタンクネコ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "さついのたんくねこ"
+    ],
+    "searchText" : "殺意のたんくねこ さついのたんくねこ"
+  },
+  "殺意のネコ" : {
+    "normalizedName" : "殺意のねこ",
+    "original" : "殺意のネコ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "さついのねこ"
+    ],
+    "searchText" : "殺意のねこ さついのねこ"
+  },
+  "淘の賢者ダーヴィン" : {
+    "normalizedName" : "淘の賢者だーゔぃん",
+    "original" : "淘の賢者ダーヴィン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "のけんじゃだーゔぃん"
+    ],
+    "searchText" : "淘の賢者だーゔぃん のけんじゃだーゔぃん"
+  },
+  "烈海王" : {
+    "normalizedName" : "烈海王",
+    "original" : "烈海王",
+    "readingSource" : "automatic",
+    "readings" : [
+      "れつかいおう"
+    ],
+    "searchText" : "烈海王 れつかいおう"
+  },
+  "犬武者 武蔵" : {
+    "normalizedName" : "犬武者武蔵",
+    "original" : "犬武者 武蔵",
+    "readingSource" : "automatic",
+    "readings" : [
+      "いぬむしゃむさし"
+    ],
+    "searchText" : "犬武者武蔵 いぬむしゃむさし"
+  },
+  "狂乱のもねこ" : {
+    "normalizedName" : "狂乱のもねこ",
+    "original" : "狂乱のもねこ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "きょうらんのもねこ"
+    ],
+    "searchText" : "狂乱のもねこ きょうらんのもねこ"
+  },
+  "狂乱のウシネコ" : {
+    "normalizedName" : "狂乱のうしねこ",
+    "original" : "狂乱のウシネコ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "きょうらんのうしねこ"
+    ],
+    "searchText" : "狂乱のうしねこ きょうらんのうしねこ"
+  },
+  "狂乱のキモネコ" : {
+    "normalizedName" : "狂乱のきもねこ",
+    "original" : "狂乱のキモネコ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "きょうらんのきもねこ"
+    ],
+    "searchText" : "狂乱のきもねこ きょうらんのきもねこ"
+  },
+  "狂乱のスターもねこ" : {
+    "normalizedName" : "狂乱のすたーもねこ",
+    "original" : "狂乱のスターもねこ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "きょうらんのすたーもねこ"
+    ],
+    "searchText" : "狂乱のすたーもねこ きょうらんのすたーもねこ"
+  },
+  "狂乱のタンクネコ" : {
+    "normalizedName" : "狂乱のたんくねこ",
+    "original" : "狂乱のタンクネコ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "きょうらんのたんくねこ"
+    ],
+    "searchText" : "狂乱のたんくねこ きょうらんのたんくねこ"
+  },
+  "狂乱のネコ" : {
+    "normalizedName" : "狂乱のねこ",
+    "original" : "狂乱のネコ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "きょうらんのねこ"
+    ],
+    "searchText" : "狂乱のねこ きょうらんのねこ"
+  },
+  "狂乱のネコトカゲ" : {
+    "normalizedName" : "狂乱のねことかげ",
+    "original" : "狂乱のネコトカゲ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "きょうらんのねことかげ"
+    ],
+    "searchText" : "狂乱のねことかげ きょうらんのねことかげ"
+  },
+  "狂乱のネコノトリ" : {
+    "normalizedName" : "狂乱のねこのとり",
+    "original" : "狂乱のネコノトリ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "きょうらんのねこのとり"
+    ],
+    "searchText" : "狂乱のねこのとり きょうらんのねこのとり"
+  },
+  "狂乱のネコフィッシュ" : {
+    "normalizedName" : "狂乱のねこふぃっしゅ",
+    "original" : "狂乱のネコフィッシュ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "きょうらんのねこふぃっしゅ"
+    ],
+    "searchText" : "狂乱のねこふぃっしゅ きょうらんのねこふぃっしゅ"
+  },
+  "狂乱のバトルネコ" : {
+    "normalizedName" : "狂乱のばとるねこ",
+    "original" : "狂乱のバトルネコ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "きょうらんのばとるねこ"
+    ],
+    "searchText" : "狂乱のばとるねこ きょうらんのばとるねこ"
+  },
+  "狂乱のユキ" : {
+    "normalizedName" : "狂乱のゆき",
+    "original" : "狂乱のユキ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "きょうらんのゆき"
+    ],
+    "searchText" : "狂乱のゆき きょうらんのゆき"
+  },
+  "狂乱の巨神ネコ" : {
+    "normalizedName" : "狂乱の巨神ねこ",
+    "original" : "狂乱の巨神ネコ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "きょうらんのきょしんねこ"
+    ],
+    "searchText" : "狂乱の巨神ねこ きょうらんのきょしんねこ"
+  },
+  "猗窩座" : {
+    "normalizedName" : "猗窩座",
+    "original" : "猗窩座",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ざ"
+    ],
+    "searchText" : "猗窩座 ざ"
+  },
+  "猫縛り極上" : {
+    "normalizedName" : "猫縛り極上",
+    "original" : "猫縛り極上",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ねこしばりごくじょう"
+    ],
+    "searchText" : "猫縛り極上 ねこしばりごくじょう"
+  },
+  "獅子カバブー" : {
+    "normalizedName" : "獅子かばぶー",
+    "original" : "獅子カバブー",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ししかばぶー"
+    ],
+    "searchText" : "獅子かばぶー ししかばぶー"
+  },
+  "獅子姉妹" : {
+    "normalizedName" : "獅子姉妹",
+    "original" : "獅子姉妹",
+    "readingSource" : "automatic",
+    "readings" : [
+      "しししまい"
+    ],
+    "searchText" : "獅子姉妹 しししまい"
+  },
+  "理の賢者ニュトーン" : {
+    "normalizedName" : "理の賢者にゅとーん",
+    "original" : "理の賢者ニュトーン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "りのけんじゃにゅとーん"
+    ],
+    "searchText" : "理の賢者にゅとーん りのけんじゃにゅとーん"
+  },
+  "生命の賢者Dr.ノーヴァ" : {
+    "normalizedName" : "生命の賢者drのーゔぁ",
+    "original" : "生命の賢者Dr.ノーヴァ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "せいめいのけんじゃdrのーゔぁ"
+    ],
+    "searchText" : "生命の賢者drのーゔぁ せいめいのけんじゃdrのーゔぁ"
+  },
+  "瘋頭" : {
+    "normalizedName" : "瘋頭",
+    "original" : "瘋頭",
+    "readingSource" : "automatic",
+    "readings" : [
+      "瘋頭"
+    ],
+    "searchText" : "瘋頭"
+  },
+  "癒術士" : {
+    "normalizedName" : "癒術士",
+    "original" : "癒術士",
+    "readingSource" : "automatic",
+    "readings" : [
+      "いえじゅつし"
+    ],
+    "searchText" : "癒術士 いえじゅつし"
+  },
+  "相楽左之助" : {
+    "normalizedName" : "相楽左之助",
+    "original" : "相楽左之助",
+    "readingSource" : "automatic",
+    "readings" : [
+      "さがらさのすけ"
+    ],
+    "searchText" : "相楽左之助 さがらさのすけ"
+  },
+  "真アサシン" : {
+    "normalizedName" : "真あさしん",
+    "original" : "真アサシン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "しんあさしん"
+    ],
+    "searchText" : "真あさしん しんあさしん"
+  },
+  "真レジェンドブンブン" : {
+    "normalizedName" : "真れじぇんどぶんぶん",
+    "original" : "真レジェンドブンブン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "しんれじぇんどぶんぶん"
+    ],
+    "searchText" : "真れじぇんどぶんぶん しんれじぇんどぶんぶん"
+  },
+  "破壊生物クオリネン" : {
+    "normalizedName" : "破壊生物くおりねん",
+    "original" : "破壊生物クオリネン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "はかいせいぶつくおりねん"
+    ],
+    "searchText" : "破壊生物くおりねん はかいせいぶつくおりねん"
+  },
+  "破壊神ジャガンドー" : {
+    "normalizedName" : "破壊神じゃがんどー",
+    "original" : "破壊神ジャガンドー",
+    "readingSource" : "automatic",
+    "readings" : [
+      "はかいしんじゃがんどー"
+    ],
+    "searchText" : "破壊神じゃがんどー はかいしんじゃがんどー"
+  },
+  "神さま" : {
+    "normalizedName" : "神さま",
+    "original" : "神さま",
+    "readingSource" : "automatic",
+    "readings" : [
+      "かみさま"
+    ],
+    "searchText" : "神さま かみさま"
+  },
+  "神さま（本気）" : {
+    "normalizedName" : "神さま本気",
+    "original" : "神さま（本気）",
+    "readingSource" : "automatic",
+    "readings" : [
+      "かみさまほんき"
+    ],
+    "searchText" : "神さま本気 かみさまほんき"
+  },
+  "神官マモーン" : {
+    "normalizedName" : "神官まもーん",
+    "original" : "神官マモーン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "しんかんまもーん"
+    ],
+    "searchText" : "神官まもーん しんかんまもーん"
+  },
+  "福の神" : {
+    "normalizedName" : "福の神",
+    "original" : "福の神",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ふくのかみ"
+    ],
+    "searchText" : "福の神 ふくのかみ"
+  },
+  "第１０の使徒" : {
+    "normalizedName" : "第10の使徒",
+    "original" : "第１０の使徒",
+    "readingSource" : "automatic",
+    "readings" : [
+      "だい10のしと"
+    ],
+    "searchText" : "第10の使徒 だい10のしと"
+  },
+  "第４の使徒" : {
+    "normalizedName" : "第4の使徒",
+    "original" : "第４の使徒",
+    "readingSource" : "automatic",
+    "readings" : [
+      "だい4のしと"
+    ],
+    "searchText" : "第4の使徒 だい4のしと"
+  },
+  "第６の使徒" : {
+    "normalizedName" : "第6の使徒",
+    "original" : "第６の使徒",
+    "readingSource" : "automatic",
+    "readings" : [
+      "だい6のしと"
+    ],
+    "searchText" : "第6の使徒 だい6のしと"
+  },
+  "第９の使徒" : {
+    "normalizedName" : "第9の使徒",
+    "original" : "第９の使徒",
+    "readingSource" : "automatic",
+    "readings" : [
+      "だい9のしと"
+    ],
+    "searchText" : "第9の使徒 だい9のしと"
+  },
+  "範馬刃牙" : {
+    "normalizedName" : "範馬刃牙",
+    "original" : "範馬刃牙",
+    "readingSource" : "automatic",
+    "readings" : [
+      "はんまばき"
+    ],
+    "searchText" : "範馬刃牙 はんまばき"
+  },
+  "純金倶楽部" : {
+    "normalizedName" : "純金倶楽部",
+    "original" : "純金倶楽部",
+    "readingSource" : "automatic",
+    "readings" : [
+      "じゅんきんくらぶ"
+    ],
+    "searchText" : "純金倶楽部 じゅんきんくらぶ"
+  },
+  "累" : {
+    "normalizedName" : "累",
+    "original" : "累",
+    "readingSource" : "automatic",
+    "readings" : [
+      "るい"
+    ],
+    "searchText" : "累 るい"
+  },
+  "綺羅星ペロ" : {
+    "normalizedName" : "綺羅星ぺろ",
+    "original" : "綺羅星ペロ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "きらせいぺろ"
+    ],
+    "searchText" : "綺羅星ぺろ きらせいぺろ"
+  },
+  "緋村剣心" : {
+    "normalizedName" : "緋村剣心",
+    "original" : "緋村剣心",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ひむらけんしん"
+    ],
+    "searchText" : "緋村剣心 ひむらけんしん"
+  },
+  "聖天ゴクラッコ" : {
+    "normalizedName" : "聖天ごくらっこ",
+    "original" : "聖天ゴクラッコ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "せいてんごくらっこ"
+    ],
+    "searchText" : "聖天ごくらっこ せいてんごくらっこ"
+  },
+  "聖者ポプウ" : {
+    "normalizedName" : "聖者ぽぷう",
+    "original" : "聖者ポプウ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "せいじゃぽぷう"
+    ],
+    "searchText" : "聖者ぽぷう せいじゃぽぷう"
+  },
+  "般若我王" : {
+    "normalizedName" : "般若我王",
+    "original" : "般若我王",
+    "readingSource" : "automatic",
+    "readings" : [
+      "はんにゃわがおう"
+    ],
+    "searchText" : "般若我王 はんにゃわがおう"
+  },
+  "花山薫" : {
+    "normalizedName" : "花山薫",
+    "original" : "花山薫",
+    "readingSource" : "automatic",
+    "readings" : [
+      "かざんかおる"
+    ],
+    "searchText" : "花山薫 かざんかおる"
+  },
+  "花火玉" : {
+    "normalizedName" : "花火玉",
+    "original" : "花火玉",
+    "readingSource" : "automatic",
+    "readings" : [
+      "はなひだま"
+    ],
+    "searchText" : "花火玉 はなひだま"
+  },
+  "花火職人（低空）" : {
+    "normalizedName" : "花火職人低空",
+    "original" : "花火職人（低空）",
+    "readingSource" : "automatic",
+    "readings" : [
+      "はなびしょくにんていくう"
+    ],
+    "searchText" : "花火職人低空 はなびしょくにんていくう"
+  },
+  "花火職人（高空）" : {
+    "normalizedName" : "花火職人高空",
+    "original" : "花火職人（高空）",
+    "readingSource" : "automatic",
+    "readings" : [
+      "はなびしょくにんこうくう"
+    ],
+    "searchText" : "花火職人高空 はなびしょくにんこうくう"
+  },
+  "薔薇園の魔女" : {
+    "normalizedName" : "薔薇園の魔女",
+    "original" : "薔薇園の魔女",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ばらえんのまじょ"
+    ],
+    "searchText" : "薔薇園の魔女 ばらえんのまじょ"
+  },
+  "覚醒のネコムート" : {
+    "normalizedName" : "覚醒のねこむーと",
+    "original" : "覚醒のネコムート",
+    "readingSource" : "automatic",
+    "readings" : [
+      "かくせいのねこむーと"
+    ],
+    "searchText" : "覚醒のねこむーと かくせいのねこむーと"
+  },
+  "論の賢者ソラクティス" : {
+    "normalizedName" : "論の賢者そらくてぃす",
+    "original" : "論の賢者ソラクティス",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ろんのけんじゃそらくてぃす"
+    ],
+    "searchText" : "論の賢者そらくてぃす ろんのけんじゃそらくてぃす"
+  },
+  "謎の厄災" : {
+    "normalizedName" : "謎の厄災",
+    "original" : "謎の厄災",
+    "readingSource" : "automatic",
+    "readings" : [
+      "なぞのやくさい"
+    ],
+    "searchText" : "謎の厄災 なぞのやくさい"
+  },
+  "謎の雪山" : {
+    "normalizedName" : "謎の雪山",
+    "original" : "謎の雪山",
+    "readingSource" : "automatic",
+    "readings" : [
+      "なぞのゆきやま"
+    ],
+    "searchText" : "謎の雪山 なぞのゆきやま"
+  },
+  "謎仮面のウララー" : {
+    "normalizedName" : "謎仮面のうららー",
+    "original" : "謎仮面のウララー",
+    "readingSource" : "automatic",
+    "readings" : [
+      "なぞかめんのうららー"
+    ],
+    "searchText" : "謎仮面のうららー なぞかめんのうららー"
+  },
+  "豚戦わんこ" : {
+    "normalizedName" : "豚戦わんこ",
+    "original" : "豚戦わんこ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ぶたせんわんこ"
+    ],
+    "searchText" : "豚戦わんこ ぶたせんわんこ"
+  },
+  "豪鬼" : {
+    "normalizedName" : "豪鬼",
+    "original" : "豪鬼",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ごうき"
+    ],
+    "searchText" : "豪鬼 ごうき"
+  },
+  "赤井ブン太郎" : {
+    "normalizedName" : "赤井ぶん太郎",
+    "original" : "赤井ブン太郎",
+    "readingSource" : "automatic",
+    "readings" : [
+      "あかいぶんたろう"
+    ],
+    "searchText" : "赤井ぶん太郎 あかいぶんたろう"
+  },
+  "赤毛のにょろ" : {
+    "normalizedName" : "赤毛のにょろ",
+    "original" : "赤毛のにょろ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "あかげのにょろ"
+    ],
+    "searchText" : "赤毛のにょろ あかげのにょろ"
+  },
+  "赤羅我王" : {
+    "normalizedName" : "赤羅我王",
+    "original" : "赤羅我王",
+    "readingSource" : "automatic",
+    "readings" : [
+      "あからわがおう"
+    ],
+    "searchText" : "赤羅我王 あからわがおう"
+  },
+  "赤髪のビューティムキにゃん" : {
+    "normalizedName" : "赤髪のびゅーてぃむきにゃん",
+    "original" : "赤髪のビューティムキにゃん",
+    "readingSource" : "automatic",
+    "readings" : [
+      "あかがみのびゅーてぃむきにゃん"
+    ],
+    "searchText" : "赤髪のびゅーてぃむきにゃん あかがみのびゅーてぃむきにゃん"
+  },
+  "超メタルカバちゃん" : {
+    "normalizedName" : "超めたるかばちゃん",
+    "original" : "超メタルカバちゃん",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ちょうめたるかばちゃん"
+    ],
+    "searchText" : "超めたるかばちゃん ちょうめたるかばちゃん"
+  },
+  "超古獣ナーラ" : {
+    "normalizedName" : "超古獣なーら",
+    "original" : "超古獣ナーラ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ちょうこじゅうなーら"
+    ],
+    "searchText" : "超古獣なーら ちょうこじゅうなーら"
+  },
+  "超古獣マガモジョー" : {
+    "normalizedName" : "超古獣まがもじょー",
+    "original" : "超古獣マガモジョー",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ちょうこじゅうまがもじょー"
+    ],
+    "searchText" : "超古獣まがもじょー ちょうこじゅうまがもじょー"
+  },
+  "超天獣ラジャコング" : {
+    "normalizedName" : "超天獣らじゃこんぐ",
+    "original" : "超天獣ラジャコング",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ちょうてんじゅうらじゃこんぐ"
+    ],
+    "searchText" : "超天獣らじゃこんぐ ちょうてんじゅうらじゃこんぐ"
+  },
+  "超拳獣ブンナグリオス" : {
+    "normalizedName" : "超拳獣ぶんなぐりおす",
+    "original" : "超拳獣ブンナグリオス",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ちょうけんじゅうぶんなぐりおす"
+    ],
+    "searchText" : "超拳獣ぶんなぐりおす ちょうけんじゅうぶんなぐりおす"
+  },
+  "超新星テッサー" : {
+    "normalizedName" : "超新星てっさー",
+    "original" : "超新星テッサー",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ちょうしんせいてっさー"
+    ],
+    "searchText" : "超新星てっさー ちょうしんせいてっさー"
+  },
+  "超暴獣イビルージョン" : {
+    "normalizedName" : "超暴獣いびるーじょん",
+    "original" : "超暴獣イビルージョン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ちょうぼうじゅういびるーじょん"
+    ],
+    "searchText" : "超暴獣いびるーじょん ちょうぼうじゅういびるーじょん"
+  },
+  "超棘獣ナマケモルガ" : {
+    "normalizedName" : "超棘獣なまけもるが",
+    "original" : "超棘獣ナマケモルガ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ちょうとげけものなまけもるが"
+    ],
+    "searchText" : "超棘獣なまけもるが ちょうとげけものなまけもるが"
+  },
+  "超極悪大帝ワルモーン" : {
+    "normalizedName" : "超極悪大帝わるもーん",
+    "original" : "超極悪大帝ワルモーン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ちょうごくあくたいていわるもーん"
+    ],
+    "searchText" : "超極悪大帝わるもーん ちょうごくあくたいていわるもーん"
+  },
+  "超炎獣テオニール" : {
+    "normalizedName" : "超炎獣ておにーる",
+    "original" : "超炎獣テオニール",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ちょうえんじゅうておにーる"
+    ],
+    "searchText" : "超炎獣ておにーる ちょうえんじゅうておにーる"
+  },
+  "超爆獣アリアント" : {
+    "normalizedName" : "超爆獣ありあんと",
+    "original" : "超爆獣アリアント",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ちょうばくじゅうありあんと"
+    ],
+    "searchText" : "超爆獣ありあんと ちょうばくじゅうありあんと"
+  },
+  "超牙獣クロコックス" : {
+    "normalizedName" : "超牙獣くろこっくす",
+    "original" : "超牙獣クロコックス",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ちょうきばじゅうくろこっくす"
+    ],
+    "searchText" : "超牙獣くろこっくす ちょうきばじゅうくろこっくす"
+  },
+  "超猿獣ルーザ" : {
+    "normalizedName" : "超猿獣るーざ",
+    "original" : "超猿獣ルーザ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ちょうさるじゅうるーざ"
+    ],
+    "searchText" : "超猿獣るーざ ちょうさるじゅうるーざ"
+  },
+  "超生命体ゼロルーザ" : {
+    "normalizedName" : "超生命体ぜろるーざ",
+    "original" : "超生命体ゼロルーザ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ちょうせいめいたいぜろるーざ"
+    ],
+    "searchText" : "超生命体ぜろるーざ ちょうせいめいたいぜろるーざ"
+  },
+  "超甲獣シザーレックス" : {
+    "normalizedName" : "超甲獣しざーれっくす",
+    "original" : "超甲獣シザーレックス",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ちょうこうじゅうしざーれっくす"
+    ],
+    "searchText" : "超甲獣しざーれっくす ちょうこうじゅうしざーれっくす"
+  },
+  "超町長" : {
+    "normalizedName" : "超町長",
+    "original" : "超町長",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ちょうちょうちょう"
+    ],
+    "searchText" : "超町長 ちょうちょうちょう"
+  },
+  "超禍獣シングリオン" : {
+    "normalizedName" : "超禍獣しんぐりおん",
+    "original" : "超禍獣シングリオン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ちょうかじゅうしんぐりおん"
+    ],
+    "searchText" : "超禍獣しんぐりおん ちょうかじゅうしんぐりおん"
+  },
+  "超竜獣オウルハズク" : {
+    "normalizedName" : "超竜獣おうるはずく",
+    "original" : "超竜獣オウルハズク",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ちょうりゅうじゅうおうるはずく"
+    ],
+    "searchText" : "超竜獣おうるはずく ちょうりゅうじゅうおうるはずく"
+  },
+  "超翼獣ピヨルーツ" : {
+    "normalizedName" : "超翼獣ぴよるーつ",
+    "original" : "超翼獣ピヨルーツ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ちょうよくじゅうぴよるーつ"
+    ],
+    "searchText" : "超翼獣ぴよるーつ ちょうよくじゅうぴよるーつ"
+  },
+  "超舌獣ラングマスター" : {
+    "normalizedName" : "超舌獣らんぐますたー",
+    "original" : "超舌獣ラングマスター",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ちょうぜつじゅうらんぐますたー"
+    ],
+    "searchText" : "超舌獣らんぐますたー ちょうぜつじゅうらんぐますたー"
+  },
+  "超豚獣ピーギィ" : {
+    "normalizedName" : "超豚獣ぴーぎぃ",
+    "original" : "超豚獣ピーギィ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ちょうとんじゅうぴーぎぃ"
+    ],
+    "searchText" : "超豚獣ぴーぎぃ ちょうとんじゅうぴーぎぃ"
+  },
+  "超象獣パパオウ" : {
+    "normalizedName" : "超象獣ぱぱおう",
+    "original" : "超象獣パパオウ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ちょうぞうじゅうぱぱおう"
+    ],
+    "searchText" : "超象獣ぱぱおう ちょうぞうじゅうぱぱおう"
+  },
+  "超闇獣ダックジョー" : {
+    "normalizedName" : "超闇獣だっくじょー",
+    "original" : "超闇獣ダックジョー",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ちょうやみじゅうだっくじょー"
+    ],
+    "searchText" : "超闇獣だっくじょー ちょうやみじゅうだっくじょー"
+  },
+  "超魚獣アンガブル" : {
+    "normalizedName" : "超魚獣あんがぶる",
+    "original" : "超魚獣アンガブル",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ちょうさかなじゅうあんがぶる"
+    ],
+    "searchText" : "超魚獣あんがぶる ちょうさかなじゅうあんがぶる"
+  },
+  "超鳥獣アヒルジョー" : {
+    "normalizedName" : "超鳥獣あひるじょー",
+    "original" : "超鳥獣アヒルジョー",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ちょうちょうじゅうあひるじょー"
+    ],
+    "searchText" : "超鳥獣あひるじょー ちょうちょうじゅうあひるじょー"
+  },
+  "足軽わんこ" : {
+    "normalizedName" : "足軽わんこ",
+    "original" : "足軽わんこ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "あしがるわんこ"
+    ],
+    "searchText" : "足軽わんこ あしがるわんこ"
+  },
+  "迅雷の黒騎馬兵" : {
+    "normalizedName" : "迅雷の黒騎馬兵",
+    "original" : "迅雷の黒騎馬兵",
+    "readingSource" : "automatic",
+    "readings" : [
+      "じんらいのくろきばへい"
+    ],
+    "searchText" : "迅雷の黒騎馬兵 じんらいのくろきばへい"
+  },
+  "達人ウリル" : {
+    "normalizedName" : "達人うりる",
+    "original" : "達人ウリル",
+    "readingSource" : "automatic",
+    "readings" : [
+      "たつじんうりる"
+    ],
+    "searchText" : "達人うりる たつじんうりる"
+  },
+  "遠坂 凛" : {
+    "normalizedName" : "遠坂凛",
+    "original" : "遠坂 凛",
+    "readingSource" : "automatic",
+    "readings" : [
+      "えんさかりん"
+    ],
+    "searchText" : "遠坂凛 えんさかりん"
+  },
+  "邪悪なタンクネコ" : {
+    "normalizedName" : "邪悪なたんくねこ",
+    "original" : "邪悪なタンクネコ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "じゃあくなたんくねこ"
+    ],
+    "searchText" : "邪悪なたんくねこ じゃあくなたんくねこ"
+  },
+  "邪悪なネコ" : {
+    "normalizedName" : "邪悪なねこ",
+    "original" : "邪悪なネコ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "じゃあくなねこ"
+    ],
+    "searchText" : "邪悪なねこ じゃあくなねこ"
+  },
+  "邪悪なバトルネコ" : {
+    "normalizedName" : "邪悪なばとるねこ",
+    "original" : "邪悪なバトルネコ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "じゃあくなばとるねこ"
+    ],
+    "searchText" : "邪悪なばとるねこ じゃあくなばとるねこ"
+  },
+  "重機C・A・T" : {
+    "normalizedName" : "重機cat",
+    "original" : "重機C・A・T",
+    "readingSource" : "automatic",
+    "readings" : [
+      "じゅうきcat"
+    ],
+    "searchText" : "重機cat じゅうきcat"
+  },
+  "野生のわんこ" : {
+    "normalizedName" : "野生のわんこ",
+    "original" : "野生のわんこ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "やせいのわんこ"
+    ],
+    "searchText" : "野生のわんこ やせいのわんこ"
+  },
+  "金のカオル君" : {
+    "normalizedName" : "金のかおる君",
+    "original" : "金のカオル君",
+    "readingSource" : "custom",
+    "readings" : [
+      "きんのかおるくん"
+    ],
+    "searchText" : "金のかおる君 きんのかおるくん"
+  },
+  "金カバちゃん" : {
+    "normalizedName" : "金かばちゃん",
+    "original" : "金カバちゃん",
+    "readingSource" : "automatic",
+    "readings" : [
+      "きんかばちゃん"
+    ],
+    "searchText" : "金かばちゃん きんかばちゃん"
+  },
+  "閻魔大王" : {
+    "normalizedName" : "閻魔大王",
+    "original" : "閻魔大王",
+    "readingSource" : "automatic",
+    "readings" : [
+      "えんまだいおう"
+    ],
+    "searchText" : "閻魔大王 えんまだいおう"
+  },
+  "阿亀我王" : {
+    "normalizedName" : "阿亀我王",
+    "original" : "阿亀我王",
+    "readingSource" : "automatic",
+    "readings" : [
+      "あかめわがおう"
+    ],
+    "searchText" : "阿亀我王 あかめわがおう"
+  },
+  "雪玉" : {
+    "normalizedName" : "雪玉",
+    "original" : "雪玉",
+    "readingSource" : "automatic",
+    "readings" : [
+      "ゆきだま"
+    ],
+    "searchText" : "雪玉 ゆきだま"
+  },
+  "風（白）" : {
+    "normalizedName" : "風白",
+    "original" : "風（白）",
+    "readingSource" : "automatic",
+    "readings" : [
+      "かぜしろ"
+    ],
+    "searchText" : "風白 かぜしろ"
+  },
+  "風（赤）" : {
+    "normalizedName" : "風赤",
+    "original" : "風（赤）",
+    "readingSource" : "automatic",
+    "readings" : [
+      "かぜあか"
+    ],
+    "searchText" : "風赤 かぜあか"
+  },
+  "風（黒）" : {
+    "normalizedName" : "風黒",
+    "original" : "風（黒）",
+    "readingSource" : "automatic",
+    "readings" : [
+      "かぜくろ"
+    ],
+    "searchText" : "風黒 かぜくろ"
+  },
+  "騎馬兵" : {
+    "normalizedName" : "騎馬兵",
+    "original" : "騎馬兵",
+    "readingSource" : "automatic",
+    "readings" : [
+      "きばへい"
+    ],
+    "searchText" : "騎馬兵 きばへい"
+  },
+  "高校教師" : {
+    "normalizedName" : "高校教師",
+    "original" : "高校教師",
+    "readingSource" : "automatic",
+    "readings" : [
+      "こうこうきょうし"
+    ],
+    "searchText" : "高校教師 こうこうきょうし"
+  },
+  "鬼化わんこ" : {
+    "normalizedName" : "鬼化わんこ",
+    "original" : "鬼化わんこ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "おにかわんこ"
+    ],
+    "searchText" : "鬼化わんこ おにかわんこ"
+  },
+  "鬼化クマ先生" : {
+    "normalizedName" : "鬼化くま先生",
+    "original" : "鬼化クマ先生",
+    "readingSource" : "automatic",
+    "readings" : [
+      "おにかくませんせい"
+    ],
+    "searchText" : "鬼化くま先生 おにかくませんせい"
+  },
+  "鬼化ゴリさん" : {
+    "normalizedName" : "鬼化ごりさん",
+    "original" : "鬼化ゴリさん",
+    "readingSource" : "automatic",
+    "readings" : [
+      "おにかごりさん"
+    ],
+    "searchText" : "鬼化ごりさん おにかごりさん"
+  },
+  "魅惑の魔導士ヴィボーン" : {
+    "normalizedName" : "魅惑の魔導士ゔぃぼーん",
+    "original" : "魅惑の魔導士ヴィボーン",
+    "readingSource" : "automatic",
+    "readings" : [
+      "みわくのまどうしゔぃぼーん"
+    ],
+    "searchText" : "魅惑の魔導士ゔぃぼーん みわくのまどうしゔぃぼーん"
+  },
+  "魔我王" : {
+    "normalizedName" : "魔我王",
+    "original" : "魔我王",
+    "readingSource" : "automatic",
+    "readings" : [
+      "まわがおう"
+    ],
+    "searchText" : "魔我王 まわがおう"
+  },
+  "魔肖ネロ" : {
+    "normalizedName" : "魔肖ねろ",
+    "original" : "魔肖ネロ",
+    "readingSource" : "automatic",
+    "readings" : [
+      "まにねろ"
+    ],
+    "searchText" : "魔肖ねろ まにねろ"
+  },
+  "魘夢" : {
+    "normalizedName" : "魘夢",
+    "original" : "魘夢",
+    "readingSource" : "automatic",
+    "readings" : [
+      "魘夢"
+    ],
+    "searchText" : "魘夢"
+  }
+}

@@ -1,0 +1,3125 @@
+{
+  "revision": "525a4c287e84f2261bdb7ea4cc82a03227796038",
+  "images": [
+    {
+      "asset": "enemy000",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_000.png",
+      "sha256": "05c1e6b8283ec43deb47b3549de83460e727f0b6fd08d3ed389a3a4b5ea59b69"
+    },
+    {
+      "asset": "enemy001",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_001.png",
+      "sha256": "eca741fa5eb6df0f874b835ebc7e7fa97d3fd01d9047534289fdc0d2cd6981ee"
+    },
+    {
+      "asset": "enemy002",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_002.png",
+      "sha256": "41c39ae832bdc46e9090b35c5e98839a2c39824f3dc9aa3469b1aa44d5a27de9"
+    },
+    {
+      "asset": "enemy003",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_003.png",
+      "sha256": "dd61ca1787eb212f088334c9aba0fae3a984695f401485aa22bc5c0cf2290d28"
+    },
+    {
+      "asset": "enemy004",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_004.png",
+      "sha256": "eef280aaacaee204dd15a3e6a148556aee7cfe29fe47aabbfe345de7ce807c30"
+    },
+    {
+      "asset": "enemy005",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_005.png",
+      "sha256": "bc69ca6f085e58fde4917c35c1bec7062ba0f7f84ae932f9fd6fa33120f87735"
+    },
+    {
+      "asset": "enemy006",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_006.png",
+      "sha256": "4ebcdcdc6c94c79cfea11c85a1584a3d8250ea6e8e6fae9cc546442880394313"
+    },
+    {
+      "asset": "enemy007",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_007.png",
+      "sha256": "b8a3fd833f2364d48a61d503152c9275d8e0d76aa5b7024248bc201d93d766e0"
+    },
+    {
+      "asset": "enemy008",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_008.png",
+      "sha256": "6f8223cb62a07247993f3a6c2736fa33a79c483bddc6dbe7c643f8fbdcf86ea9"
+    },
+    {
+      "asset": "enemy009",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_009.png",
+      "sha256": "249fba69b05afdc3f8701d6dd99015ac471ee37121d0fcb29e339d59bb691b87"
+    },
+    {
+      "asset": "enemy010",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_010.png",
+      "sha256": "a56e710268ca6eea461a0b3e576160bbd1d9f69bdc425034e4dd61a7a98f3264"
+    },
+    {
+      "asset": "enemy011",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_011.png",
+      "sha256": "7f770b739ba8e08ab3fe067b04350e65dc7b138b9bc8b7c39fc0f8efaef7fbb8"
+    },
+    {
+      "asset": "enemy012",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_012.png",
+      "sha256": "4c4b0a5786ac68c841303d675c317795f01d73510eed9a3846ff51ad314c6213"
+    },
+    {
+      "asset": "enemy013",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_013.png",
+      "sha256": "743736be750865dbe3b4f8e2899c96c276e5b42344b8dcbd82984c019d81b73c"
+    },
+    {
+      "asset": "enemy014",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_014.png",
+      "sha256": "7cf7e1891773e24b4a139e47e0de07fbfb46bf53aa2d74b1226733705d2d6acf"
+    },
+    {
+      "asset": "enemy015",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_015.png",
+      "sha256": "a954738a6fbdea07fa502dcb3a81ab4aae99ed0f5b99702e175143bdb6231005"
+    },
+    {
+      "asset": "enemy016",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_016.png",
+      "sha256": "8a5fde82100db13e47ef79a6944ecb4f53c33adce883b4b1ac5acf31efe5534a"
+    },
+    {
+      "asset": "enemy017",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_017.png",
+      "sha256": "b8aebf6c4975656aff6ff2bc7d421fd99fb09b4b6469beeafaf775a53965df27"
+    },
+    {
+      "asset": "enemy018",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_018.png",
+      "sha256": "a01b42399c940793641b245cb3c8d425d95083b7be8ee438616217b074c8088d"
+    },
+    {
+      "asset": "enemy021",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_021.png",
+      "sha256": "7e7ff165a837641380779378c95f1abec2ac22df39f589db1cd7df741a648e03"
+    },
+    {
+      "asset": "enemy022",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_022.png",
+      "sha256": "c05b4a6b1d57409bc2f6dea8742f1306168f57d4ffd7bcd26de21549f22bfdcf"
+    },
+    {
+      "asset": "enemy023",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_023.png",
+      "sha256": "84467ec8efe076af93dfb25aa6daf99d82185005f5d9a8eccae007ffcec73d10"
+    },
+    {
+      "asset": "enemy024",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_024.png",
+      "sha256": "7f1d5bd0c1094755a797674ad6aac98cc5d3e83081297f5872a5b30172199c7a"
+    },
+    {
+      "asset": "enemy031",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_031.png",
+      "sha256": "38cc697c4d67a889ac5e46501e14b37e0196472685411612cfbcd003df4d302e"
+    },
+    {
+      "asset": "enemy032",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_032.png",
+      "sha256": "c5b7039ba6b20cc421d07fb76bf69126aee090580e6fa32c0f0e3c41f11d2e09"
+    },
+    {
+      "asset": "enemy033",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_033.png",
+      "sha256": "e12d914d071b017c5f1890d7b1441c8e9ab7cf098d8ddfa8e1841385d190a874"
+    },
+    {
+      "asset": "enemy034",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_034.png",
+      "sha256": "b5d26d815825da7e27b80b11daa05430aa0c586e67652994dd54c05647f8b454"
+    },
+    {
+      "asset": "enemy035",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_035.png",
+      "sha256": "7d92527124e18d0cb4559879dc82cfdeac649ce951aa92805576a74f741915e0"
+    },
+    {
+      "asset": "enemy036",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_036.png",
+      "sha256": "ba4f7c797f98bc27b1d504c82440698164ab1a088cc0acb003a34288505037c9"
+    },
+    {
+      "asset": "enemy037",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_037.png",
+      "sha256": "b949e9ddc18dc52e81089091a8bdd798de0b046d1ccd80d4d4923420456b2319"
+    },
+    {
+      "asset": "enemy038",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_038.png",
+      "sha256": "d5ea731e260ef7518ee4e30743dfcde7430a74a9250753a30fefac2a8dda8c59"
+    },
+    {
+      "asset": "enemy039",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_039.png",
+      "sha256": "26c3f9c32c9683bc5cb4579094874620af5c07cc5f7fc8a46a36fd77bfff0b6e"
+    },
+    {
+      "asset": "enemy040",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_040.png",
+      "sha256": "8303341dfebc70e6a396d3b7daa85e9a134a3f556430b6384d14099c5ae409d8"
+    },
+    {
+      "asset": "enemy041",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_041.png",
+      "sha256": "8f1f9a9ca3feae7e958aa283524917cdf608094495513cd58f923aa4f763a5db"
+    },
+    {
+      "asset": "enemy042",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_042.png",
+      "sha256": "66729defda7ca0f0826de58e7a57a183577642af078abe71a658a65ac7905e2d"
+    },
+    {
+      "asset": "enemy043",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_043.png",
+      "sha256": "5ffdf4184788c1dfac991d0f5d09e66b5352d974eec8d54b5924ac2c4c648ea6"
+    },
+    {
+      "asset": "enemy044",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_044.png",
+      "sha256": "4a847d86abbb8e95d5828f4f1a8235e7f73276c09acf46442fd0a8d865cf0829"
+    },
+    {
+      "asset": "enemy045",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_045.png",
+      "sha256": "19b81621b487db820834d5c6fa7c1f8e2eabc22c3d61e12281c3b5376fab1809"
+    },
+    {
+      "asset": "enemy046",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_046.png",
+      "sha256": "cfaafd82fdb5cce348daf6bce6c885f12143b205ba05ad18830385968f4b510d"
+    },
+    {
+      "asset": "enemy047",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_047.png",
+      "sha256": "8edfba96149d6c44d930fd3f948d982cbf1d8835323f45470c6083d7be5d99d9"
+    },
+    {
+      "asset": "enemy048",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_048.png",
+      "sha256": "c306de9694a42c464443fb7f503a2ba1c8b71d3149a45100ebe3a9ce2bb8b861"
+    },
+    {
+      "asset": "enemy049",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_049.png",
+      "sha256": "e6b15f6fb1ec26cee46d14d648da6bad4047cf213c51471483be55e485c8a368"
+    },
+    {
+      "asset": "enemy050",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_050.png",
+      "sha256": "c47771bf021e8633d7673afa841a26e6ef92daa2c41b64ff5e23431f88784fe6"
+    },
+    {
+      "asset": "enemy051",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_051.png",
+      "sha256": "4d17b60f97bc8b5908a91787815cc68102c7f709779ba59666771de55f8fe17a"
+    },
+    {
+      "asset": "enemy052",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_052.png",
+      "sha256": "bcb6dd9776678a92807eaf2bca724b6d90a3f2fc91dc02c59956ff20e435dfc1"
+    },
+    {
+      "asset": "enemy053",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_053.png",
+      "sha256": "7f652f8578aec62b56bfb84d8362132e6f5eb3c564235c1bbab69aa1a6d605ff"
+    },
+    {
+      "asset": "enemy054",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_054.png",
+      "sha256": "152494c7890ee4a7763972e405c93432f70e9bd90dd50cd7a1d8690315ae1f6e"
+    },
+    {
+      "asset": "enemy056",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_056.png",
+      "sha256": "642b09390f94ef1fe155fad7326a91d97bce79ecd75dfd83c8e2910708366279"
+    },
+    {
+      "asset": "enemy057",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_057.png",
+      "sha256": "f256ab1c3074af4d741ae4889d55b7f1de4d1d949f7ab52ff20fbe5f1a2aa751"
+    },
+    {
+      "asset": "enemy058",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_058.png",
+      "sha256": "9cc2bba2522139d68a636cbb39a6e4e324a1703638af93dc43d66f175e0004a0"
+    },
+    {
+      "asset": "enemy059",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_059.png",
+      "sha256": "106b39318f962d8bd7b9aacfa37a31073389e8e86557acb7d34298c151aceedc"
+    },
+    {
+      "asset": "enemy062",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_062.png",
+      "sha256": "540b6450b3d55087d9cbf7037a570aa13c7b98fb99283df10c76786003978841"
+    },
+    {
+      "asset": "enemy063",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_063.png",
+      "sha256": "0b125945578a778cdeaeed495dde4cdcfe73d7465618f552a69e59f5cadcf0bf"
+    },
+    {
+      "asset": "enemy064",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_064.png",
+      "sha256": "78103e6bffa1f4dc97decb904828481d5e3bbaaa6c87d681f1564fe2cb2ec77b"
+    },
+    {
+      "asset": "enemy065",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_065.png",
+      "sha256": "afe340998d4638b9cd623cae5077bc70b60f40e6b053666b1d26355705f94986"
+    },
+    {
+      "asset": "enemy066",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_066.png",
+      "sha256": "8efe1ddef164ffc32c73110f5fe53d29b0829dd35dfa4d4158b6dfeab7d18106"
+    },
+    {
+      "asset": "enemy067",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_067.png",
+      "sha256": "73c7d1b6f8a5e9a94b968b97e5525287b105a435840908093b9f0ce7b4b06cce"
+    },
+    {
+      "asset": "enemy069",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_069.png",
+      "sha256": "6954d2db48ed1ab637b05932f7c85f3c9b803ee23a9dc6eff89a505065911455"
+    },
+    {
+      "asset": "enemy070",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_070.png",
+      "sha256": "97122c8d11ae3478f8061074e5058eda7a284cb31219993dbe1acdfc51aedfe8"
+    },
+    {
+      "asset": "enemy071",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_071.png",
+      "sha256": "fd864238bae9c8f59426bc9f82865dd4786a32dea63181ecd879b8c1b8835287"
+    },
+    {
+      "asset": "enemy075",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_075.png",
+      "sha256": "5a4fba06d91ff5fa0885f32308ee691f2e0e5fda320385408d03839a984f43dd"
+    },
+    {
+      "asset": "enemy076",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_076.png",
+      "sha256": "0128f3082dcf9c51b1d0b53a1ccea7bc35e1edc49439ee3295635e60fe3fc8ac"
+    },
+    {
+      "asset": "enemy077",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_077.png",
+      "sha256": "b6ba73b4df7631550bc8d8515c75f67e72a0a1761c4e382c80632d77777de16c"
+    },
+    {
+      "asset": "enemy078",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_078.png",
+      "sha256": "88230cf6fd3486265b5b12de3e04aca4590203be6e57adef7bb27fc320a1f37f"
+    },
+    {
+      "asset": "enemy079",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_079.png",
+      "sha256": "05adde3aa0988e0f374b3f4f17d7d3bc7f1a69b82fac42d861efc0bc6b7324f9"
+    },
+    {
+      "asset": "enemy080",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_080.png",
+      "sha256": "125728052d435abb9538bd1fa832f074e550a5e18502d36de85109d64d2d9601"
+    },
+    {
+      "asset": "enemy081",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_081.png",
+      "sha256": "d15ee8b97737fbc18f7d7ac67b5dfd94e6b15731b0e3c5daa77d4f0d4d641d0e"
+    },
+    {
+      "asset": "enemy082",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_082.png",
+      "sha256": "801ce116daa94f0cf2ccda9c02100f624411c4515c4d8f4ddf4251efbb09e689"
+    },
+    {
+      "asset": "enemy083",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_083.png",
+      "sha256": "16867e90e17e2296bce420e32e76974f2fd5cdb56c78ed1904cbcd6afceef357"
+    },
+    {
+      "asset": "enemy084",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_084.png",
+      "sha256": "8c7ff9b33f7eb8290a8cc6bffa335a0c0092f5ddd9fd0d49a42d0383afc5fc58"
+    },
+    {
+      "asset": "enemy085",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_085.png",
+      "sha256": "0d3ed383e9b1fcc17cc787ca25e26d6957c428ed3d0a5002f2e6413983e47f42"
+    },
+    {
+      "asset": "enemy086",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_086.png",
+      "sha256": "1140beddd175c72cb9ed06f39b51992291729d4c20e2070d8805a38ec212d935"
+    },
+    {
+      "asset": "enemy087",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_087.png",
+      "sha256": "c6390bad7e1116331bda2a7f6e9ebe9ef6eab4138ee231672274f064177b820f"
+    },
+    {
+      "asset": "enemy088",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_088.png",
+      "sha256": "3ba51f2e1dd17680d4465d1d8d4e267bd92a047cde67793a97d82b6f65a3439d"
+    },
+    {
+      "asset": "enemy089",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_089.png",
+      "sha256": "e0b068862225a6c6a0573f891fbcea699436244dff43398afdcc0750ae804248"
+    },
+    {
+      "asset": "enemy090",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_090.png",
+      "sha256": "6e0bc995736afc6d85fd328a684a05d820553f12d5ce6c749b122c049ba9392f"
+    },
+    {
+      "asset": "enemy091",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_091.png",
+      "sha256": "aff3ed34dae072f75973f8c19f3ccfc1a7f0f3df41759977075be87594665c0f"
+    },
+    {
+      "asset": "enemy092",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_092.png",
+      "sha256": "5aed42e8bf9541a893dd5237c2fb34a6f563f44c0e0d262b22a46fea0d57b0a6"
+    },
+    {
+      "asset": "enemy093",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_093.png",
+      "sha256": "f5bbfa1059196cdc2e257e4fb9370e18b11af30926210fe0842ab792e1b45821"
+    },
+    {
+      "asset": "enemy094",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_094.png",
+      "sha256": "23caa0709661d0b79e4839ec6085a7f6a9ee017bd047db0cfd2ca517b57ff721"
+    },
+    {
+      "asset": "enemy095",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_095.png",
+      "sha256": "69608db838ad0fbc3aa536eceb8fb02be8293f27519a5226a4b576e36d27e93b"
+    },
+    {
+      "asset": "enemy096",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_096.png",
+      "sha256": "6c7c13996dec83c9ae923bfc3a2e136dbfe9c2bb13309d7b15e4b32de5808a2d"
+    },
+    {
+      "asset": "enemy097",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_097.png",
+      "sha256": "ee76fedab97809f5a02187ba3f42e769cd5643f78a6eebb3a0c3461631f448d9"
+    },
+    {
+      "asset": "enemy098",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_098.png",
+      "sha256": "f040f9b8feb7e370067abe36472d0134f54e3d1ca156d754e4894f3be710e0d7"
+    },
+    {
+      "asset": "enemy099",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_099.png",
+      "sha256": "81644bba3751021879699281d38765e9873b91605ff483be090c1e0cea6124c9"
+    },
+    {
+      "asset": "enemy100",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_100.png",
+      "sha256": "b3999ab47227934e60e8bc7b7e8c896d5a1546910c0a27441ed403949c5c0fcf"
+    },
+    {
+      "asset": "enemy101",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_101.png",
+      "sha256": "dfecf0734b26db8edee5555707738bc04ca2cb8aa0d3b905ba1b7330e964e7c8"
+    },
+    {
+      "asset": "enemy102",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_102.png",
+      "sha256": "16169e38bc343a969afe4b0f523687b1bc0066a4c71737fc42e43476a09291fd"
+    },
+    {
+      "asset": "enemy103",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_103.png",
+      "sha256": "03677987c5d508c7f215aded365ce533faa7b18a25443351a50bd12ee2d62b62"
+    },
+    {
+      "asset": "enemy104",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_104.png",
+      "sha256": "38859e288ce8f55d70d0554c85e94dc315aecd57ad454ca41aa694f11b003a20"
+    },
+    {
+      "asset": "enemy105",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_105.png",
+      "sha256": "129a48d01f5872306b53ef55a1e9a5274099a7acb347ee30d33b926ce74e86a5"
+    },
+    {
+      "asset": "enemy106",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_106.png",
+      "sha256": "609dd3cc2ff587fa2c6c8d8bbedd1c9db241d5a2de62be7ce2f6d3124e2eb184"
+    },
+    {
+      "asset": "enemy107",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_107.png",
+      "sha256": "67164392ac912027a3c5cae1438fd94c735141f28815f63092dbc8d1674db6b9"
+    },
+    {
+      "asset": "enemy108",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_108.png",
+      "sha256": "9a9cb09a492a838792e8f660e7a9ffcde445834986f29b45cd62fe76ad02fd4f"
+    },
+    {
+      "asset": "enemy109",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_109.png",
+      "sha256": "e6367ac2bdd059ad20581862ad2d31f13f28438e70c441475b577eff1a615436"
+    },
+    {
+      "asset": "enemy110",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_110.png",
+      "sha256": "85e7bbf0eb5a08db63c6aa72c96fd27204e92f65c1e8e2de811cff08a547dbd0"
+    },
+    {
+      "asset": "enemy111",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_111.png",
+      "sha256": "579d904ae3837299f6d778a7dfe27a4a57f59bc21a160326ad6d9236571ca4d7"
+    },
+    {
+      "asset": "enemy112",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_112.png",
+      "sha256": "44c88b611564e41adc1a0d5121975112c8953ed2f285f785789ecf2143631eee"
+    },
+    {
+      "asset": "enemy113",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_113.png",
+      "sha256": "b099374e8fa5d0e6c581e0b018f6dbcbf5bf694439addc83af48da32123fbc17"
+    },
+    {
+      "asset": "enemy114",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_114.png",
+      "sha256": "7192419ecb6cfcfc1379574fdb3a2e51c69dbcf7a06bcfc2f358e177c1b8ae19"
+    },
+    {
+      "asset": "enemy115",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_115.png",
+      "sha256": "1f9ea90909ea784b851e7d749bc9a3346e3131c8917a0b7b8d06e053f81e09ec"
+    },
+    {
+      "asset": "enemy116",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_116.png",
+      "sha256": "b68f6ac19459e14c4759eb6b3641db13486d5d80908d1826ad3ec569623d2e56"
+    },
+    {
+      "asset": "enemy117",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_117.png",
+      "sha256": "8ee01fdec4531ea874d3c2653ac10f0dac59453fc3d180a0938342ee9ad5a65f"
+    },
+    {
+      "asset": "enemy118",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_118.png",
+      "sha256": "5607b33e69d3c29c4022b4e6a5df9532a7f12156b6032b0e691768888e109270"
+    },
+    {
+      "asset": "enemy119",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_119.png",
+      "sha256": "286569e92793632a3e275017892e02ef98ab2b6b96c13654c44170e67f824afb"
+    },
+    {
+      "asset": "enemy123",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_123.png",
+      "sha256": "95d06941641a859133c1c398eddea74a589ece01d49b9cd196034d4fe470154f"
+    },
+    {
+      "asset": "enemy124",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_124.png",
+      "sha256": "bf74ca6092e0738704ec3d9d07163cfd4b98f2d5fd3afe62b3a8a361444d4769"
+    },
+    {
+      "asset": "enemy125",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_125.png",
+      "sha256": "f341e85ca721c5180f91ec360f88df3864e8756ea85d7001a3069dde1e11a1bc"
+    },
+    {
+      "asset": "enemy126",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_126.png",
+      "sha256": "8965d4a2471dbf622c66ccb3b2c8bd1caf42d6d9385e5147aac77ba2ce05b6fa"
+    },
+    {
+      "asset": "enemy127",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_127.png",
+      "sha256": "b268cb30a317c734201328ad6053ad51af42c952498ca706332ec797afa14867"
+    },
+    {
+      "asset": "enemy128",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_128.png",
+      "sha256": "dc5cb5b64618c14cb14f3f58418ba4edf2ff872a6a2bb0de0e0391ecffba5c51"
+    },
+    {
+      "asset": "enemy129",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_129.png",
+      "sha256": "598d01424c41f9193656602a919d2fa3d92b73ad18509040eda409ce35082956"
+    },
+    {
+      "asset": "enemy130",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_130.png",
+      "sha256": "d5444c6a8d043a9176f74648e5b6e7a34bfc55536cc8a7e107a4a4b68ef881df"
+    },
+    {
+      "asset": "enemy131",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_131.png",
+      "sha256": "1278dcb852273e9afcbd8b2234914049a6c3f125e8e21505739593c32f7e146a"
+    },
+    {
+      "asset": "enemy132",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_132.png",
+      "sha256": "3915491dadd08b9817f2877301f328434cedddb6c9f3fd85afa35261a1c3699f"
+    },
+    {
+      "asset": "enemy133",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_133.png",
+      "sha256": "0f3ce3000a0e469952aaf1981789735d2d42a2a1eceffb652cf7634f7639be49"
+    },
+    {
+      "asset": "enemy134",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_134.png",
+      "sha256": "9a58da5e912db193f7c8bbc03f330b7b94ee2001432310871a6818ccf8a16391"
+    },
+    {
+      "asset": "enemy135",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_135.png",
+      "sha256": "327357bfe69edd76d091d9fab8fa9f06c6fb193ed8e6d86a22127b2fd4123752"
+    },
+    {
+      "asset": "enemy136",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_136.png",
+      "sha256": "c714fd07ecd7ec6a6853163acc095369376186ee49ac3867651de55b01532714"
+    },
+    {
+      "asset": "enemy137",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_137.png",
+      "sha256": "57e354c53199c31a7a68422cab4fea030e5e271cea3eefa0a89d3243af7317cb"
+    },
+    {
+      "asset": "enemy138",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_138.png",
+      "sha256": "f5bab8c202776d61b242bc9e44799ba519f9bcca961681955532e2a3c156a3d1"
+    },
+    {
+      "asset": "enemy139",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_139.png",
+      "sha256": "bf745a69374324c41db21337525bd21b14bb8a81c24a4962e800ed6a50d42cbb"
+    },
+    {
+      "asset": "enemy140",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_140.png",
+      "sha256": "e46831f3e06fb03a557c257dda58124815b99796c31e729b515924b31528aeb9"
+    },
+    {
+      "asset": "enemy146",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_146.png",
+      "sha256": "d067b6029eae05bc7cffaf29aa758b82dc08c9ba14f9d8664c5c388306908efc"
+    },
+    {
+      "asset": "enemy147",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_147.png",
+      "sha256": "68929539cc61adb6c2dab7cfab2770fae23350ba8fc920abd7b7e45a4c7ade76"
+    },
+    {
+      "asset": "enemy148",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_148.png",
+      "sha256": "1040fd888e068b96624113cdc22fb838fce4a5013ab7459ef10174cbb1d31f23"
+    },
+    {
+      "asset": "enemy149",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_149.png",
+      "sha256": "0976faf86a8a220e88306ec600cf221a9df2adba12122718e835e63a6854abd7"
+    },
+    {
+      "asset": "enemy150",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_150.png",
+      "sha256": "cc0197874c4cba21430745c9504014d5ea5726e67a0f8eefb55a67a638978947"
+    },
+    {
+      "asset": "enemy151",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_151.png",
+      "sha256": "ff1015b891e39a958ed86b6ae97e36651edab8b2a708f88f7c39a1897939cbd6"
+    },
+    {
+      "asset": "enemy152",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_152.png",
+      "sha256": "e36f237ce706df9d5a2baf173509d1385a0fe52241e8b2c6d96de6d4e657aa42"
+    },
+    {
+      "asset": "enemy153",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_153.png",
+      "sha256": "b20be317cbc1d487b26c96d482e608c63b77b36fbe835d0b739f3b51c69d51e7"
+    },
+    {
+      "asset": "enemy154",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_154.png",
+      "sha256": "a13107b7ee627d88ad77447375919d28c3c0d57ce7f420ad1fc6e43eeab2ba75"
+    },
+    {
+      "asset": "enemy155",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_155.png",
+      "sha256": "77bcb7a12502995aa81d2450466d5cc165d201999135b191a938e23c0c247fd3"
+    },
+    {
+      "asset": "enemy156",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_156.png",
+      "sha256": "2445ada3eaee591c5d2fac2a3e2fb68179175d0a7af06be4ce2eb0b71b467b4c"
+    },
+    {
+      "asset": "enemy158",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_158.png",
+      "sha256": "60d7bad0e62641f7e965ca5797184aa1b39651dd565e58935facea410f8e08a6"
+    },
+    {
+      "asset": "enemy159",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_159.png",
+      "sha256": "58af2f00ba689218abe9fd8537a6da556bc46dfe1c03aab3b4cf99a29b7af144"
+    },
+    {
+      "asset": "enemy160",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_160.png",
+      "sha256": "bb4ca7be12ce3c4708d8d44af59f08e01c84d62b682d7ee70084ed7999f56faa"
+    },
+    {
+      "asset": "enemy163",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_163.png",
+      "sha256": "ad080a02a95f490642d06ce17f816de73de377db6d13507749b51e921ebfb367"
+    },
+    {
+      "asset": "enemy164",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_164.png",
+      "sha256": "b2ccdf77ffccffa0a65e6a10edb9e6b80fa445a930d8bba1e9bfc5aea44e3fa5"
+    },
+    {
+      "asset": "enemy165",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_165.png",
+      "sha256": "0b5367ba872d1aea74e8ac97f6e3070eca6e6e1ae337544004bb809eb70122fe"
+    },
+    {
+      "asset": "enemy166",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_166.png",
+      "sha256": "01bf2432b10b1c509c51e3a4075a75d8b428a89bfd46b3c57d251d8764566f91"
+    },
+    {
+      "asset": "enemy167",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_167.png",
+      "sha256": "a07eb5d58e539acbd2d8c8d4b52f6b59cd54d6559e067c3da1b23b68d505c187"
+    },
+    {
+      "asset": "enemy168",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_168.png",
+      "sha256": "21fffcf680b9f8c868f8d20bcecb61226aebfa969441848d5e60d5618d07c9c6"
+    },
+    {
+      "asset": "enemy169",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_169.png",
+      "sha256": "d4e0b2d10a7566f3b3757bd236f3c445c9a6974117f59cf1d0a23808d4da0e52"
+    },
+    {
+      "asset": "enemy170",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_170.png",
+      "sha256": "203cbc8117fc201274dea4231a6fc40405a44576436e58afba383e928c45dda3"
+    },
+    {
+      "asset": "enemy171",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_171.png",
+      "sha256": "0b8d2b1337c1d77e758b5c612cbb0fba6371db0aa40284361737a51299d285cf"
+    },
+    {
+      "asset": "enemy172",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_172.png",
+      "sha256": "dad8c6900bbed1df337dbc5531f3235dd88091787b98d23838da47fb938216d2"
+    },
+    {
+      "asset": "enemy173",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_173.png",
+      "sha256": "5ce919f62caf995dacb650c63277a0ec715f59fb8a8e9fd1b093fd4145d96ccb"
+    },
+    {
+      "asset": "enemy174",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_174.png",
+      "sha256": "026cb18414d2c0c415ef83b63f2ced81d77764fdd6b549311f9599ef5f1fae5a"
+    },
+    {
+      "asset": "enemy175",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_175.png",
+      "sha256": "69a05316f724c69f7fb285d4a48b054637f10f6dee0c7247d9625724ba4a652a"
+    },
+    {
+      "asset": "enemy176",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_176.png",
+      "sha256": "1ab953452e4d094d316461f240ee63678eb6cd9e29962a38ba43d2b2de343b34"
+    },
+    {
+      "asset": "enemy177",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_177.png",
+      "sha256": "dc1fb084346a64b7aa72f5fe62ac806959ddb76ad7efbb0035d274c3a144fec6"
+    },
+    {
+      "asset": "enemy178",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_178.png",
+      "sha256": "adae8bce20c705b4962b591dc537529a3a2a2ff74c10da7e2376863acd2f9930"
+    },
+    {
+      "asset": "enemy179",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_179.png",
+      "sha256": "346003cb3c15152bd707d6393d8ee540370bafdf3e1e95a45d921877f29e496d"
+    },
+    {
+      "asset": "enemy180",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_180.png",
+      "sha256": "72eb222a6eac6bdb9559de16e097ea4c10caee644de72b4699e7600cdabfbd36"
+    },
+    {
+      "asset": "enemy181",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_181.png",
+      "sha256": "e945d93d61a1ed320358216dbc62b93808c1804b5d580bd3ab48444468daadf7"
+    },
+    {
+      "asset": "enemy182",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_182.png",
+      "sha256": "ed9dfe6ea6e3994f96a6c9427f0bda97acfc9109b5be2342915553ef52040d56"
+    },
+    {
+      "asset": "enemy183",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_183.png",
+      "sha256": "0b053b1eef824b207e7606b1204c98f5d7a6387f53ee5b4cdf48312e46278c47"
+    },
+    {
+      "asset": "enemy184",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_184.png",
+      "sha256": "c475687a2044d7f3daee5df44c22e062e3e6519ffbc4ad7b0e2b825eea4eb6e8"
+    },
+    {
+      "asset": "enemy185",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_185.png",
+      "sha256": "4dd6012880804a1838ae3b97cfbd2d31ec2ae451e6f010e60e2a1ceaa89266d4"
+    },
+    {
+      "asset": "enemy186",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_186.png",
+      "sha256": "ef6aa2e841563b71ce3d38f14688e10debc8216cd61c64b98c20f7f45c0f28a4"
+    },
+    {
+      "asset": "enemy189",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_189.png",
+      "sha256": "d36a8b4c610fddac66ed381fbb2c15e5c70aae18c7d8f6d2728f60c494cfe580"
+    },
+    {
+      "asset": "enemy190",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_190.png",
+      "sha256": "502b7299f9ff3783a22e00c4b59333b9256b2a66f2e68ed69fbcef34369b3ca0"
+    },
+    {
+      "asset": "enemy191",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_191.png",
+      "sha256": "a7989678a7581a7ef9bc8aac6994ffd7ba1450522aa3be5c23d950e1e6377412"
+    },
+    {
+      "asset": "enemy192",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_192.png",
+      "sha256": "9b19a394002b1dd212f08b0c7f1c93bf12b6a5e5e17e1019020c8c65a9b8476a"
+    },
+    {
+      "asset": "enemy193",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_193.png",
+      "sha256": "53c1136dff70709dac10e68a5c41d2d99ecf61967896600272b942b25139e704"
+    },
+    {
+      "asset": "enemy194",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_194.png",
+      "sha256": "ec5a74295aced1a928cb78db6ca1f4c34e291ff05e5a924890a8242d252cbd9d"
+    },
+    {
+      "asset": "enemy195",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_195.png",
+      "sha256": "4af13a2e72bc0b48e6dfc50da4aa24afb572fdc2b349093f8c4c254920d6aada"
+    },
+    {
+      "asset": "enemy196",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_196.png",
+      "sha256": "0e27f23a5a364d4fbdecbe6cd7069c27ee73d6be3d7674d2f08aa282d40875e1"
+    },
+    {
+      "asset": "enemy197",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_197.png",
+      "sha256": "3c7b72e7c6f593ee17ee27f01abf1fd33c4574f29824f494b8f5f4132194a4e6"
+    },
+    {
+      "asset": "enemy198",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_198.png",
+      "sha256": "b552e115a8c6f56382047226076384c357ac681b4c9f9527ab7816da33f8b883"
+    },
+    {
+      "asset": "enemy199",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_199.png",
+      "sha256": "db5f7e2b34454924c5e540db5e394a02b8f9c366037321f6d79f72d84fe1bc37"
+    },
+    {
+      "asset": "enemy205",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_205.png",
+      "sha256": "79f2908c17922406541b469334b3498134e771d054e96529aecd6627ae55681b"
+    },
+    {
+      "asset": "enemy206",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_206.png",
+      "sha256": "5c53e9d2fa44276a4c9a666e3800e311f51c2312419fa2e26a75ae52ecb1da54"
+    },
+    {
+      "asset": "enemy207",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_207.png",
+      "sha256": "15346d9fd59e90c2a40fc76aa11fa558d0a844599da5102fbaa4011965b510c9"
+    },
+    {
+      "asset": "enemy208",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_208.png",
+      "sha256": "4c5693d727d7aa4ba9035d6a7950cd13947d1ef458ac4682e5a8ef76bfaa384b"
+    },
+    {
+      "asset": "enemy209",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_209.png",
+      "sha256": "d4db9c401e774e9125cf7c995e8d156bad935db0789192383436d8147bf57bd0"
+    },
+    {
+      "asset": "enemy210",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_210.png",
+      "sha256": "c856643846e060294d111df08013586cb78bc6c9e398d9818c23ece81eae21b5"
+    },
+    {
+      "asset": "enemy211",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_211.png",
+      "sha256": "c36c952cfe319893e49924dd9a800f131e81ddd20bb901228fea67fd3456e9ac"
+    },
+    {
+      "asset": "enemy212",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_212.png",
+      "sha256": "3c24c751ff2cd5211bf2c400157b369dbe7641e4390dc4fb9acb70d6ac859d78"
+    },
+    {
+      "asset": "enemy213",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_213.png",
+      "sha256": "f8d0d7cb82cb1512321fb7fcb9eb3a6efeff6226bd1cec16c4cb745d6a978583"
+    },
+    {
+      "asset": "enemy214",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_214.png",
+      "sha256": "502585ed7ba18c24cf1662e2e7868a4c6c1efcea07643b726e6795474eb93804"
+    },
+    {
+      "asset": "enemy215",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_215.png",
+      "sha256": "fac742b47dccadc5760769c605f99071cfd89f859b005ef0f1334817d3bebc57"
+    },
+    {
+      "asset": "enemy216",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_216.png",
+      "sha256": "c44fb5b2c08fdffe2932bf180fb24bdd243edbb9d6d513d127c5892d49b32d5a"
+    },
+    {
+      "asset": "enemy217",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_217.png",
+      "sha256": "82cb1e8604bc81d2d7277c0bf4596194726db933805603a6f034c1d4161c8ee5"
+    },
+    {
+      "asset": "enemy218",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_218.png",
+      "sha256": "9f49a346eb6b9e743b28c59b607c55481bf3f04b0597d76c347eb1374946d8fc"
+    },
+    {
+      "asset": "enemy219",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_219.png",
+      "sha256": "bdc363b670c08b3dec6c748bef871366c73daf5e3d82cda412cd5327aeab4237"
+    },
+    {
+      "asset": "enemy220",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_220.png",
+      "sha256": "0227a24c8f30c8fcd55c13cc979de3dee2b358e9d07172401ee1dccf05b734ac"
+    },
+    {
+      "asset": "enemy221",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_221.png",
+      "sha256": "6f054176cfa0ab34fe4a7780fcf1f36d04d800b5e05427aaa1d61380e8552234"
+    },
+    {
+      "asset": "enemy222",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_222.png",
+      "sha256": "4a9210ca98465c3cd66a0ad0cb0c8114c85919d067c9eb1f89bded3df86ab8a4"
+    },
+    {
+      "asset": "enemy223",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_223.png",
+      "sha256": "7ef40fb47b2e6a8202948d2c67b1be130c6f2819ce774891fc599f0e0ff27de0"
+    },
+    {
+      "asset": "enemy224",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_224.png",
+      "sha256": "bbc787a0811ce63b9b4d6b05ada78ce88e34bb7cbe7b7d07fa4eea8f1e82f348"
+    },
+    {
+      "asset": "enemy225",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_225.png",
+      "sha256": "c767a63fdb0ffc35deb2c57129669d6c2b0acba825966025ff6a4199c28147cf"
+    },
+    {
+      "asset": "enemy226",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_226.png",
+      "sha256": "405deb3ff2a284ee54cf9808df7c50f7ed07467eb0f1f2f6c8df961feae08c51"
+    },
+    {
+      "asset": "enemy227",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_227.png",
+      "sha256": "8efd8ad4811258c4e0a2cc9e1aecd989b4c7341ec15ce84e7ce6db6e2c2120bb"
+    },
+    {
+      "asset": "enemy228",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_228.png",
+      "sha256": "013f51e05c7997fb9867f814da0c35a24847c4af1800d7109f5c3438dd6e22ed"
+    },
+    {
+      "asset": "enemy229",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_229.png",
+      "sha256": "f54eb7ff06b0193b82d5ce5a3d2614056eea00127562892cb1613cc53bd5a931"
+    },
+    {
+      "asset": "enemy230",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_230.png",
+      "sha256": "57ce85c4a22739c73b208cefeaa60661c401c5a290e0d0561c8595095b35fe69"
+    },
+    {
+      "asset": "enemy231",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_231.png",
+      "sha256": "b22474c5702684a6f02a5beaa65a018d195707324112fa676204019fbeb93fac"
+    },
+    {
+      "asset": "enemy232",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_232.png",
+      "sha256": "6b47a10da42937904df4cf66a69953ab9ba178e83ce326e0796ac01eb897d75c"
+    },
+    {
+      "asset": "enemy233",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_233.png",
+      "sha256": "f834d53f8c9e236dd45207bb9d3c5c32b60a0cdc96e9bbc6c9c73f954a84d64b"
+    },
+    {
+      "asset": "enemy234",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_234.png",
+      "sha256": "77ad33bf2aefb45809092f3984493189d30395dbbca23f24dcd41d507a5b3d62"
+    },
+    {
+      "asset": "enemy235",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_235.png",
+      "sha256": "aa94f955d1c01e6ee9b8991a1e9bd3e1506e5ac5ee5a456a453af54182e588d4"
+    },
+    {
+      "asset": "enemy236",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_236.png",
+      "sha256": "84da5f39cbd9204ca5f57dfd418fddde4fc7d3e9295c702ddbbcb9a19dd2830c"
+    },
+    {
+      "asset": "enemy242",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_242.png",
+      "sha256": "f382fb09a2f963178377d728568a621dbe9bf368578f9241dbef4fd1dd1c20e8"
+    },
+    {
+      "asset": "enemy243",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_243.png",
+      "sha256": "7f493e1c477ffe76d88966088c4dbb84ae15d72e33e54578b1e537bdd8b17554"
+    },
+    {
+      "asset": "enemy244",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_244.png",
+      "sha256": "bcb18276e8c290ec2416fcbc72fd42311e4978e5fa04c384e7f12f02f73d57c1"
+    },
+    {
+      "asset": "enemy245",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_245.png",
+      "sha256": "d62e6aa359a8ce808f863fab218234d4d398fdff33e0863f6980acf92a633f82"
+    },
+    {
+      "asset": "enemy246",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_246.png",
+      "sha256": "48e9d5382c7240db57f5e777d08fb82efe664ee408907d3c7b9fce67c1cab59f"
+    },
+    {
+      "asset": "enemy247",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_247.png",
+      "sha256": "036f7af80a0420fdcbaa208cd8ca7b267cfa7145b705f00f10b0f218ea301091"
+    },
+    {
+      "asset": "enemy248",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_248.png",
+      "sha256": "6aa09ae28e042d115b225320f0157728b5f0ca5e108c527f67b1785c0dc89f08"
+    },
+    {
+      "asset": "enemy249",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_249.png",
+      "sha256": "5128b634cb143dff25890262cb5b67a45770d30ef6f6860ab3231ee79ffdce12"
+    },
+    {
+      "asset": "enemy250",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_250.png",
+      "sha256": "99070ddaa257f1c1f257094f4f692740ba57660ca7744ad4b3a4c546b6c43afc"
+    },
+    {
+      "asset": "enemy251",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_251.png",
+      "sha256": "2823b4f7143c76996dec83d690bdc8a7c5e7fde402614bec928eef8495cc2e02"
+    },
+    {
+      "asset": "enemy252",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_252.png",
+      "sha256": "67a3a86aadcfa96809c856867f1f2ad0a2c99103a2e84fccd1a3ec15cc104c3b"
+    },
+    {
+      "asset": "enemy253",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_253.png",
+      "sha256": "207f259aade7b53b3c5ea71d26c7bc36950381e55f3be3160332be61f3d455bb"
+    },
+    {
+      "asset": "enemy254",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_254.png",
+      "sha256": "8b2ccf4d325ef2109076de5b8c101b9ddc4e00a3884df9945d5055ad78bf9d7a"
+    },
+    {
+      "asset": "enemy255",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_255.png",
+      "sha256": "1f841ec3ac85290600a4f7b1ade8f63b0fab1b5a2e4bdb078aaf68028eb7c26f"
+    },
+    {
+      "asset": "enemy256",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_256.png",
+      "sha256": "06b5f5a6dfd147888f5c391da83dd9aee5364cf57aeed2afffe94bb0e0023053"
+    },
+    {
+      "asset": "enemy257",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_257.png",
+      "sha256": "07858b0bca43e54c77498817bbd4bdb18330d622c1006bba5be70c873b9e3c6f"
+    },
+    {
+      "asset": "enemy258",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_258.png",
+      "sha256": "b44e2c7df257723caeb0f27bb758bc8e100a549f303b669563723b7fe89b8064"
+    },
+    {
+      "asset": "enemy259",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_259.png",
+      "sha256": "ce0f25508cb6f891d41fdcf874afaf02d49229ac43f425e2c3fe0f4a5b998d4e"
+    },
+    {
+      "asset": "enemy260",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_260.png",
+      "sha256": "d6ba216119282cc910a7d41a2e45fbcd4f3de51e90d49e80db27126f2d9951c0"
+    },
+    {
+      "asset": "enemy261",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_261.png",
+      "sha256": "f9c1b6b7f6d5c87878f85416c4fd2f56bbadcf58e2f9d1d8e33475397b4d2dfc"
+    },
+    {
+      "asset": "enemy262",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_262.png",
+      "sha256": "ed942691ba145d06d64cbe170a062e3bf97691ddc7987987929e693137020715"
+    },
+    {
+      "asset": "enemy263",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_263.png",
+      "sha256": "b415058b462945673c423da15cf16b143ae27c3f1d642c67604d708805adfe38"
+    },
+    {
+      "asset": "enemy265",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_265.png",
+      "sha256": "0f849a1000b3bceec1bdbf3e45cb3d3b06fdfcf8b1d7fabdc67a9aa9a5b4a6de"
+    },
+    {
+      "asset": "enemy266",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_266.png",
+      "sha256": "50b6a534c766a990e77f890b5fa4f829d9651e418dd238aa1be84c20ca8a34c5"
+    },
+    {
+      "asset": "enemy267",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_267.png",
+      "sha256": "3b6703bb3faee9ebc63089692278f3c345aef24b206d730e4503dea45fbbf564"
+    },
+    {
+      "asset": "enemy270",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_270.png",
+      "sha256": "79282847847c6644252ab8671a3645fa5f9908d4cc9ca93f001f13a1df0df6f2"
+    },
+    {
+      "asset": "enemy271",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_271.png",
+      "sha256": "5c234c0d6c05cdcb5307db427ce2941891853e4794684fa44b94e399fddf4339"
+    },
+    {
+      "asset": "enemy272",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_272.png",
+      "sha256": "4426101982a896746639d978b1a66ae8661eb24714e34fbf170027abc2f02c18"
+    },
+    {
+      "asset": "enemy273",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_273.png",
+      "sha256": "fac5edbfc4a4def52c2d37c47fe00b7a8c8a4922055869cc6e4292cea215deb2"
+    },
+    {
+      "asset": "enemy274",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_274.png",
+      "sha256": "23e541babf99b4bc538bac013d77282e55bc7d1f692bb0a58d25500af6d45656"
+    },
+    {
+      "asset": "enemy275",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_275.png",
+      "sha256": "2b3816b5cd9e4551cae2a541ab2c795915aea7c497991ad85434c82e6877f2b2"
+    },
+    {
+      "asset": "enemy276",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_276.png",
+      "sha256": "365887f7d7411bad39b90d1e18f1429c1cbcd04a7d2911aab3ca4833ae32b8df"
+    },
+    {
+      "asset": "enemy277",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_277.png",
+      "sha256": "5d152f86d2c889283f95e6a2beae757cf6514c2aa2c183dc64d81323b3694efe"
+    },
+    {
+      "asset": "enemy278",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_278.png",
+      "sha256": "2bfa6059544d57313211384d95755705c10cc0b6d23105c9a89f809179357430"
+    },
+    {
+      "asset": "enemy279",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_279.png",
+      "sha256": "a19aae9fbfa4ebf5c450a6dc206b161b9e1d2cf619e0a2eadde14da62ecb83fc"
+    },
+    {
+      "asset": "enemy280",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_280.png",
+      "sha256": "079152627d9b6e5c8124f3d2da2db90cfedb872ba0673b906564dbe80a55aad3"
+    },
+    {
+      "asset": "enemy281",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_281.png",
+      "sha256": "ddb1c1d281ac952fb4e241eedfa0334285b1e5c4fdfe0559659b4ddadcec42d2"
+    },
+    {
+      "asset": "enemy282",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_282.png",
+      "sha256": "6b66f13ccc4699451be5803b8971e957ce99637bbf6fad9cd54dad55c0eceb95"
+    },
+    {
+      "asset": "enemy284",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_284.png",
+      "sha256": "0107d2e833fb7534bf70cbf1df3af9b329e748d94e6bc2b7a9ad68db62fb3617"
+    },
+    {
+      "asset": "enemy285",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_285.png",
+      "sha256": "709fb3d8f9d97ad04cb9c7b8a5cd8c7ce847ce6c9130a1322d99d39422036fd0"
+    },
+    {
+      "asset": "enemy286",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_286.png",
+      "sha256": "7ca8377df4954e5128a816637603a9fa4c46abb8457270d88160710fdd11006d"
+    },
+    {
+      "asset": "enemy287",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_287.png",
+      "sha256": "86acdb57c8aeacd7c6e26d8b826fca0bd02ce76f0ec07d631f7ec2c22e3c1e5f"
+    },
+    {
+      "asset": "enemy288",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_288.png",
+      "sha256": "ff81c9784f1264d9b2615e21c336f24fc6784276744bd069a9951d0f45704ea6"
+    },
+    {
+      "asset": "enemy289",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_289.png",
+      "sha256": "8a02b8ab08c15396b14deab2e0cde7f53982b26349714d3b654fc8cf709f1c3a"
+    },
+    {
+      "asset": "enemy290",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_290.png",
+      "sha256": "87e1394d529db1efe63cad3ba97b01c5d3b1391aa0ed16e145f4f99ac0f145ec"
+    },
+    {
+      "asset": "enemy291",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_291.png",
+      "sha256": "9ccc56ff8bee9f8ce05c3101fa1ca129d0be7626576700828174c6c43db821a8"
+    },
+    {
+      "asset": "enemy292",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_292.png",
+      "sha256": "b02b204c26b60fe2b393f4b322b9fabbbefc61af689e51472fe0a447fc3a0f83"
+    },
+    {
+      "asset": "enemy293",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_293.png",
+      "sha256": "c396884b2ae8becf835e0da50279e0f690fcd4411685f0888d17dd9356fd6eb0"
+    },
+    {
+      "asset": "enemy294",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_294.png",
+      "sha256": "40e7c15720f3d591937f115e3f5ff0f7cb0d7f9cfe4972ccf3c86de572817098"
+    },
+    {
+      "asset": "enemy295",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_295.png",
+      "sha256": "c4fe894c939c5859adf1fea4ef72a7b45bcd845d6df1626e64b09402ff893fec"
+    },
+    {
+      "asset": "enemy296",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_296.png",
+      "sha256": "d94b42b03b036f3f7d28b94b0f147c3900de40f167376612705313753a0f8ebc"
+    },
+    {
+      "asset": "enemy303",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_303.png",
+      "sha256": "71e45dc1d4d6808ad2067c9424cd330738be0cd097ce26135c10e7606c60b5b0"
+    },
+    {
+      "asset": "enemy304",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_304.png",
+      "sha256": "33db3d682fda2b8c85691ef287490c7c5da54cc3d53a4b29f115cc4ebff32a38"
+    },
+    {
+      "asset": "enemy306",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_306.png",
+      "sha256": "0ab113a51633eb1ba030d00b222ac52ce1329e4ffa937fbda284e08509770a1a"
+    },
+    {
+      "asset": "enemy307",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_307.png",
+      "sha256": "2bb897109fe9c4d741736a513f2296c132adaa415079078671807fb9813c7834"
+    },
+    {
+      "asset": "enemy308",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_308.png",
+      "sha256": "a9d98cbe657bbf8df41ed3099e4a632855cf92607646d3d24b06a243099746eb"
+    },
+    {
+      "asset": "enemy309",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_309.png",
+      "sha256": "c6f858a64d60a1ab5c06da77ffbd7d65202aa130c11e9b61c6bccc077f6509cf"
+    },
+    {
+      "asset": "enemy310",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_310.png",
+      "sha256": "0e488363eee0c822651a74a41c3127f5e527b41f465c4146a0000ec706ad9d40"
+    },
+    {
+      "asset": "enemy311",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_311.png",
+      "sha256": "bebd5570ab2c0043b8bb31da61d8140ba89354ea8743827a2cba4491f5a4b0af"
+    },
+    {
+      "asset": "enemy316",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_316.png",
+      "sha256": "d0e390dc5b007baa87475d158c0e08267c30e91792f913dc448803692523b23f"
+    },
+    {
+      "asset": "enemy317",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_317.png",
+      "sha256": "cccd9c31647234a498f0aedc55ca8d4aa72fb759c40f77e28c9180c6adedf185"
+    },
+    {
+      "asset": "enemy318",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_318.png",
+      "sha256": "669ebf9c8fc14e27c8c67966195d2863dc8b9fe448f43e95b0cc9e339c36a908"
+    },
+    {
+      "asset": "enemy322",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_322.png",
+      "sha256": "1aee6d2e108fbce372a71a55799896579cb6a6e0239042d4b5e8da54f0374d1d"
+    },
+    {
+      "asset": "enemy323",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_323.png",
+      "sha256": "594d17447095a34f65d600b4167d9a0f9558d9afc0831030d9a102ac0de5228b"
+    },
+    {
+      "asset": "enemy324",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_324.png",
+      "sha256": "9730e3b922ee04089e057e87283833baee4c7304b8cdcef9f2a9c364c8bd7594"
+    },
+    {
+      "asset": "enemy325",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_325.png",
+      "sha256": "acc6482015584c0a4776708450ac9a8f932a2cd0cc56fb708346a1938bb992e1"
+    },
+    {
+      "asset": "enemy326",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_326.png",
+      "sha256": "3f07669d68580774e2e7c86d8b77de43dc2ec1360faf4e27c88431b094ed54b1"
+    },
+    {
+      "asset": "enemy327",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_327.png",
+      "sha256": "5243fca2998b96b2b2cf76b274a009452acfa406e9fd874fa9f946406a874483"
+    },
+    {
+      "asset": "enemy328",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_328.png",
+      "sha256": "39504dd7c5b246ecb3642a657fec66006076ee238d7d957d935274f7c88f728b"
+    },
+    {
+      "asset": "enemy329",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_329.png",
+      "sha256": "c4a74f38ef3f40f9f4afeeaccd40df9a72ac94bcf4e1ff4a3af0a0719aaca595"
+    },
+    {
+      "asset": "enemy330",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_330.png",
+      "sha256": "7a2fa7f773daba9f7bfeb55fb00a813880011326074323cf7c1aab3b34b41686"
+    },
+    {
+      "asset": "enemy331",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_331.png",
+      "sha256": "b88dc6c4bce0cbd2b3947342c9fa366f38f8538c520c8971898b46980087b65e"
+    },
+    {
+      "asset": "enemy332",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_332.png",
+      "sha256": "089f8f1f35b9f40cfc7617d71e57d1a328806decfa8517e46c2486ce202c7c83"
+    },
+    {
+      "asset": "enemy336",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_336.png",
+      "sha256": "1a1c08686d66204f1736d2f4f1952de89031959ff45cee9114beaf05ba7e7a9c"
+    },
+    {
+      "asset": "enemy337",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_337.png",
+      "sha256": "5cc1d3e0c902f1c8a4d49ecd3b99e9cf28a8c71d47dd9d8700cdf90f12408e67"
+    },
+    {
+      "asset": "enemy338",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_338.png",
+      "sha256": "4a3eac0d39a382d37956b2009e57a11b0049bf1230e966a3b04f28d7d987d188"
+    },
+    {
+      "asset": "enemy339",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_339.png",
+      "sha256": "ee331fed58dc3bb292a0ecb045b27afb48fb1c4315ba0b2f2c335f6b7dd56bc5"
+    },
+    {
+      "asset": "enemy340",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_340.png",
+      "sha256": "709038783a3d01d1fc8cd3f160da07aea14805c8cbec946e6c55d20a0370d4b8"
+    },
+    {
+      "asset": "enemy341",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_341.png",
+      "sha256": "19326f2da34b6f2986684b5df823abf62ab5c5abcd44b9fe1aa0a560ba6b257a"
+    },
+    {
+      "asset": "enemy342",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_342.png",
+      "sha256": "c14a2a3639a089f059af60d75912cdfebc5a7599131f2f8ac0db560ad052a283"
+    },
+    {
+      "asset": "enemy343",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_343.png",
+      "sha256": "9105abf626a2e3033e3b3d8fed5ef9bec75a9baffb00c4497da461fb72a0e996"
+    },
+    {
+      "asset": "enemy344",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_344.png",
+      "sha256": "e7e9fccdc9eea107bdfeda66cbca4b32363732265bc79edfe57a38906c486ce9"
+    },
+    {
+      "asset": "enemy345",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_345.png",
+      "sha256": "d063660dd926936dc4f2b5f4a187b9d58309d048c34e333bd1b5339e4233acbb"
+    },
+    {
+      "asset": "enemy346",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_346.png",
+      "sha256": "8d45326ae701fe1228b1aed81ae5e49a888999a034de84af0e80e9d71077ede5"
+    },
+    {
+      "asset": "enemy347",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_347.png",
+      "sha256": "1c0dab766a6022fd478f525b7ad9d7917daf9cb55275da5ecd16d9981d7e3627"
+    },
+    {
+      "asset": "enemy348",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_348.png",
+      "sha256": "6f97d99fb2d0e50a3a4094ce77a25c6813baf680993abdb98efd501ae10fcb6d"
+    },
+    {
+      "asset": "enemy349",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_349.png",
+      "sha256": "67ffe8bf67cd80f964abdc31111376d81acad20e23bbf88f1757f600f2502971"
+    },
+    {
+      "asset": "enemy350",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_350.png",
+      "sha256": "567633e23a747b6e6bdb23d69fe1fb95261741311348c1a1064134660d4ca448"
+    },
+    {
+      "asset": "enemy354",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_354.png",
+      "sha256": "7b8a410e21677d92de872f2934a252c295518af6b8d6ee8e55d568d6335d33f4"
+    },
+    {
+      "asset": "enemy355",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_355.png",
+      "sha256": "3c2269d8ffeace19f9de28be7a0c6a7a11ae2aed4771de2e5abdd3db00fccf73"
+    },
+    {
+      "asset": "enemy356",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_356.png",
+      "sha256": "12dffcf22b423a88aca1531a299f0b578838b3681ba234583b39aff6384c975c"
+    },
+    {
+      "asset": "enemy357",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_357.png",
+      "sha256": "6defe08d847a78a00323dd837ca8bba8ac490dfda99826e6e975973b76eab555"
+    },
+    {
+      "asset": "enemy358",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_358.png",
+      "sha256": "a0882f3eb7df184053fd48a6b0ace49794275f6eaef6b7cf17eda34a3597ae86"
+    },
+    {
+      "asset": "enemy359",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_359.png",
+      "sha256": "18c96599694cd50fbc4f855f1e23a6dc07d06bda993b8fc9a2e307a93ca26847"
+    },
+    {
+      "asset": "enemy360",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_360.png",
+      "sha256": "b25ca427b6e67982020a1c831beb7f4461d2bd52db1b57fc6019cc8eb30fd33b"
+    },
+    {
+      "asset": "enemy361",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_361.png",
+      "sha256": "b5ef952366f7ccb4ed3b3c1e79d15e50e0d26745f5fd432229300581d1d8f64e"
+    },
+    {
+      "asset": "enemy362",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_362.png",
+      "sha256": "b8b93c3550ba159f4e32e47fdb14ee0f51004c250247121bee87dacbc3a4b3bf"
+    },
+    {
+      "asset": "enemy363",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_363.png",
+      "sha256": "492ae2fa9789972b719c2221dc0795cf1f117b992d331ac5f5dd1c8e8cb02a9c"
+    },
+    {
+      "asset": "enemy364",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_364.png",
+      "sha256": "2667728092b240e84a5992ef61b8f29c4de4f75b01c27dff491864f5c422d0df"
+    },
+    {
+      "asset": "enemy365",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_365.png",
+      "sha256": "2369bac5a009ebee9f0248b7137b9306b481cf2aa28c767b2dbb1d009a7d0d51"
+    },
+    {
+      "asset": "enemy366",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_366.png",
+      "sha256": "223ada81dd877bdb1d88bc58ad3130d63165734893e3dd882bd581fe5a7081e5"
+    },
+    {
+      "asset": "enemy367",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_367.png",
+      "sha256": "6ca10a096d127925171cda5181b98a158deedb361723f31f256414a71439fcaa"
+    },
+    {
+      "asset": "enemy368",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_368.png",
+      "sha256": "246f195699e6b311af4a5c208246d784184a0c5f55b797191ff1b0e917077b0f"
+    },
+    {
+      "asset": "enemy369",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_369.png",
+      "sha256": "73cad6d44e8f9e4fa1e6808b3508b8d9c5bf91d2335ee9d5cac9957a6f7bf24c"
+    },
+    {
+      "asset": "enemy370",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_370.png",
+      "sha256": "ec7ed87e6e2cc075d8a5b9069a1538c83a6774a293dd5a5daae81064d307c98a"
+    },
+    {
+      "asset": "enemy371",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_371.png",
+      "sha256": "ff51308555e9843087caa5627cbc935a78ac06c4a70b5dda1ea2b2626f73e7af"
+    },
+    {
+      "asset": "enemy372",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_372.png",
+      "sha256": "18eafb9041204d772909e8ef06f7969d9caff3853807b675961b70997fba2bc1"
+    },
+    {
+      "asset": "enemy373",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_373.png",
+      "sha256": "1c493ab965b036d389184e6f3d4065f502ad8ad16b78694c303896d60f84e33f"
+    },
+    {
+      "asset": "enemy374",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_374.png",
+      "sha256": "ada78a8387515b19342f481a6231c58867264a4fd665ace9eee7bd533a30c787"
+    },
+    {
+      "asset": "enemy375",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_375.png",
+      "sha256": "b7f72eb205d93d76bb52adff0abaa91bf27873f225e7339e74efa1eba86d0f82"
+    },
+    {
+      "asset": "enemy377",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_377.png",
+      "sha256": "7a5c661b1a5065b4097ff8f7142e0ebf15ddf4b7ab594202c973cd729b999bb0"
+    },
+    {
+      "asset": "enemy379",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_379.png",
+      "sha256": "87639e9b5581abdff74e26d4f537f23dc27bd61ec2ea01c943c63085a09bf2f8"
+    },
+    {
+      "asset": "enemy380",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_380.png",
+      "sha256": "548905e7aa885b0c4ff39e9fa1b3ef6c453cedb32436b5985c42a398def2655b"
+    },
+    {
+      "asset": "enemy387",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_387.png",
+      "sha256": "fb719098fc72a68673db3a65bb75b48e8539234e3363767a27368872eeb1a184"
+    },
+    {
+      "asset": "enemy388",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_388.png",
+      "sha256": "dc5de45bc4158f6710d22cc9114199e89e343b23c27409bcd614d2b9a855d871"
+    },
+    {
+      "asset": "enemy389",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_389.png",
+      "sha256": "e20a020ef7cf5d794a0aa7933bfaeacd98925ad1df0a2571dd6e9e73e0d24f44"
+    },
+    {
+      "asset": "enemy390",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_390.png",
+      "sha256": "bb0a2bedd69c479e04f3af3a98bac289d9d1792fb144ad2c581d0a4688503de6"
+    },
+    {
+      "asset": "enemy392",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_392.png",
+      "sha256": "c41b5ae4797841565f3804d7f1234eba40bf5dddd36240db395ae43911eaedf8"
+    },
+    {
+      "asset": "enemy393",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_393.png",
+      "sha256": "4870efb080ff671bc938be750e6ba6a1f92c6823f097460e7925e4adfb4ecb12"
+    },
+    {
+      "asset": "enemy394",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_394.png",
+      "sha256": "5fd49b766d2359efa0b99fbf99825ef8c62ed10749a2822f6da6d97f9e4a5e5f"
+    },
+    {
+      "asset": "enemy395",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_395.png",
+      "sha256": "2dc857bce80d0b252940bf9b85f341c7ecb6ab6ef74385f9472b229c47f17039"
+    },
+    {
+      "asset": "enemy396",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_396.png",
+      "sha256": "c4fceee6ab12262d311d0b8256efdeba8ed7cca3723ac3f7d776bf55061b6fbf"
+    },
+    {
+      "asset": "enemy397",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_397.png",
+      "sha256": "49c2fffbd57144c0e6f9dfa3b8c7d1f5e825e8d0b2476baf948957b380544946"
+    },
+    {
+      "asset": "enemy398",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_398.png",
+      "sha256": "6472e9bc8dc862d8dd2ae34cb546b0318c8ebecfac6404ddac08aaf3f62c4172"
+    },
+    {
+      "asset": "enemy405",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_405.png",
+      "sha256": "46068f243ba7b25066218f61acca77e24742dd5d648c57b939d67664e340e484"
+    },
+    {
+      "asset": "enemy406",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_406.png",
+      "sha256": "dd1b8877eb56cee486729fdab523444311f8252cb244144549654eca36e32782"
+    },
+    {
+      "asset": "enemy407",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_407.png",
+      "sha256": "ac27f85eac24b8375c76377e3665d8f34d63c9721b9dc7c2d5d0ace29d274274"
+    },
+    {
+      "asset": "enemy408",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_408.png",
+      "sha256": "9671b11fb268a7f53064745dd6f826113894f3e0d6b0263176d9b9f3e9ed49bf"
+    },
+    {
+      "asset": "enemy411",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_411.png",
+      "sha256": "37f4b76e19866af0c532199c330741ecf7d5194e60f50c169c6ff40009cecbb5"
+    },
+    {
+      "asset": "enemy412",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_412.png",
+      "sha256": "c1f185063fcaab6f0f1645f90a739a4bedb5d747bfb919996f409289b7e31652"
+    },
+    {
+      "asset": "enemy413",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_413.png",
+      "sha256": "b5892bc78df9b7667a5a324151d4196354d49eb339f1baaff83c6258dfa730f1"
+    },
+    {
+      "asset": "enemy414",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_414.png",
+      "sha256": "3fd692304def138b9fe13c97a87b207dba07f89d932595d411ce30298a3c280b"
+    },
+    {
+      "asset": "enemy416",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_416.png",
+      "sha256": "eb178441d366a3fa85e72e335a13f7dafc5d7967e13eb5a061543f297858898a"
+    },
+    {
+      "asset": "enemy417",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_417.png",
+      "sha256": "037d2ec7aa1215b520bb08599763ce44dd9f44835319f14da0cbd6cd641f471b"
+    },
+    {
+      "asset": "enemy418",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_418.png",
+      "sha256": "a5d0098902a763eeca4ec81bdd70c44fab494a643a2701c300f57b1211ce029e"
+    },
+    {
+      "asset": "enemy419",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_419.png",
+      "sha256": "6aa58649db977ebb37580a7f07229783f725d0cda3ded223f975bf04751af0bd"
+    },
+    {
+      "asset": "enemy420",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_420.png",
+      "sha256": "971793a5948c5343ffe98ab56a033fd33f1b78feb247886a60f9fbde83b39578"
+    },
+    {
+      "asset": "enemy421",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_421.png",
+      "sha256": "67adb4fc568e8a82800ad35aec78c574bd152d69da39ad196b1619740716960b"
+    },
+    {
+      "asset": "enemy422",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_422.png",
+      "sha256": "4f9ace6aae969da2d5ba750dea9e0cd9a1fa059e30f9047e0b4d16bed821e393"
+    },
+    {
+      "asset": "enemy423",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_423.png",
+      "sha256": "c95eaeae114f83b096eaf5405d67e592b1e76cfb8a4b1a4cfc40733197f7eb9d"
+    },
+    {
+      "asset": "enemy424",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_424.png",
+      "sha256": "8616b0fb41f187a766f8cfd485ca6df589f7f5d49a07436b1aa7e23bebe17152"
+    },
+    {
+      "asset": "enemy425",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_425.png",
+      "sha256": "640e403c7726402fb4ce9a100865a32e295c9e3dfcde7eaeaf8f8eb61ccf5163"
+    },
+    {
+      "asset": "enemy426",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_426.png",
+      "sha256": "7786eb8b3a445e4bbadfb7717f4a68af3da4de2daf1dfcf985bf46e6d080bfd5"
+    },
+    {
+      "asset": "enemy427",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_427.png",
+      "sha256": "9e87f4df91d159f48992c57bfe83e819c91a1fd69492e67a1c8f6e2a6a44dba5"
+    },
+    {
+      "asset": "enemy428",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_428.png",
+      "sha256": "4cea48b61b7a36c3caf619ba9b38ea61ef929410c20fe8d02ead3158b1028855"
+    },
+    {
+      "asset": "enemy429",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_429.png",
+      "sha256": "c424a28404ab9e5bf35fb413f068a20989c9bf80170534df2fba5874707af9d3"
+    },
+    {
+      "asset": "enemy430",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_430.png",
+      "sha256": "93edd57bed77fc04d031a3c6a1c4d0f3e083314ad2d5f31ca5298da550ebaec5"
+    },
+    {
+      "asset": "enemy431",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_431.png",
+      "sha256": "74be5da77ad70284072c79f92ed1d520c892867139206c9e4c11aeac8ec87995"
+    },
+    {
+      "asset": "enemy434",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_434.png",
+      "sha256": "9b95ca356931d0941abcce7888cd43a77d12055b81692d87f47591a3e68f20da"
+    },
+    {
+      "asset": "enemy437",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_437.png",
+      "sha256": "a96419283481446924184baa691858e3e2e75cbf20386a16acf508ce36087dcb"
+    },
+    {
+      "asset": "enemy438",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_438.png",
+      "sha256": "106d3aa4a757f54e041c995484e5a1e4f7f666d2a77a269f975d81e0c6353573"
+    },
+    {
+      "asset": "enemy439",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_439.png",
+      "sha256": "b227fe0dc1e1e5e0c064d6e006e951a3304d0f2da37422fa1a5373d5540cb6e5"
+    },
+    {
+      "asset": "enemy440",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_440.png",
+      "sha256": "3c2f252f597a847f4c67a8ad70ee320c1cf9192856059f90d99a58197ffad79b"
+    },
+    {
+      "asset": "enemy441",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_441.png",
+      "sha256": "c93935d3a99021c22ea385db034e2dcf7a56c3864c7de2b690271eaff29d0be5"
+    },
+    {
+      "asset": "enemy442",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_442.png",
+      "sha256": "b4987a42c90955b41c67f91e23a074286ba2ea8eb59e5dfd47fbc2e0f5823f3a"
+    },
+    {
+      "asset": "enemy443",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_443.png",
+      "sha256": "f753cb098d1743951f4d28f22c550ea2c1e4cd0cc709c0b61daef6e398cbb7bb"
+    },
+    {
+      "asset": "enemy444",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_444.png",
+      "sha256": "4b751f78b7cf5a81ab8d64ec1b2d5d6f318e20da649180d811865b30a7ecbaf0"
+    },
+    {
+      "asset": "enemy445",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_445.png",
+      "sha256": "1ec97c801174eba6a6020a4edb17a0d06ffb0b987e111a255f9d71ea99f16211"
+    },
+    {
+      "asset": "enemy446",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_446.png",
+      "sha256": "f58b1f969941185747f98bf98a99fc05a6d9af00411d62424c6796b104351300"
+    },
+    {
+      "asset": "enemy447",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_447.png",
+      "sha256": "4a891da5edf7a01c3f6e77c3a0c94a67a810cd7f1daf1ea464a5ec7c16812cd3"
+    },
+    {
+      "asset": "enemy449",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_449.png",
+      "sha256": "520eb501c2cb81127648de553a8b70b5b79de3cda8cafb45b33fb5015a880ff0"
+    },
+    {
+      "asset": "enemy450",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_450.png",
+      "sha256": "1cccfb7b741ca90eadf3e1d67bf8d5d978272dfbc961def53772676de0a88242"
+    },
+    {
+      "asset": "enemy452",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_452.png",
+      "sha256": "c0fd90b971c35f5bbfd0f3d571c1c41bdb3103a62712cf310e4683cb9e66dcfe"
+    },
+    {
+      "asset": "enemy453",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_453.png",
+      "sha256": "dd4181e91feed5d3c2054efa72c4c7a40ef17a5255eeb2ac5c25a3807a8af913"
+    },
+    {
+      "asset": "enemy454",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_454.png",
+      "sha256": "bfcb156bce31d2c2a27c3e85adf60f997e9c0c2fa70031d76584b3b2e89f59a9"
+    },
+    {
+      "asset": "enemy455",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_455.png",
+      "sha256": "72376631058f13a71d521e1c07345494df931cea722311c60a547a9ab1deeed5"
+    },
+    {
+      "asset": "enemy456",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_456.png",
+      "sha256": "92eba397122b87c14409e60faaa2fa3c61190f86ff0664e0b5bd97a83a5f0f59"
+    },
+    {
+      "asset": "enemy457",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_457.png",
+      "sha256": "e563a4d26b8526ce59c071f0539bf4c5c90ef3f652faca035c1846e95964be57"
+    },
+    {
+      "asset": "enemy461",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_461.png",
+      "sha256": "77c5a358dd2808b1cc58e432a518b65e28820ee4af661eeb17fda6a97f56c52d"
+    },
+    {
+      "asset": "enemy464",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_464.png",
+      "sha256": "e005d3b88374c0ad5ec64cf5e40f39032a2f0af2f94636ee3d684123f2686213"
+    },
+    {
+      "asset": "enemy468",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_468.png",
+      "sha256": "ec37cf390b7063028af8912d83bdcc4cd836366ab4bee13bf02edb21fd3c364f"
+    },
+    {
+      "asset": "enemy469",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_469.png",
+      "sha256": "ef1d9a5d16bd625d775605a65c0ce8fba69a9f94f635c7d279fa5524f8ffd24e"
+    },
+    {
+      "asset": "enemy477",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_477.png",
+      "sha256": "c4fa9cbe1d01c718155202ae5ce2e627d03d232fae72104e0e5058cc65a70e14"
+    },
+    {
+      "asset": "enemy478",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_478.png",
+      "sha256": "5d8c50faef5e412d6c0e488ca3926866335669ccceda09e8e948b3afa6d72ede"
+    },
+    {
+      "asset": "enemy479",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_479.png",
+      "sha256": "db3528dca36f5106c5b9a0c359ff53e36495b128d7d0a9c847ab014c0a376a1b"
+    },
+    {
+      "asset": "enemy480",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_480.png",
+      "sha256": "2bf435ffb582583d6f698da8286b210585613d507898a63578de5aaad58ffc80"
+    },
+    {
+      "asset": "enemy481",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_481.png",
+      "sha256": "2c8e00f7cc0c04ae6f1a03ff9ba7977bf9d98b5629daa7f99dee995bd611582b"
+    },
+    {
+      "asset": "enemy482",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_482.png",
+      "sha256": "4aefc2e9a95b5531bde4cf6ae2fc4ca3f34f4273025c40631f82725524aa9aaf"
+    },
+    {
+      "asset": "enemy483",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_483.png",
+      "sha256": "37d771d70a3327bc82a0ff5553ba45da4bb30800a3da77c82dcb356d177b0c15"
+    },
+    {
+      "asset": "enemy484",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_484.png",
+      "sha256": "47a33d0a7a407e6d8c0681964ab6d3358bbee8233c1e07f0404ee1a5d289d51f"
+    },
+    {
+      "asset": "enemy485",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_485.png",
+      "sha256": "86829853cb719273e121cd7e64bdcddc55704b0565f37ac0d21da318ab1fd0cf"
+    },
+    {
+      "asset": "enemy486",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_486.png",
+      "sha256": "75f4e7ef398e11bb3c215136371e6d9aa2736e5d58b026d587983b23ab2276ce"
+    },
+    {
+      "asset": "enemy488",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_488.png",
+      "sha256": "a5faf6aa0f6cd5c72268d7027ff9df53c486fc62209456832ed466d84190dbc9"
+    },
+    {
+      "asset": "enemy491",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_491.png",
+      "sha256": "29bf9cf3c5d659cff567a133d5cd50e0c92642e0665ed981ec6b36d1b164d144"
+    },
+    {
+      "asset": "enemy492",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_492.png",
+      "sha256": "8512e37a76c9c255ebb8508e236ae62f6bb5fab212bdef1975230627f8dff3de"
+    },
+    {
+      "asset": "enemy493",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_493.png",
+      "sha256": "222db01b60edd1b25b0ead5bf23286500524db14c54425aca67aa11d7e5ce02f"
+    },
+    {
+      "asset": "enemy495",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_495.png",
+      "sha256": "a8dc8be4fb575ec1bd84bea1a7c24bd72a4a8a7afa4bfe9ab309525141fdcc3f"
+    },
+    {
+      "asset": "enemy496",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_496.png",
+      "sha256": "226bc146e38f923d471c8a7423c06ea81a937f6a4170a6d9b4953a95df46bdd7"
+    },
+    {
+      "asset": "enemy497",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_497.png",
+      "sha256": "9712d1a73e56eb432dabb7a4d117181aa9b229abf69a14e98d64515afb753862"
+    },
+    {
+      "asset": "enemy498",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_498.png",
+      "sha256": "87bd08f6b6ea3046d0ed0fe66abf52eca76183df151e230a71fd530beb542f4a"
+    },
+    {
+      "asset": "enemy499",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_499.png",
+      "sha256": "f821d89bf3057245dd8a75b6f587f25a37768688f6fd95e2ae77844bfa51c77f"
+    },
+    {
+      "asset": "enemy506",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_506.png",
+      "sha256": "230af72e15a7cc497c1b74fd5219dec8a804bebaf516c1d710b76246b6b5217f"
+    },
+    {
+      "asset": "enemy507",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_507.png",
+      "sha256": "7fb69f126722fd437bc3659c30ab4e13d878b90fc3e91edf4d728c2216f8595c"
+    },
+    {
+      "asset": "enemy510",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_510.png",
+      "sha256": "e8f67eda9302075d7b7fe09bb9d0cdfd68c586d3df12e906a15da23b3c752b49"
+    },
+    {
+      "asset": "enemy511",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_511.png",
+      "sha256": "6dfc3da12e66fb9c5258bb8576ba88a1be28df3e2832730a8cc4ce7294e01159"
+    },
+    {
+      "asset": "enemy512",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_512.png",
+      "sha256": "5df37f27f49fa479a5b0c754cbb350022d0f2ebce0d1eb67b716e8ff53794da7"
+    },
+    {
+      "asset": "enemy513",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_513.png",
+      "sha256": "1dcb974b9ef4ccfc82cfc7b6979abee2fbbfea742055f723ce619f5b173db7d3"
+    },
+    {
+      "asset": "enemy514",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_514.png",
+      "sha256": "866311757f8f4615e90b0c082836f351c8119f4911b20352381969bc039f6d62"
+    },
+    {
+      "asset": "enemy515",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_515.png",
+      "sha256": "f174dbbbd03d9a3e8ecb4fd1c98a8234be6064c7c7a989b896537108cd4ccf17"
+    },
+    {
+      "asset": "enemy516",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_516.png",
+      "sha256": "a3eb346bfced1e81adb54e37b8a0770deee5bf26cf6cf12db0a99c11b3b8e8ff"
+    },
+    {
+      "asset": "enemy517",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_517.png",
+      "sha256": "e8be7e64acabbb964437843cf165666138c0b081782965c38f6c9e07dc311327"
+    },
+    {
+      "asset": "enemy518",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_518.png",
+      "sha256": "ad300db4a1423d978a7e4ea88221062a75a9294e5bea05250b26f4d202ec3215"
+    },
+    {
+      "asset": "enemy519",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_519.png",
+      "sha256": "a5cfa03141277bed1f009ed04afeb912aaac21242d6de0795af6d60df10c3a97"
+    },
+    {
+      "asset": "enemy520",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_520.png",
+      "sha256": "e4ccdc12b4b1122f3eb8f2b95a70a7fece584fe9a3c94db93082b6eb9b0b2866"
+    },
+    {
+      "asset": "enemy521",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_521.png",
+      "sha256": "51b5adffdc6809635a3a2ee86fc4b627dff6b616287dfd9d3fa4d089a035e890"
+    },
+    {
+      "asset": "enemy525",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_525.png",
+      "sha256": "6e363c092fe639ef1d748321949251ae8ec2846a77e17fa55b9b2ae7ff52ddb1"
+    },
+    {
+      "asset": "enemy526",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_526.png",
+      "sha256": "d06a8af21cf4293303205636b2319abc898c164c0598331459419df30900c502"
+    },
+    {
+      "asset": "enemy527",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_527.png",
+      "sha256": "c7d81e99f57f9bf54c86ed1483d4d2823e30d825c5d6cf82fc6ea293932c2bd6"
+    },
+    {
+      "asset": "enemy528",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_528.png",
+      "sha256": "9e3c2c2ee76d2868c40ea2105a3b2fa9a351600d9629061efe349a8ffe1e63a8"
+    },
+    {
+      "asset": "enemy529",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_529.png",
+      "sha256": "96e3cbe4e18c9ebef59474dcffc4e492c9f5ae442d6bc55ff1d1892de58611a2"
+    },
+    {
+      "asset": "enemy530",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_530.png",
+      "sha256": "35323c66ff6ee0fdc0e5458dc4354662d4baa3a62f519ce62347e9087d656d62"
+    },
+    {
+      "asset": "enemy531",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_531.png",
+      "sha256": "b6600ecae783929c716ddc849edd713fd89d76d26403a1d2db9e756fb11fb3fc"
+    },
+    {
+      "asset": "enemy532",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_532.png",
+      "sha256": "e1c63d5221648133ed3933b723c0001fec7206303eee29efcb8bb5ccda0b0908"
+    },
+    {
+      "asset": "enemy535",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_535.png",
+      "sha256": "7063225006e38eac84ae7e71960bc50548bd72c6ef8204b905d6abe2b78f9ed4"
+    },
+    {
+      "asset": "enemy538",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_538.png",
+      "sha256": "b4143634230e1ab99db60a20d8a4b223d3602f3ec313aa258639afe4d566bcc1"
+    },
+    {
+      "asset": "enemy539",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_539.png",
+      "sha256": "9e25ea2abe98060ae593c210b08c89175dd7a725abddd5473ce208947306bdb3"
+    },
+    {
+      "asset": "enemy541",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_541.png",
+      "sha256": "994152b510a4b40fde5414c1eede888b1896d037583819017676915aaab0b760"
+    },
+    {
+      "asset": "enemy547",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_547.png",
+      "sha256": "fb2ccce60ee047a2ffcef6fa82cdbb6839ae4894106e7892bb2a07e31ac3e49f"
+    },
+    {
+      "asset": "enemy548",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_548.png",
+      "sha256": "810c34c551b877ecaafcd9f294735fe89376b7fdf96b3d97d7db9de16bc55a49"
+    },
+    {
+      "asset": "enemy549",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_549.png",
+      "sha256": "124519261a2dcb7ad86f57abb49e512760b49e40478b4684081f68652da17cd0"
+    },
+    {
+      "asset": "enemy551",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_551.png",
+      "sha256": "6554af025de9669c1c1c636b8101ce19370dee2f88032d909fc78cf528e91b6c"
+    },
+    {
+      "asset": "enemy552",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_552.png",
+      "sha256": "975185a5b28c4c483481dffaa30906981a8d71b176673111793d52b4571b807f"
+    },
+    {
+      "asset": "enemy553",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_553.png",
+      "sha256": "b757478c0efbd0716fbe540c98d50aecab673ffa1bb94e735d5387cb75e62a3e"
+    },
+    {
+      "asset": "enemy554",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_554.png",
+      "sha256": "00bcc98093ee941baf8251ffd048f0fd6730808254266b55cf12ca832021b4d2"
+    },
+    {
+      "asset": "enemy555",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_555.png",
+      "sha256": "140f5ef95df2bd4bd54e428e89ec026e00fa5f41fa71137d43c208f5db4bbff8"
+    },
+    {
+      "asset": "enemy556",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_556.png",
+      "sha256": "9a3c56630108574098d3b26747a6c0ff3ec40aaa16872778325fd4696d89434e"
+    },
+    {
+      "asset": "enemy557",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_557.png",
+      "sha256": "da3b8fb712227585e7490640030aeb3bf448ef477c361ba83921a24a34ebab04"
+    },
+    {
+      "asset": "enemy558",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_558.png",
+      "sha256": "16e854b6afe86180f4fb88b724da99c611b81cf5626a838e309ff5217b6cb07e"
+    },
+    {
+      "asset": "enemy559",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_559.png",
+      "sha256": "a3e42feea4de795e2372371a0d08226a03dfc539a2fb03812adbb742c8252487"
+    },
+    {
+      "asset": "enemy560",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_560.png",
+      "sha256": "418769f32b8fbfed01e6aac0821daf2894fda2d53107503bf833556702008a4f"
+    },
+    {
+      "asset": "enemy561",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_561.png",
+      "sha256": "5dcaac926be16a26e6a58316032d8dab21505ed57078f234e50ee50855d336e2"
+    },
+    {
+      "asset": "enemy562",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_562.png",
+      "sha256": "dcbf18b98a56d6c80927072f2f5ade0a0560f6a17c9dfabf45d75add502538ea"
+    },
+    {
+      "asset": "enemy563",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_563.png",
+      "sha256": "f8eafaf509fa446f28d51461514f1517899d20f9b9cdaa16298300dd361103bc"
+    },
+    {
+      "asset": "enemy570",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_570.png",
+      "sha256": "b1b97a7833d62b82bd33934da2b8258c3063bac56970bacdaa4dd169f0b3ac1b"
+    },
+    {
+      "asset": "enemy571",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_571.png",
+      "sha256": "0a31544245fb050533d32ae7474727742720279769806e37851c1a127251c33f"
+    },
+    {
+      "asset": "enemy572",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_572.png",
+      "sha256": "e0eb68f807f974d78650deb5d77d571c455baab927acb1849df5e109f3d8c901"
+    },
+    {
+      "asset": "enemy573",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_573.png",
+      "sha256": "067b07dc1d0ad3d191e88dcf8f3e729815b887a80c39484f302d3661b6c3ee06"
+    },
+    {
+      "asset": "enemy576",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_576.png",
+      "sha256": "5ed02c5317e106ceefdb651fa4993392fecc3e28f61edb2f68242e0e5846883a"
+    },
+    {
+      "asset": "enemy577",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_577.png",
+      "sha256": "42075a00e71a3d74b8c15bf887af901d7d2d63c09ddcaf017b216ba1f2dd2114"
+    },
+    {
+      "asset": "enemy578",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_578.png",
+      "sha256": "566b77b88b1cc25cb0cbbed9cab6d279f8da618790717b731c963a4ed22c229e"
+    },
+    {
+      "asset": "enemy579",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_579.png",
+      "sha256": "2bfa6059544d57313211384d95755705c10cc0b6d23105c9a89f809179357430"
+    },
+    {
+      "asset": "enemy580",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_580.png",
+      "sha256": "0f7cfaa23eb15bc2a1d1aada689632bf901ef63c60a07b6e0910c3b2c33cbe99"
+    },
+    {
+      "asset": "enemy581",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_581.png",
+      "sha256": "b59418766a0c6ebe8c95d1e8fba5824009754a60fefc945a6bb63bce25bf5d23"
+    },
+    {
+      "asset": "enemy582",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_582.png",
+      "sha256": "a11ece97ff3cf1f75a8f349a1b848da125bafa4acd10dd34cf7d7158e49058cb"
+    },
+    {
+      "asset": "enemy583",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_583.png",
+      "sha256": "e211b266e2bf8e1cf1dd499269cd557208f52ee3e5d88058c6c5682eebca8542"
+    },
+    {
+      "asset": "enemy584",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_584.png",
+      "sha256": "6388d4806b91bae3c85cc57124fc2dc105c9511e0672f62d28a29b8d4b81ba29"
+    },
+    {
+      "asset": "enemy585",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_585.png",
+      "sha256": "13568123d100d563f5e6c8aed08695367f0fbd82937a87898198660f07260977"
+    },
+    {
+      "asset": "enemy586",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_586.png",
+      "sha256": "051a0bcf24a6a8ab47cc61343df670f236f7edabb7bb37c9f918e39f11bafda1"
+    },
+    {
+      "asset": "enemy587",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_587.png",
+      "sha256": "a72be5e563aad2594eb0d599bf55f1aeb335050321a1c97107b048e0aa88aad7"
+    },
+    {
+      "asset": "enemy588",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_588.png",
+      "sha256": "bcca4f5cbfc938d280a6d85ef7787162926cd6f94760969548ecc3e731c5ebcb"
+    },
+    {
+      "asset": "enemy589",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_589.png",
+      "sha256": "b5c32414d6778c91720e3dbc1f2e8fb7b9fa2dada657deb1ac2b86400260f268"
+    },
+    {
+      "asset": "enemy592",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_592.png",
+      "sha256": "b65965f4d0a1caa6c301d1491e300c0377f674665e9f04c5ca74e6d0afe747a4"
+    },
+    {
+      "asset": "enemy593",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_593.png",
+      "sha256": "4772e27a0962b88531bfcac668f37ff28f798d8685ca4723e22eaf46e179291b"
+    },
+    {
+      "asset": "enemy594",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_594.png",
+      "sha256": "a042cbbc6f5aaef8494a8e25e118db0f6d81cf6d90ffc3160c3ccc90d00a180c"
+    },
+    {
+      "asset": "enemy598",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_598.png",
+      "sha256": "cda4328c53f5f8b00fa60cf5da5067794f8401a18455bdb9f381a50966a1c75b"
+    },
+    {
+      "asset": "enemy599",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_599.png",
+      "sha256": "8642f4c4cca96bfb6ee9cf6c228075c8f783866ba55488dd8e8314921b98bceb"
+    },
+    {
+      "asset": "enemy600",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_600.png",
+      "sha256": "ebe35c3db02348b73407871e0c470aadb787186d2fdc23f7789db97e979b45d2"
+    },
+    {
+      "asset": "enemy603",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_603.png",
+      "sha256": "68e4324ecfe867a108c57dd46e336da7311b26f187be7eb464d4be764ca356b4"
+    },
+    {
+      "asset": "enemy604",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_604.png",
+      "sha256": "fe748ea36b58f1871254092ed28870389dc83bb47ebbed79da380123dcf9a5f6"
+    },
+    {
+      "asset": "enemy605",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_605.png",
+      "sha256": "518ea1eecd8b7b65206ea67f15bfac4683666bd76631c54ea54ac65b90717b00"
+    },
+    {
+      "asset": "enemy606",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_606.png",
+      "sha256": "6aa458165e9020fcdc7f92d6d7e19fc915daa3312e73a3f6931ce9943a0c2e16"
+    },
+    {
+      "asset": "enemy607",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_607.png",
+      "sha256": "53f956b9b229d4f8db35364aba626e04eeccd9542561e1e35c13567e1b511000"
+    },
+    {
+      "asset": "enemy608",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_608.png",
+      "sha256": "389c93a278730a896b73f36e32f698f383cb12621680fc9e2c4202ec0f48f9e7"
+    },
+    {
+      "asset": "enemy609",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_609.png",
+      "sha256": "3124ff446ab22e4a6ab9504d94aa0a9143ae16a034a9bcba6cd15d5d33c76bf6"
+    },
+    {
+      "asset": "enemy610",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_610.png",
+      "sha256": "2899e352dc136ee4856194d9e200a12de64e7342d1f7897162e8c6a22ea9cfda"
+    },
+    {
+      "asset": "enemy611",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_611.png",
+      "sha256": "1d69a97e948b0bbf9d07d2d7cbb1507b8ad1389f72750f3ee308dce928ebe0f6"
+    },
+    {
+      "asset": "enemy612",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_612.png",
+      "sha256": "22302bd553446cc7b01383469750a7f32eb1e47b24d4aa12d5a3028e0e82ac5a"
+    },
+    {
+      "asset": "enemy613",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_613.png",
+      "sha256": "c3698be11186b5c727f792abe0222ac97caca049b939a18141dbba3a18ee9f9d"
+    },
+    {
+      "asset": "enemy614",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_614.png",
+      "sha256": "89dd02b7d6abc29ed42758562512193bc75768f92340cc97986160fa4bdf7691"
+    },
+    {
+      "asset": "enemy615",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_615.png",
+      "sha256": "bc022aad6b1471511db4f1306f99e05c140a5883707633971d145c6155351ea2"
+    },
+    {
+      "asset": "enemy616",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_616.png",
+      "sha256": "e35b829a2251a13143889b4a7e7eb2a0dc6de47ea4dafd1d1e8b730683bae222"
+    },
+    {
+      "asset": "enemy622",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_622.png",
+      "sha256": "2c3c2ec74f95177021b6f215a2a6f8a2dd4f5c9c790f92553522cca9e0164d94"
+    },
+    {
+      "asset": "enemy623",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_623.png",
+      "sha256": "34370a2a59bb6d7b387b26cdf177c56054c4a8c791f704840a8ad77c60409c21"
+    },
+    {
+      "asset": "enemy624",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_624.png",
+      "sha256": "fa7694d375f5361d779cf138e3a19dec7e0233af23bd117498785dbed4410062"
+    },
+    {
+      "asset": "enemy627",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_627.png",
+      "sha256": "00ceb5bc7a9108fb032a56b6e17be09239b7e5bda88d3186486ba1513d277782"
+    },
+    {
+      "asset": "enemy628",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_628.png",
+      "sha256": "c07ef6f9815f67af0f741f6901d26a33f01d8cf824bafa8c43e999c5f1f65e10"
+    },
+    {
+      "asset": "enemy629",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_629.png",
+      "sha256": "a6a63c47e77920a964252ac0d8c0ed3341f390f06718a9d43a7434cda63d968e"
+    },
+    {
+      "asset": "enemy630",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_630.png",
+      "sha256": "e4c51447e4b48fe4395f953832f1ce2d83f9a3678fadd44b3c175cbdaab106ab"
+    },
+    {
+      "asset": "enemy633",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_633.png",
+      "sha256": "5a0d606d7da519ea5673a3fe69693478d52de51cc731e8c15781be513e772702"
+    },
+    {
+      "asset": "enemy634",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_634.png",
+      "sha256": "0c34b85204257a6b6c0a1d4e4b8bab6f4f9c548b79e732f2c2e995b7b1d6c41f"
+    },
+    {
+      "asset": "enemy635",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_635.png",
+      "sha256": "628a799badd21223af3a7b4802f165c19bdf74708a4cb21c6d84b54f7c147e76"
+    },
+    {
+      "asset": "enemy636",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_636.png",
+      "sha256": "e78b12a9391d64754e418e02c553a664d31363b80657b5dcf96f3f3c37a0d5c0"
+    },
+    {
+      "asset": "enemy637",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_637.png",
+      "sha256": "d0a1ab01d86f6ebc01d35fef963241e7da55e0396bc56fac22b7088f64d1cade"
+    },
+    {
+      "asset": "enemy638",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_638.png",
+      "sha256": "eeab3793cda224fbf1a349f3f8635db5076e87a64c470ec0c7f4c08824faea2f"
+    },
+    {
+      "asset": "enemy639",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_639.png",
+      "sha256": "5581d09a2b1687282c4d9f7e6ebcd635ebc0c40a0ded5051e2fadb58d63734e5"
+    },
+    {
+      "asset": "enemy640",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_640.png",
+      "sha256": "75b27f6ea9935d735b7c979be94ed278a848d56f5e7fd6e9b41fbb682c2aeee4"
+    },
+    {
+      "asset": "enemy641",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_641.png",
+      "sha256": "ae5ef28135e760206deb716c29d5c78aa3ee043e48c1e2427e073bcce78d00d2"
+    },
+    {
+      "asset": "enemy642",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_642.png",
+      "sha256": "1d1195a515587be88968cb8e991e2060bd9da9ac93d33416c8a247752435154c"
+    },
+    {
+      "asset": "enemy643",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_643.png",
+      "sha256": "d37905a65ff47339d12f812ffef2bd841dad45a1b9d9859fc4cb4678fa67ea64"
+    },
+    {
+      "asset": "enemy646",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_646.png",
+      "sha256": "96a9dc3ac47c957554791af66f7069b3380838ded8a29e8db7933ff4fae466e0"
+    },
+    {
+      "asset": "enemy647",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_647.png",
+      "sha256": "81bf17c09ff63426b3ea38596a2b4975ceab5a6f46f3b4127711b8a941490445"
+    },
+    {
+      "asset": "enemy649",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_649.png",
+      "sha256": "748cce37c1989f98d32a7fe3637f8880c5d670e3895bba3e9346a026ec57c4cd"
+    },
+    {
+      "asset": "enemy650",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_650.png",
+      "sha256": "4af724038b4ac3483273c5e1d8abdfb16c267302b9223cbbe579a96d8ef90831"
+    },
+    {
+      "asset": "enemy652",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_652.png",
+      "sha256": "d0c2fddbda757b335ab962260fe07bbbbd6f80c48b4dd399cd8901e1a40674e8"
+    },
+    {
+      "asset": "enemy653",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_653.png",
+      "sha256": "92ddce04d2ed511d5ab3606b532198f4c1802f1aee07445722579445a1b10970"
+    },
+    {
+      "asset": "enemy654",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_654.png",
+      "sha256": "9d57341a6ebc6e5eb15ae999e68fa5cb4f155b6a6959fdfa3ae76cee2a033c75"
+    },
+    {
+      "asset": "enemy655",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_655.png",
+      "sha256": "e89c7c3a18600b8f39f4943d3a8dc7fc36db529b18708a435612bdc43f5083a3"
+    },
+    {
+      "asset": "enemy658",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_658.png",
+      "sha256": "eedb41befec34675e4a55c5ba5d03e1aaeb67960fac5cc921a445aa17fb34d43"
+    },
+    {
+      "asset": "enemy659",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_659.png",
+      "sha256": "e1b681d68f4d40b434afb59b9e33727b37c812aa128819dc5f4af1bb1289cb52"
+    },
+    {
+      "asset": "enemy660",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_660.png",
+      "sha256": "8f1b468e6f06cde25326504e06d5256ee9cd43bf523d9aef025bf15974499687"
+    },
+    {
+      "asset": "enemy661",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_661.png",
+      "sha256": "c28720ec8c4e7f8b8835f0debe8be8dcf51c92f8548839be0af5a14153efec1d"
+    },
+    {
+      "asset": "enemy662",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_662.png",
+      "sha256": "e154d86b81f257300b4802469d9c7319c642b42068d69b3c00500429e4f9539a"
+    },
+    {
+      "asset": "enemy663",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_663.png",
+      "sha256": "bfdcc9e6b4ee1ab8b85fcea9ec9e9dfccdcabb705afd00b85b8ba9b82b203f6e"
+    },
+    {
+      "asset": "enemy664",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_664.png",
+      "sha256": "983326c39ae897cad1c6c58c1d21825b7be9a12d747ab8a8b8fe35d0d18b6fb3"
+    },
+    {
+      "asset": "enemy665",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_665.png",
+      "sha256": "c8e700f05e3d52844fbd7507ca2db73c694b6edacaf89eb2402a6d05779f85be"
+    },
+    {
+      "asset": "enemy666",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_666.png",
+      "sha256": "9232a5bfeda610531a5824e2f45f315b5408b53a06a4f922c3d33a7bdf03e6a0"
+    },
+    {
+      "asset": "enemy667",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_667.png",
+      "sha256": "33449b3b9be78fb496618655e98c2d66f081711154ef6c348f75b16a559109da"
+    },
+    {
+      "asset": "enemy668",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_668.png",
+      "sha256": "690b426f3cf480900c81095030469833d623196873699c4c2416c9acaf377522"
+    },
+    {
+      "asset": "enemy670",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_670.png",
+      "sha256": "883a0494b45668a0f13020f2ad7d6513ef6ee7833f6319df5aa9bcc023708415"
+    },
+    {
+      "asset": "enemy671",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_671.png",
+      "sha256": "1405800c65e5d42b5a27ce87aacb1e5df59271dc0f150b8e32c6f6b7b7eeb57f"
+    },
+    {
+      "asset": "enemy672",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_672.png",
+      "sha256": "d8c555be2d1f30ac4b6dcccd15c63c7e7c1faaffdf28be1d8c2a8c1a6304175b"
+    },
+    {
+      "asset": "enemy674",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_674.png",
+      "sha256": "341a541bf2a8e2b6292cb41fd507c2087b1ceaf20179b1e75c475e49346cc92a"
+    },
+    {
+      "asset": "enemy675",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_675.png",
+      "sha256": "6902d2a58c779c7089f952dd14069b81baec72cd09060f48c0a9307f0c3571f0"
+    },
+    {
+      "asset": "enemy677",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_677.png",
+      "sha256": "da9dcbac5f8140f4fb2418543d65bde254d036ec92a81d2b122170248284b49d"
+    },
+    {
+      "asset": "enemy679",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_679.png",
+      "sha256": "a89fa9579218d5bb57a7f21bdbf3eb072c9650d6afd55ea84a117b1fdd8e6ce0"
+    },
+    {
+      "asset": "enemy680",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_680.png",
+      "sha256": "d9594790f55002b5ce8dfea4379ad10066e8aa5489acefe6e3f34acdbcfe64d2"
+    },
+    {
+      "asset": "enemy682",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_682.png",
+      "sha256": "574b203dbdc304f7322e63d426b36d68885a3f1ab726a1dd366306bc8b3ede7b"
+    },
+    {
+      "asset": "enemy683",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_683.png",
+      "sha256": "75073de65bdc29bc60bea559f8a225081848f9eb8b76921d4a105db3e9206fbe"
+    },
+    {
+      "asset": "enemy684",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_684.png",
+      "sha256": "0b5ebab02c27b27c74398bfb004dd2d98fdfb56cb2fdb27dd05b156b103c9458"
+    },
+    {
+      "asset": "enemy685",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_685.png",
+      "sha256": "3b5e3675e431f3566c95434e7c3be33766e659c00ae078d49537a81ddddb7cab"
+    },
+    {
+      "asset": "enemy686",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_686.png",
+      "sha256": "2b23d916b3157443b18f22d9509feb2d2a75fbc9e9c8b8f74d94a27b6940b6f7"
+    },
+    {
+      "asset": "enemy687",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_687.png",
+      "sha256": "98e4e240442f25adfc05155b1413d3909d988cdb4f8459ba019855a5a07fc0ac"
+    },
+    {
+      "asset": "enemy688",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_688.png",
+      "sha256": "a890f6f922f8abe196ae102fc002701004ebac2a05b943b25d125cf3c4b8ac3a"
+    },
+    {
+      "asset": "enemy689",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_689.png",
+      "sha256": "a70f648f524157060f656bdd9b03cd33d8c8bf69d7b54f06cab16542b56765d8"
+    },
+    {
+      "asset": "enemy690",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_690.png",
+      "sha256": "231be7a37adcf9cfca62c71cfb823c1456db14347bab493916ab5d0cda93db3d"
+    },
+    {
+      "asset": "enemy691",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_691.png",
+      "sha256": "7907cff11a484ee093486ebe1f8f5f2d30b1edf27ab021fe70a4bc74a7f30110"
+    },
+    {
+      "asset": "enemy692",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_692.png",
+      "sha256": "894b4974b280b61dee0bcba7e1e90d9f40accbed2a3324ba465f2dd87dd89350"
+    },
+    {
+      "asset": "enemy694",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_694.png",
+      "sha256": "ebd3656e883af67f62ece9a2a015fae8a0f3e033402db2364b2d2102b3dc1196"
+    },
+    {
+      "asset": "enemy695",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_695.png",
+      "sha256": "dc2b0176ef3c4de946fcc1f7866cbe11b2e10d4fa89782753c8ae31a6fedf4f0"
+    },
+    {
+      "asset": "enemy696",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_696.png",
+      "sha256": "744614e604611ea6671d1ea376f5c153ddba5d1e16719e4e860500525b7353b5"
+    },
+    {
+      "asset": "enemy697",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_697.png",
+      "sha256": "3bb6aef70614b3527999b21c8125d55bfbad3cddf3797b0978bdb7dcece5108b"
+    },
+    {
+      "asset": "enemy698",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_698.png",
+      "sha256": "33dcf149af477d3d337f93661a6acb5ca6c4ceced4ba03defa953b7fda00a396"
+    },
+    {
+      "asset": "enemy699",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_699.png",
+      "sha256": "e40d44eb3bb2010f7f96bd6065e2d84dc49775c848a69a770db1f27ec7a7ed10"
+    },
+    {
+      "asset": "enemy700",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_700.png",
+      "sha256": "d813c7f8baa358200ab31ab1b634799edd5b861eb7834f5425d75c956a4cd098"
+    },
+    {
+      "asset": "enemy701",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_701.png",
+      "sha256": "a946b6951cb5993aa1a1ae57c29a544850b6fd3c3d193121b7324e58df1ee5a3"
+    },
+    {
+      "asset": "enemy702",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_702.png",
+      "sha256": "13520634acf5b9a651de76563d0e218ea748f2f1f368906f11b16217bf445fd2"
+    },
+    {
+      "asset": "enemy703",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_703.png",
+      "sha256": "4888fa48cb122b8278bef79a7de0f87239715ab668519ef9597a0d8c4e4e347c"
+    },
+    {
+      "asset": "enemy704",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_704.png",
+      "sha256": "7ef58fec722eca8c9d860f86e8d15408f3847479a3b354de4b4b6ccb36db15f9"
+    },
+    {
+      "asset": "enemy705",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_705.png",
+      "sha256": "c03959212d174d9a0dffd228716d2735672313d1f167f471c4ab91c0072af9d1"
+    },
+    {
+      "asset": "enemy706",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_706.png",
+      "sha256": "5e1e7e1dfd46f9333b64944c53f4784d77cf8590f82290585b1e0fd1dbf7309b"
+    },
+    {
+      "asset": "enemy707",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_707.png",
+      "sha256": "787f59555b561efba0e6e724a7f9bb23140cdaf509ec41e181e492bd2cff7bb3"
+    },
+    {
+      "asset": "enemy708",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_708.png",
+      "sha256": "f7d1bee737d9e285f26ad3524114414f2bdbd24035ccc11af5fd973f155976d2"
+    },
+    {
+      "asset": "enemy711",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_711.png",
+      "sha256": "e3bcc87207a14386da49937cb605ebf886596053baa1c59310168c7ab8682e50"
+    },
+    {
+      "asset": "enemy712",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_712.png",
+      "sha256": "fb77c51f7286ac002dda4a387b1b7e4e0a1d8ccde2b3705832edad2ab5c38ed9"
+    },
+    {
+      "asset": "enemy713",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_713.png",
+      "sha256": "ae8cf118cfcb1d80a94ce87e4d7d32a99624ee24a64cd7fb7d6a52f38781fd56"
+    },
+    {
+      "asset": "enemy714",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_714.png",
+      "sha256": "ef71f2990a367cc7b73fdbee17501cda440fd8290bc3b8d2b3a2053f1c061944"
+    },
+    {
+      "asset": "enemy715",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_715.png",
+      "sha256": "f3f0f524b4760c18d95f347b29eeb44311fab236520d3d64f9a1425e080deaf3"
+    },
+    {
+      "asset": "enemy716",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_716.png",
+      "sha256": "4a2e62c424963c04c446f024f6a1ea784d61a11088439667d8e8e60a2fa67390"
+    },
+    {
+      "asset": "enemy717",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_717.png",
+      "sha256": "76856b89ad200db46ec4dbb0d1ce799db6d123aa5077bf1a8ae0f6b4e3f4c53e"
+    },
+    {
+      "asset": "enemy718",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_718.png",
+      "sha256": "736a60e655f02e92aa08d82ef31a6d7fd5ed50a7d11b2820caf1cd9aa0d97ab2"
+    },
+    {
+      "asset": "enemy719",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_719.png",
+      "sha256": "ede38fab7943e0f9d2ee3d34fda35470a28d3aebd4749c63f0b5a798455949c7"
+    },
+    {
+      "asset": "enemy721",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_721.png",
+      "sha256": "87b19dfbde5ca54bbf40c1ada79fd700a4a220170c0d741cc019eceb5fb9f506"
+    },
+    {
+      "asset": "enemy722",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_722.png",
+      "sha256": "8463fe7c0d3f7f68f21d4f023d100a93a2ec5c9019f61489a1f1b1d7ca0eeab6"
+    },
+    {
+      "asset": "enemy723",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_723.png",
+      "sha256": "5e5ce799e675065b6b0014e93b64f4760041f48b60fd46f3f3df8b23c1439ec9"
+    },
+    {
+      "asset": "enemy724",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_724.png",
+      "sha256": "06b460252bdd93942367be5b669d52d350ca8c0d75b562b0c69451900829b199"
+    },
+    {
+      "asset": "enemy725",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_725.png",
+      "sha256": "626019d820faea7023a2c943efe909c09b2514b983e3c68cbd387165e53c7926"
+    },
+    {
+      "asset": "enemy726",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_726.png",
+      "sha256": "4c25224752ef4fc7b2cfaa494d583c40af5350ab4f445b333f88dcbf5737e6e5"
+    },
+    {
+      "asset": "enemy727",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_727.png",
+      "sha256": "3bbe42508c854531b1773c873bc311231d2d8278fc67443c6be49c94a608793b"
+    },
+    {
+      "asset": "enemy728",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_728.png",
+      "sha256": "1056893bd3894f16fa94310cf800a3dd0e4193c38b342297413e72bf8dc4803c"
+    },
+    {
+      "asset": "enemy729",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_729.png",
+      "sha256": "81d3802e71b0c71fc449cbea6897cfbcc141dfa7faae480c115d582bf9988be5"
+    },
+    {
+      "asset": "enemy730",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_730.png",
+      "sha256": "695fdc12a0968bcc41a9380e2d626e94655a5a06dc108294e7142c0a0ee4f090"
+    },
+    {
+      "asset": "enemy731",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_731.png",
+      "sha256": "0362d2f4a87bf4cda4bdff4ef3c0e1c5e56b66f220aa61046ece87a45083f47b"
+    },
+    {
+      "asset": "enemy732",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_732.png",
+      "sha256": "799990f6338cc25975285a74bc9094b33a7ebbd7c98c2954587138f61fd3985d"
+    },
+    {
+      "asset": "enemy733",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_733.png",
+      "sha256": "f96e8908890124bc2498592ab9302e47764449b3450c2ce834fb640a6a8f1da4"
+    },
+    {
+      "asset": "enemy735",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_735.png",
+      "sha256": "d8733038d3fd8af3705673985b216a982b5ce7121594a096a8c49d31d75de3ed"
+    },
+    {
+      "asset": "enemy736",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_736.png",
+      "sha256": "aec88e046ec9428234075fa593128b49dca59a84f5b2eff60b4bd9f3231a81eb"
+    },
+    {
+      "asset": "enemy737",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_737.png",
+      "sha256": "ec5778364ca43c1404f29e130053f354392113a6885d4af6279923e3cf476244"
+    },
+    {
+      "asset": "enemy740",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_740.png",
+      "sha256": "1986e3270e456c7f19f0ce808fb5fc1990bb4a6d7c4df90921f8f73fdd10abd5"
+    },
+    {
+      "asset": "enemy741",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_741.png",
+      "sha256": "2c099991685b5fe29b8845cf0d821e493e4ad878ebd26f174c06ce1b2490c72b"
+    },
+    {
+      "asset": "enemy742",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_742.png",
+      "sha256": "8f4df08d216df3ea14508e92cb0fd6ea7a52bf13b9b376c532de4236f2b174ce"
+    },
+    {
+      "asset": "enemy743",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_743.png",
+      "sha256": "6dec38b0ec2dcb901232bcc06165cec98d4920cde5d38aac8abb6e2a28ebac44"
+    },
+    {
+      "asset": "enemy744",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_744.png",
+      "sha256": "329e1fdd60a754e34a1a7825b1af8bb8e66e8bd7f98fed09ba2781fe724988a2"
+    },
+    {
+      "asset": "enemy745",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_745.png",
+      "sha256": "5b001cc85bb99c1149bb5eda8bd7966a1978ec6008e348c49612cac94bd41776"
+    },
+    {
+      "asset": "enemy746",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_746.png",
+      "sha256": "19ba59b9a9204be02f0d4e42fda1b267549c084dd5f31c5e62c2d7a3c23e97b6"
+    },
+    {
+      "asset": "enemy748",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_748.png",
+      "sha256": "f850f7c7efe08db69f20ed1e220d0b9429ff2056c67f29bd29242bcc3005e93d"
+    },
+    {
+      "asset": "enemy749",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_749.png",
+      "sha256": "f49994b2fc0d65071031bdacb466510f9c4f0b958151507deee8273dd5c126b9"
+    },
+    {
+      "asset": "enemy750",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_750.png",
+      "sha256": "be977291079e524a8ba281d1089e5e67cd4371be77907971f7fda56b171aa9de"
+    },
+    {
+      "asset": "enemy751",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_751.png",
+      "sha256": "54b8b387a19da7af082410af48d12aa3329cd26087a7b48de8cc8d102b83d0ca"
+    },
+    {
+      "asset": "enemy752",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_752.png",
+      "sha256": "3f83043dc97fd954c21c3d45c95e2e3bf9219040375a1894d6c424f6a02133b2"
+    },
+    {
+      "asset": "enemy753",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_753.png",
+      "sha256": "a33a7fb0212034beff14f56f5dfb2f5e2ed56dde0d058871137b0d7cc791539f"
+    },
+    {
+      "asset": "enemy754",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_754.png",
+      "sha256": "a33a7fb0212034beff14f56f5dfb2f5e2ed56dde0d058871137b0d7cc791539f"
+    },
+    {
+      "asset": "enemy755",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_755.png",
+      "sha256": "b2474403e15a2122d43e556a54ad73c5e913178f84f68b77345be53cde9939eb"
+    },
+    {
+      "asset": "enemy756",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_756.png",
+      "sha256": "b2474403e15a2122d43e556a54ad73c5e913178f84f68b77345be53cde9939eb"
+    },
+    {
+      "asset": "enemy757",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_757.png",
+      "sha256": "945dd5245207d98c7b8d32775ab2d32e62eaea613151e3d162aa66e767345b7a"
+    },
+    {
+      "asset": "enemy758",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_758.png",
+      "sha256": "945dd5245207d98c7b8d32775ab2d32e62eaea613151e3d162aa66e767345b7a"
+    },
+    {
+      "asset": "enemy759",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_759.png",
+      "sha256": "8b2fc2684b477d0743cf27c17c73b33c8919e4b663246bd8f6d8a9aa649d23d3"
+    },
+    {
+      "asset": "enemy760",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_760.png",
+      "sha256": "88e2264421954dba10295235795538ef2d4bf0cf1dced07c5d82c07a34379aa6"
+    },
+    {
+      "asset": "enemy761",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_761.png",
+      "sha256": "11db56a201d4361d6fe9869db7679fd4e189e95c25be5d78b3fb3add91698f62"
+    },
+    {
+      "asset": "enemy762",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_762.png",
+      "sha256": "e27a7695fe622a1113d49cfffdc307b532c4dbbb51fdc61c7a1f382f116ef2a6"
+    },
+    {
+      "asset": "enemy763",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_763.png",
+      "sha256": "a8c186d8ae9b5eae772642ee52c46a34ed6fc302ca6c01aa1d7b4412c9ad9d7e"
+    },
+    {
+      "asset": "enemy764",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_764.png",
+      "sha256": "0dbbbfd5a948d44e548d38ee1b82d15f05cb649026c8b8c8e193fae4d045942d"
+    },
+    {
+      "asset": "enemy765",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_765.png",
+      "sha256": "088f3a828b2bfe72e9027f4fea05360923c45171686884ca39bcbeb7869c0c80"
+    },
+    {
+      "asset": "enemy766",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_766.png",
+      "sha256": "716c5bcdf6851d23ca4faa873e3acab7247c3c92610c8a2ba73e3f42b6548e08"
+    },
+    {
+      "asset": "enemy768",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_768.png",
+      "sha256": "e2de67d24b7bfb61f18c7c8bbb46408800f3f4caf9cb6b6dc361337d28bd9541"
+    },
+    {
+      "asset": "enemy769",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_769.png",
+      "sha256": "a62e678c959ff532d727c0c2ab00d753b34c86e3d5175b58db92da2fc24d96e8"
+    },
+    {
+      "asset": "enemy770",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_770.png",
+      "sha256": "a3c39610f8a9b33c91c11e5678c932072e67ad8a5103e061c7d6416d6474beef"
+    },
+    {
+      "asset": "enemy771",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_771.png",
+      "sha256": "5b9663663eceb2c76c6afb063809cfac700c62e12272364ad529bc27b14f9931"
+    },
+    {
+      "asset": "enemy772",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_772.png",
+      "sha256": "049fc191d4b92c6ad4f0c67f876685f0d15d07e11e372e78e5297eb5278afaae"
+    },
+    {
+      "asset": "enemy773",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_773.png",
+      "sha256": "a0795c7ce2de69594b4f8cb88d0c82e2d39a61584de39f46de0632c617cfe3a6"
+    },
+    {
+      "asset": "enemy775",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_775.png",
+      "sha256": "3068f713538fe68958bf2ec3f7ffa555048d32435ca626cc5e28e169bd2394af"
+    },
+    {
+      "asset": "enemy776",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_776.png",
+      "sha256": "dc71a259059dd36e132377f70003af32fdde992043199afbe768de9bfdf7c7de"
+    },
+    {
+      "asset": "enemy777",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_777.png",
+      "sha256": "1e0fa916303cc39c1016641a80a2551ab86c5cf249bc7a28d1537b984c3ee2bc"
+    },
+    {
+      "asset": "enemy778",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_778.png",
+      "sha256": "66eac1311df4dc2c127f349e42bf136a11b07bd297f501cd6f4cb910b60b824e"
+    },
+    {
+      "asset": "enemy779",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_779.png",
+      "sha256": "282e3bfcefa6c54d46fb584dd4e6cd31dae405e417eb847a20c13a6bb4248e78"
+    },
+    {
+      "asset": "enemy780",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_780.png",
+      "sha256": "8720daa50382ba3a743224080be01786927fec7a5401589465ae4ff49c62da87"
+    },
+    {
+      "asset": "enemy781",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_781.png",
+      "sha256": "6d762c3e08362f7851394cd233c623396249944f71ac37a7083141ffdd6d76ef"
+    },
+    {
+      "asset": "enemy782",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_782.png",
+      "sha256": "493adbb1e99ef2b4c41a3289e7dd72833e7ef88f1130f8d569ab141ed5da60f9"
+    },
+    {
+      "asset": "enemy783",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_783.png",
+      "sha256": "6cabea7c44f4f999ec5f252574261f052042b6a5a1851a8c0ec89d2ed343ed42"
+    },
+    {
+      "asset": "enemy786",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/enemy_icon/enemy_icon_786.png",
+      "sha256": "b803e13dbf4c8de604c1a61aa4e106838a19cc3d964b35823fa0fea4fe967f9a"
+    },
+    {
+      "asset": "enemyAbility_barrier",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/ability_icon/Barrier.png",
+      "sha256": "a641e4e7180da0525d9b3108a5502d60912d43d2446ac8d9731132b77c00048f"
+    },
+    {
+      "asset": "enemyAbility_burrow",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/ability_icon/Burrow.png",
+      "sha256": "a62ff3146e1a980c476115f5982e329100fdab20835cd43ea3373f028101ca74"
+    },
+    {
+      "asset": "enemyAbility_revive",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/ability_icon/Revive.png",
+      "sha256": "1c797179b344da66f41f1c83d1f5613a8360a15a6394d06d365b3c94350a2e49"
+    },
+    {
+      "asset": "enemyAbility_shield",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/ability_icon/DemonShield.png",
+      "sha256": "4b35964a13f6631de33b3e893077313d4af73b2af0efdc5eee4374c20829426f"
+    },
+    {
+      "asset": "enemyAbility_deathSurge",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/ability_icon/DeathSurge.png",
+      "sha256": "d4fd62f1e6e66ef92dac7b6a88549a20e196b2849d4ea806f24c0c4f1968ca0f"
+    },
+    {
+      "asset": "enemyAbility_toxic",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/ability_icon/BCPoison.png",
+      "sha256": "71c1683331d92edccf876bdc25658c918387c8c3e7f4a071da8c13201bae59b7"
+    },
+    {
+      "asset": "enemyAbility_productionDelay",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/ability_icon/CD_time_plus.png",
+      "sha256": "530bc2328e722f8a9dfff4155f7dc1927f29494939e526c1a2112876d2878ac0"
+    },
+    {
+      "asset": "enemyTrait_colossus",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/ability_icon/ja/Baron.png",
+      "sha256": "11048192fc2a82add286dd4d6d87b77cecfcc0c87979dafb4ecc6faff86137f7"
+    },
+    {
+      "asset": "enemyTrait_behemoth",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/ability_icon/ja/Beast.png",
+      "sha256": "9d9138f21ca778c8bf9c9aba5a17b334c2d7e2ba04def11e5b37749f9f8cf3c1"
+    },
+    {
+      "asset": "enemyTrait_sage",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/ability_icon/ja/wiser.png",
+      "sha256": "cc80554624ec544a27660d7ad1643475fb1f3946bd4667e1ecde18e1a623434f"
+    },
+    {
+      "asset": "enemyTrait_kaijin",
+      "source": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/img/ability_icon/ja/superman.png",
+      "sha256": "f01fa98c77ba3bdd18f3a86a7a898c8f276e43464d25209320d3ca8f6f6e667f"
+    }
+  ]
+}

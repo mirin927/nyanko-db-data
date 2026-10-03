@@ -1,0 +1,6174 @@
+{
+  "version": 1,
+  "catalogVersion": "JDB-2026-09-30",
+  "jdbRevision": "525a4c287e84f2261bdb7ea4cc82a03227796038",
+  "region": "ja",
+  "effects": [
+    {
+      "id": 0,
+      "name": "キャラクターの攻撃力アップ"
+    },
+    {
+      "id": 1,
+      "name": "キャラクターの体力アップ"
+    },
+    {
+      "id": 2,
+      "name": "キャラクターの移動速度アップ"
+    },
+    {
+      "id": 3,
+      "name": "にゃんこ砲初期ゲージアップ"
+    },
+    {
+      "id": 4,
+      "name": "働きネコの初期レベルアップ"
+    },
+    {
+      "id": 5,
+      "name": "初期所持金アップ"
+    },
+    {
+      "id": 6,
+      "name": "にゃんこ砲攻撃力アップ"
+    },
+    {
+      "id": 7,
+      "name": "にゃんこ砲チャージ速度アップ"
+    },
+    {
+      "id": 9,
+      "name": "働きネコお財布アップ"
+    },
+    {
+      "id": 10,
+      "name": "お城耐久力アップ"
+    },
+    {
+      "id": 11,
+      "name": "研究力アップ"
+    },
+    {
+      "id": 12,
+      "name": "会計力アップ"
+    },
+    {
+      "id": 13,
+      "name": "勉強力アップ"
+    },
+    {
+      "id": 14,
+      "name": "「めっぽう強い」効果アップ"
+    },
+    {
+      "id": 15,
+      "name": "「超ダメージ」効果アップ"
+    },
+    {
+      "id": 16,
+      "name": "「打たれ強い」効果アップ"
+    },
+    {
+      "id": 17,
+      "name": "「ふっとばし」効果アップ"
+    },
+    {
+      "id": 18,
+      "name": "「遅くする」効果アップ"
+    },
+    {
+      "id": 19,
+      "name": "「動きを止める」効果アップ"
+    },
+    {
+      "id": 20,
+      "name": "「攻撃力ダウン」効果アップ"
+    },
+    {
+      "id": 21,
+      "name": "「攻撃力上昇」効果アップ"
+    },
+    {
+      "id": 22,
+      "name": "「魔女キラー」効果アップ"
+    },
+    {
+      "id": 23,
+      "name": "「使徒キラー」効果アップ"
+    },
+    {
+      "id": 24,
+      "name": "「クリティカル」発動率アップ"
+    },
+    {
+      "id": 25,
+      "name": "「怪人特効」効果"
+    },
+    {
+      "id": 26,
+      "name": "「波動ダメージ無効」効果"
+    },
+    {
+      "id": 27,
+      "name": "生産コスト割引"
+    },
+    {
+      "id": 28,
+      "name": "「烈波ダメージ無効」効果"
+    }
+  ],
+  "tiers": [
+    {
+      "id": 0,
+      "name": "小"
+    },
+    {
+      "id": 1,
+      "name": "中"
+    },
+    {
+      "id": 2,
+      "name": "大"
+    },
+    {
+      "id": 3,
+      "name": "究極"
+    },
+    {
+      "id": 5,
+      "name": "付与"
+    }
+  ],
+  "combos": [
+    {
+      "id": 0,
+      "sourceRow": 126,
+      "name": "にゃんこ軍団",
+      "effectID": 4,
+      "tierID": 0,
+      "effectValue": 1,
+      "amount": "初期レベル +1",
+      "note": "ネコボン使用時はネコボンの効果が優先されます。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 0,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 1,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 2,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 3,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 4,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "sourceRow": 127,
+      "name": "アフター５",
+      "effectID": 6,
+      "tierID": 0,
+      "effectValue": 20,
+      "amount": "+20%",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 13,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 12,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "sourceRow": 128,
+      "name": "ホゲー",
+      "effectID": 10,
+      "tierID": 0,
+      "effectValue": 20,
+      "amount": "+20%",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 51,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 6,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "sourceRow": 129,
+      "name": "デスロック",
+      "effectID": 3,
+      "tierID": 0,
+      "effectValue": 20,
+      "amount": "+20%",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 19,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 148,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "sourceRow": 130,
+      "name": "アイラブジャパン",
+      "effectID": 0,
+      "tierID": 1,
+      "effectValue": 15,
+      "amount": "+15%",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 18,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 21,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 20,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 61,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "sourceRow": 131,
+      "name": "日光浴",
+      "effectID": 4,
+      "tierID": 0,
+      "effectValue": 1,
+      "amount": "初期レベル +1",
+      "note": "ネコボン使用時はネコボンの効果が優先されます。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 6,
+          "minimumForm": 3
+        },
+        {
+          "unitID": 199,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "sourceRow": 132,
+      "name": "パタパタ",
+      "effectID": 7,
+      "tierID": 0,
+      "effectValue": 20,
+      "amount": "チャージ 5秒短縮",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 56,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 5,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "sourceRow": 133,
+      "name": "斧の達人",
+      "effectID": 0,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 13,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 2,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 72,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "sourceRow": 134,
+      "name": "みかんとリンゴ",
+      "effectID": 10,
+      "tierID": 0,
+      "effectValue": 20,
+      "amount": "+20%",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 14,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 39,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "sourceRow": 135,
+      "name": "O・ZI・GI",
+      "effectID": 17,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 1,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 169,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "sourceRow": 136,
+      "name": "アイドル志望",
+      "effectID": 0,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 16,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 131,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "sourceRow": 137,
+      "name": "バイクツーリング",
+      "effectID": 2,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 17,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 158,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "sourceRow": 138,
+      "name": "ブラパンツ",
+      "effectID": 4,
+      "tierID": 0,
+      "effectValue": 1,
+      "amount": "初期レベル +1",
+      "note": "ネコボン使用時はネコボンの効果が優先されます。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 123,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 15,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "sourceRow": 139,
+      "name": "オハナガサイタ",
+      "effectID": 19,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 72,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 127,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "sourceRow": 140,
+      "name": "子ネコの友情",
+      "effectID": 7,
+      "tierID": 0,
+      "effectValue": 20,
+      "amount": "チャージ 5秒短縮",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 269,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 209,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "sourceRow": 141,
+      "name": "カウボーイ",
+      "effectID": 2,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 4,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 145,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "sourceRow": 142,
+      "name": "人形師協会会員",
+      "effectID": 3,
+      "tierID": 1,
+      "effectValue": 40,
+      "amount": "+40%",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 226,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 126,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "sourceRow": 143,
+      "name": "２人でぴょんぴょん",
+      "effectID": 9,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 37,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 88,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "sourceRow": 144,
+      "name": "救いの手",
+      "effectID": 18,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 30,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 9,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "sourceRow": 145,
+      "name": "フォーリンラヴ",
+      "effectID": 15,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 56,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 109,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "sourceRow": 146,
+      "name": "カエルの王子様",
+      "effectID": 14,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 150,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 18,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "sourceRow": 147,
+      "name": "孫という名の宝物",
+      "effectID": 3,
+      "tierID": 1,
+      "effectValue": 40,
+      "amount": "+40%",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 59,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 132,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "sourceRow": 148,
+      "name": "舞台の上では平気なの",
+      "effectID": 16,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 9,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 41,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "sourceRow": 149,
+      "name": "バイオハザード",
+      "effectID": 11,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "再生産 0.87秒短縮",
+      "note": "適用後も再生産時間は2秒未満にはなりません。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 19,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 11,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "sourceRow": 150,
+      "name": "真夏の太陽",
+      "effectID": 15,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 127,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 38,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "sourceRow": 151,
+      "name": "トナカイのプレゼント",
+      "effectID": 5,
+      "tierID": 0,
+      "effectValue": 300,
+      "amount": "初期所持金 +300円",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 74,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 244,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "sourceRow": 152,
+      "name": "銀幕のスター",
+      "effectID": 12,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 153,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 9,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "sourceRow": 153,
+      "name": "アシナガおじさん",
+      "effectID": 18,
+      "tierID": 1,
+      "effectValue": 20,
+      "amount": "+20%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 3,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 168,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "sourceRow": 154,
+      "name": "宴会部長",
+      "effectID": 10,
+      "tierID": 0,
+      "effectValue": 20,
+      "amount": "+20%",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 128,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 32,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "sourceRow": 155,
+      "name": "グッジョブ",
+      "effectID": 13,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 237,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "sourceRow": 156,
+      "name": "サーティーン",
+      "effectID": 17,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 239,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "sourceRow": 157,
+      "name": "ネーーーコボンボン",
+      "effectID": 4,
+      "tierID": 0,
+      "effectValue": 1,
+      "amount": "初期レベル +1",
+      "note": "ネコボン使用時はネコボンの効果が優先されます。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 238,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 1000,
+      "sourceRow": 158,
+      "name": "進撃のちびネコ",
+      "effectID": 2,
+      "tierID": 1,
+      "effectValue": 15,
+      "amount": "+15%",
+      "note": "",
+      "unlock": "未来編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 209,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 210,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 211,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 245,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 246,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 1001,
+      "sourceRow": 159,
+      "name": "サイエンスフィクション",
+      "effectID": 6,
+      "tierID": 0,
+      "effectValue": 20,
+      "amount": "+20%",
+      "note": "",
+      "unlock": "未来編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 197,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 5,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 1002,
+      "sourceRow": 160,
+      "name": "ビューティフルレッグス",
+      "effectID": 17,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 3,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 94,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 1003,
+      "sourceRow": 161,
+      "name": "美術教室",
+      "effectID": 16,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 148,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 60,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 1004,
+      "sourceRow": 162,
+      "name": "ホゲーー",
+      "effectID": 1,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "未来編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 51,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 6,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 97,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 1005,
+      "sourceRow": 163,
+      "name": "お魚天国",
+      "effectID": 9,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "未来編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 6,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 97,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 74,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 1006,
+      "sourceRow": 164,
+      "name": "暴風一家",
+      "effectID": 1,
+      "tierID": 1,
+      "effectValue": 20,
+      "amount": "+20%",
+      "note": "",
+      "unlock": "未来編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 60,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 88,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 78,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 126,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 154,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 1007,
+      "sourceRow": 165,
+      "name": "モヒカン愛好家",
+      "effectID": 17,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 0,
+          "minimumForm": 3
+        },
+        {
+          "unitID": 98,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 1008,
+      "sourceRow": 166,
+      "name": "未確認飛行物体",
+      "effectID": 15,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 5,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 96,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 1009,
+      "sourceRow": 167,
+      "name": "ロボトモ",
+      "effectID": 18,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 78,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 81,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 1010,
+      "sourceRow": 168,
+      "name": "マッチョマン",
+      "effectID": 21,
+      "tierID": 0,
+      "effectValue": 20,
+      "amount": "+20%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 3,
+          "minimumForm": 3
+        },
+        {
+          "unitID": 9,
+          "minimumForm": 3
+        }
+      ]
+    },
+    {
+      "id": 1011,
+      "sourceRow": 169,
+      "name": "４人でぴょんぴょん",
+      "effectID": 5,
+      "tierID": 1,
+      "effectValue": 500,
+      "amount": "初期所持金 +500円",
+      "note": "",
+      "unlock": "未来編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 123,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 88,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 1012,
+      "sourceRow": 170,
+      "name": "操り職人",
+      "effectID": 5,
+      "tierID": 0,
+      "effectValue": 300,
+      "amount": "初期所持金 +300円",
+      "note": "",
+      "unlock": "未来編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 52,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 126,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 1013,
+      "sourceRow": 171,
+      "name": "キング ＆ クイーン",
+      "effectID": 4,
+      "tierID": 0,
+      "effectValue": 1,
+      "amount": "初期レベル +1",
+      "note": "ネコボン使用時はネコボンの効果が優先されます。",
+      "unlock": "未来編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 7,
+          "minimumForm": 3
+        },
+        {
+          "unitID": 42,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 1014,
+      "sourceRow": 172,
+      "name": "ザ・ニンジャ",
+      "effectID": 2,
+      "tierID": 1,
+      "effectValue": 15,
+      "amount": "+15%",
+      "note": "",
+      "unlock": "未来編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 18,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 261,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 1015,
+      "sourceRow": 173,
+      "name": "中二病",
+      "effectID": 21,
+      "tierID": 0,
+      "effectValue": 20,
+      "amount": "+20%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 130,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 194,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 1016,
+      "sourceRow": 174,
+      "name": "デュエット",
+      "effectID": 4,
+      "tierID": 0,
+      "effectValue": 1,
+      "amount": "初期レベル +1",
+      "note": "ネコボン使用時はネコボンの効果が優先されます。",
+      "unlock": "未来編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 16,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 148,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 1017,
+      "sourceRow": 175,
+      "name": "火の用心",
+      "effectID": 20,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 7,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 98,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 203,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 1018,
+      "sourceRow": 176,
+      "name": "豚丼",
+      "effectID": 1,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "未来編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 106,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 21,
+          "minimumForm": 3
+        }
+      ]
+    },
+    {
+      "id": 1019,
+      "sourceRow": 177,
+      "name": "ネコの前で見せる笑顔",
+      "effectID": 19,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 0,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 107,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 1020,
+      "sourceRow": 178,
+      "name": "獅子王",
+      "effectID": 14,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 4,
+          "minimumForm": 3
+        },
+        {
+          "unitID": 109,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 1021,
+      "sourceRow": 179,
+      "name": "モモとバナナ",
+      "effectID": 2,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "未来編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 136,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 14,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 1022,
+      "sourceRow": 180,
+      "name": "本能寺の怨念",
+      "effectID": 19,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 128,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 73,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 1023,
+      "sourceRow": 181,
+      "name": "暑い日も涼しく",
+      "effectID": 19,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 42,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 127,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 1024,
+      "sourceRow": 182,
+      "name": "アポロ",
+      "effectID": 7,
+      "tierID": 0,
+      "effectValue": 20,
+      "amount": "チャージ 5秒短縮",
+      "note": "",
+      "unlock": "未来編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 78,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 138,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 1025,
+      "sourceRow": 183,
+      "name": "ほねほねボーン",
+      "effectID": 11,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "再生産 0.87秒短縮",
+      "note": "適用後も再生産時間は2秒未満にはなりません。",
+      "unlock": "未来編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 52,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 19,
+          "minimumForm": 3
+        }
+      ]
+    },
+    {
+      "id": 1026,
+      "sourceRow": 184,
+      "name": "騎士道と菓子道",
+      "effectID": 18,
+      "tierID": 1,
+      "effectValue": 20,
+      "amount": "+20%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 85,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 20,
+          "minimumForm": 3
+        }
+      ]
+    },
+    {
+      "id": 1027,
+      "sourceRow": 185,
+      "name": "昼ドラで競演",
+      "effectID": 12,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "未来編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 196,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 9,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 1028,
+      "sourceRow": 186,
+      "name": "ネコ＆タンクネコ",
+      "effectID": 7,
+      "tierID": 0,
+      "effectValue": 20,
+      "amount": "チャージ 5秒短縮",
+      "note": "",
+      "unlock": "未来編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 63,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 81,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 80,
+          "minimumForm": 3
+        }
+      ]
+    },
+    {
+      "id": 1029,
+      "sourceRow": 187,
+      "name": "はちまき",
+      "effectID": 6,
+      "tierID": 0,
+      "effectValue": 20,
+      "amount": "+20%",
+      "note": "",
+      "unlock": "未来編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 63,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 70,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 136,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 1030,
+      "sourceRow": 188,
+      "name": "ムチ使い",
+      "effectID": 3,
+      "tierID": 0,
+      "effectValue": 20,
+      "amount": "+20%",
+      "note": "",
+      "unlock": "未来編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 13,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 122,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 1031,
+      "sourceRow": 189,
+      "name": "仮面舞踏会",
+      "effectID": 17,
+      "tierID": 1,
+      "effectValue": 20,
+      "amount": "+20%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 130,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 13,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 80,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 2000,
+      "sourceRow": 190,
+      "name": "進撃の狂乱ネコ",
+      "effectID": 5,
+      "tierID": 2,
+      "effectValue": 1000,
+      "amount": "初期所持金 +1000円",
+      "note": "",
+      "unlock": "未来編 第2章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 91,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 92,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 93,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 94,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 95,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 2001,
+      "sourceRow": 191,
+      "name": "暗黒の力",
+      "effectID": 20,
+      "tierID": 1,
+      "effectValue": 20,
+      "amount": "+20%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第2章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 2,
+          "minimumForm": 3
+        },
+        {
+          "unitID": 13,
+          "minimumForm": 3
+        }
+      ]
+    },
+    {
+      "id": 2002,
+      "sourceRow": 192,
+      "name": "キモモモ",
+      "effectID": 19,
+      "tierID": 1,
+      "effectValue": 20,
+      "amount": "+20%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第2章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 3,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 94,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 176,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 2003,
+      "sourceRow": 193,
+      "name": "株式会社にゃんこ",
+      "effectID": 4,
+      "tierID": 0,
+      "effectValue": 1,
+      "amount": "初期レベル +1",
+      "note": "ネコボン使用時はネコボンの効果が優先されます。",
+      "unlock": "未来編 第2章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 70,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 122,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 2004,
+      "sourceRow": 194,
+      "name": "恋の季節",
+      "effectID": 14,
+      "tierID": 1,
+      "effectValue": 20,
+      "amount": "+20%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第2章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 100,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 104,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 109,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 2005,
+      "sourceRow": 195,
+      "name": "露出狂",
+      "effectID": 17,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第2章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 32,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 80,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 2006,
+      "sourceRow": 196,
+      "name": "花見",
+      "effectID": 16,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第2章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 72,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 79,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 2007,
+      "sourceRow": 197,
+      "name": "和定食",
+      "effectID": 5,
+      "tierID": 1,
+      "effectValue": 500,
+      "amount": "初期所持金 +500円",
+      "note": "",
+      "unlock": "未来編 第2章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 74,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 61,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 2008,
+      "sourceRow": 198,
+      "name": "鬼と呼ばれて",
+      "effectID": 12,
+      "tierID": 1,
+      "effectValue": 20,
+      "amount": "+20%",
+      "note": "",
+      "unlock": "未来編 第2章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 44,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 80,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 2009,
+      "sourceRow": 199,
+      "name": "伝統芸能",
+      "effectID": 18,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第2章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 126,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 152,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 2010,
+      "sourceRow": 200,
+      "name": "スポーツ女子",
+      "effectID": 1,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "未来編 第2章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 100,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 36,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 2011,
+      "sourceRow": 201,
+      "name": "ジェントルマン",
+      "effectID": 9,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "未来編 第2章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 80,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 49,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 2012,
+      "sourceRow": 202,
+      "name": "風車",
+      "effectID": 2,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "未来編 第2章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 17,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 104,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 2013,
+      "sourceRow": 203,
+      "name": "ロングネック",
+      "effectID": 4,
+      "tierID": 1,
+      "effectValue": 2,
+      "amount": "初期レベル +2",
+      "note": "ネコボン使用時はネコボンの効果が優先されます。",
+      "unlock": "未来編 第2章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 4,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 169,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 2014,
+      "sourceRow": 204,
+      "name": "ダンサーズ",
+      "effectID": 1,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "未来編 第2章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 22,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 32,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 10,
+          "minimumForm": 3
+        }
+      ]
+    },
+    {
+      "id": 2015,
+      "sourceRow": 205,
+      "name": "お薬出しておきますね",
+      "effectID": 17,
+      "tierID": 1,
+      "effectValue": 20,
+      "amount": "+20%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第2章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 143,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 79,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 2016,
+      "sourceRow": 206,
+      "name": "ホラー映画",
+      "effectID": 16,
+      "tierID": 1,
+      "effectValue": 20,
+      "amount": "+20%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第2章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 19,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 128,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 33,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 2017,
+      "sourceRow": 207,
+      "name": "にゃんこ学園",
+      "effectID": 20,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第2章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 201,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 31,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 100,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 2018,
+      "sourceRow": 208,
+      "name": "槍試合",
+      "effectID": 19,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第2章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 138,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 24,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 2019,
+      "sourceRow": 209,
+      "name": "心がぴょんぴょん",
+      "effectID": 18,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第2章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 212,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 88,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 3000,
+      "sourceRow": 210,
+      "name": "ぺろきゃん愛好家",
+      "effectID": 18,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 15,
+          "minimumForm": 3
+        },
+        {
+          "unitID": 172,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 3001,
+      "sourceRow": 211,
+      "name": "師範といっしょ",
+      "effectID": 19,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 10,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 132,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 3002,
+      "sourceRow": 212,
+      "name": "3匹の王",
+      "effectID": 1,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 109,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 7,
+          "minimumForm": 3
+        },
+        {
+          "unitID": 4,
+          "minimumForm": 3
+        }
+      ]
+    },
+    {
+      "id": 3003,
+      "sourceRow": 213,
+      "name": "乙女",
+      "effectID": 10,
+      "tierID": 1,
+      "effectValue": 50,
+      "amount": "+50%",
+      "note": "",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 100,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 150,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 3004,
+      "sourceRow": 214,
+      "name": "チームヘッドバンギング",
+      "effectID": 5,
+      "tierID": 1,
+      "effectValue": 500,
+      "amount": "初期所持金 +500円",
+      "note": "",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 4,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 95,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 148,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 3005,
+      "sourceRow": 215,
+      "name": "大道芸猫",
+      "effectID": 9,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 17,
+          "minimumForm": 3
+        },
+        {
+          "unitID": 154,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 3006,
+      "sourceRow": 216,
+      "name": "スイーツ",
+      "effectID": 7,
+      "tierID": 1,
+      "effectValue": 30,
+      "amount": "チャージ 10秒短縮",
+      "note": "",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 15,
+          "minimumForm": 3
+        },
+        {
+          "unitID": 20,
+          "minimumForm": 3
+        },
+        {
+          "unitID": 176,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 3007,
+      "sourceRow": 217,
+      "name": "ツンツンツン",
+      "effectID": 21,
+      "tierID": 0,
+      "effectValue": 20,
+      "amount": "+20%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 240,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 7,
+          "minimumForm": 3
+        }
+      ]
+    },
+    {
+      "id": 3008,
+      "sourceRow": 218,
+      "name": "昨日の敵は今日の友",
+      "effectID": 3,
+      "tierID": 1,
+      "effectValue": 40,
+      "amount": "+40%",
+      "note": "",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 130,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 172,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 268,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 3009,
+      "sourceRow": 219,
+      "name": "パンチパンチパンチ！",
+      "effectID": 0,
+      "tierID": 1,
+      "effectValue": 15,
+      "amount": "+15%",
+      "note": "",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 8,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 99,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 100,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 34,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 3010,
+      "sourceRow": 220,
+      "name": "戦闘狂の集い",
+      "effectID": 0,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 2,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 130,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 44,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 3011,
+      "sourceRow": 221,
+      "name": "変態紳士に天罰を",
+      "effectID": 16,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 80,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 257,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 3012,
+      "sourceRow": 222,
+      "name": "二人一組",
+      "effectID": 1,
+      "tierID": 1,
+      "effectValue": 20,
+      "amount": "+20%",
+      "note": "",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 152,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 81,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 123,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 104,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 88,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 3013,
+      "sourceRow": 223,
+      "name": "ダブルタイフーン",
+      "effectID": 15,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 75,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 267,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 3014,
+      "sourceRow": 224,
+      "name": "風のイタズラ",
+      "effectID": 17,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 267,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 23,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 3015,
+      "sourceRow": 225,
+      "name": "IT系",
+      "effectID": 12,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 260,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 35,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 3016,
+      "sourceRow": 226,
+      "name": "空中偵察部隊",
+      "effectID": 11,
+      "tierID": 1,
+      "effectValue": 20,
+      "amount": "再生産 1.73秒短縮",
+      "note": "適用後も再生産時間は2秒未満にはなりません。",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 5,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 96,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 18,
+          "minimumForm": 3
+        },
+        {
+          "unitID": 260,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 3017,
+      "sourceRow": 227,
+      "name": "タイホしちゃうぞ☆",
+      "effectID": 18,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 212,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 79,
+          "minimumForm": 3
+        }
+      ]
+    },
+    {
+      "id": 3018,
+      "sourceRow": 228,
+      "name": "にゃんこサーカス",
+      "effectID": 5,
+      "tierID": 1,
+      "effectValue": 500,
+      "amount": "初期所持金 +500円",
+      "note": "",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 4,
+          "minimumForm": 3
+        },
+        {
+          "unitID": 130,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 226,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 3019,
+      "sourceRow": 229,
+      "name": "チェックのスカート",
+      "effectID": 11,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "再生産 0.87秒短縮",
+      "note": "適用後も再生産時間は2秒未満にはなりません。",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 23,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 159,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 9000,
+      "sourceRow": 230,
+      "name": "ダブルデート",
+      "effectID": 15,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "ユーザーランク2700の報酬",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 152,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 81,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 9001,
+      "sourceRow": 231,
+      "name": "なまけ者たち",
+      "effectID": 14,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "ユーザーランク2700の報酬",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 33,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 79,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 9002,
+      "sourceRow": 232,
+      "name": "うーらーめーしーにゃ",
+      "effectID": 19,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "ユーザーランク2700の報酬",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 128,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 70,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 9003,
+      "sourceRow": 233,
+      "name": "ふんどし祭",
+      "effectID": 9,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "ユーザーランク1450の報酬",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 23,
+          "minimumForm": 3
+        },
+        {
+          "unitID": 51,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 9004,
+      "sourceRow": 234,
+      "name": "スタジオニャブリ",
+      "effectID": 6,
+      "tierID": 1,
+      "effectValue": 50,
+      "amount": "+50%",
+      "note": "",
+      "unlock": "ユーザーランク1450の報酬",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 5,
+          "minimumForm": 3
+        },
+        {
+          "unitID": 8,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 55,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 9005,
+      "sourceRow": 235,
+      "name": "カボチャパンツ",
+      "effectID": 19,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "ユーザーランク1450の報酬",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 3,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 227,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 9006,
+      "sourceRow": 236,
+      "name": "百鬼夜行",
+      "effectID": 4,
+      "tierID": 1,
+      "effectValue": 2,
+      "amount": "初期レベル +2",
+      "note": "ネコボン使用時はネコボンの効果が優先されます。",
+      "unlock": "ユーザーランク2150の報酬",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 38,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 128,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 80,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 9007,
+      "sourceRow": 237,
+      "name": "酒乱若人",
+      "effectID": 6,
+      "tierID": 0,
+      "effectValue": 20,
+      "amount": "+20%",
+      "note": "",
+      "unlock": "ユーザーランク2150の報酬",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 79,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 10,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 9008,
+      "sourceRow": 238,
+      "name": "恐竜時代",
+      "effectID": 10,
+      "tierID": 0,
+      "effectValue": 20,
+      "amount": "+20%",
+      "note": "",
+      "unlock": "ユーザーランク2150の報酬",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 7,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 46,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "sourceRow": 239,
+      "name": "おもちゃのチャチャチャ",
+      "effectID": 12,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 147,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 127,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 81,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "sourceRow": 240,
+      "name": "庶民と金持ち",
+      "effectID": 5,
+      "tierID": 0,
+      "effectValue": 300,
+      "amount": "初期所持金 +300円",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 0,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 129,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "sourceRow": 241,
+      "name": "コイの滝登り",
+      "effectID": 7,
+      "tierID": 1,
+      "effectValue": 30,
+      "amount": "チャージ 10秒短縮",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 104,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 86,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "sourceRow": 242,
+      "name": "龍退治ごっこ",
+      "effectID": 14,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 2,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 177,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 1032,
+      "sourceRow": 243,
+      "name": "天地の怒り",
+      "effectID": 20,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 5,
+          "minimumForm": 3
+        },
+        {
+          "unitID": 83,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 3020,
+      "sourceRow": 244,
+      "name": "お騒がせメカ",
+      "effectID": 14,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 195,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 260,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 3021,
+      "sourceRow": 245,
+      "name": "Wバズーカ",
+      "effectID": 6,
+      "tierID": 0,
+      "effectValue": 20,
+      "amount": "+20%",
+      "note": "",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 11,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 268,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 3022,
+      "sourceRow": 246,
+      "name": "ライバル宣言",
+      "effectID": 4,
+      "tierID": 0,
+      "effectValue": 1,
+      "amount": "初期レベル +1",
+      "note": "ネコボン使用時はネコボンの効果が優先されます。",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 268,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 24,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 3023,
+      "sourceRow": 247,
+      "name": "韋駄天トリオ",
+      "effectID": 15,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 71,
+          "minimumForm": 3
+        },
+        {
+          "unitID": 25,
+          "minimumForm": 3
+        },
+        {
+          "unitID": 95,
+          "minimumForm": 3
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "sourceRow": 248,
+      "name": "一斉掃射",
+      "effectID": 7,
+      "tierID": 0,
+      "effectValue": 20,
+      "amount": "チャージ 5秒短縮",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 11,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 87,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "sourceRow": 249,
+      "name": "鋼の救世主",
+      "effectID": 16,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 81,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 43,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "sourceRow": 250,
+      "name": "銀河を駆ける",
+      "effectID": 2,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 78,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 135,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 1033,
+      "sourceRow": 251,
+      "name": "雷に打たれて",
+      "effectID": 15,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 76,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 19,
+          "minimumForm": 3
+        }
+      ]
+    },
+    {
+      "id": 1034,
+      "sourceRow": 252,
+      "name": "首なしスタイル",
+      "effectID": 17,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 8,
+          "minimumForm": 3
+        },
+        {
+          "unitID": 171,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 1035,
+      "sourceRow": 253,
+      "name": "南国諸島",
+      "effectID": 12,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "未来編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 134,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 6,
+          "minimumForm": 3
+        }
+      ]
+    },
+    {
+      "id": 2020,
+      "sourceRow": 254,
+      "name": "犬神様",
+      "effectID": 6,
+      "tierID": 0,
+      "effectValue": 20,
+      "amount": "+20%",
+      "note": "",
+      "unlock": "未来編 第2章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 130,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 258,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 3024,
+      "sourceRow": 255,
+      "name": "風林火山",
+      "effectID": 3,
+      "tierID": 1,
+      "effectValue": 40,
+      "amount": "+40%",
+      "note": "",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 125,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 97,
+          "minimumForm": 3
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "sourceRow": 256,
+      "name": "呪われた力",
+      "effectID": 7,
+      "tierID": 1,
+      "effectValue": 30,
+      "amount": "チャージ 10秒短縮",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 70,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 57,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "sourceRow": 257,
+      "name": "スパイ活動",
+      "effectID": 9,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 18,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 134,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "sourceRow": 258,
+      "name": "愛に生きる者",
+      "effectID": 6,
+      "tierID": 0,
+      "effectValue": 20,
+      "amount": "+20%",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 100,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 259,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 1036,
+      "sourceRow": 259,
+      "name": "犬猿の仲",
+      "effectID": 14,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 130,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 105,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 1037,
+      "sourceRow": 260,
+      "name": "空への憧れ",
+      "effectID": 17,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 135,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 18,
+          "minimumForm": 3
+        }
+      ]
+    },
+    {
+      "id": 1038,
+      "sourceRow": 261,
+      "name": "神へのお供え",
+      "effectID": 10,
+      "tierID": 1,
+      "effectValue": 50,
+      "amount": "+50%",
+      "note": "",
+      "unlock": "未来編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 271,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 74,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 2021,
+      "sourceRow": 262,
+      "name": "聖なる力",
+      "effectID": 3,
+      "tierID": 1,
+      "effectValue": 40,
+      "amount": "+40%",
+      "note": "",
+      "unlock": "未来編 第2章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 24,
+          "minimumForm": 3
+        },
+        {
+          "unitID": 84,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 3025,
+      "sourceRow": 263,
+      "name": "暗殺者コンビ",
+      "effectID": 12,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 212,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 268,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "sourceRow": 264,
+      "name": "オシャレ笠",
+      "effectID": 3,
+      "tierID": 1,
+      "effectValue": 40,
+      "amount": "+40%",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 282,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 137,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 1039,
+      "sourceRow": 265,
+      "name": "腕自慢",
+      "effectID": 1,
+      "tierID": 1,
+      "effectValue": 20,
+      "amount": "+20%",
+      "note": "",
+      "unlock": "未来編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 8,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 10,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 9,
+          "minimumForm": 3
+        },
+        {
+          "unitID": 170,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 2022,
+      "sourceRow": 266,
+      "name": "ぐるぐる大回転",
+      "effectID": 6,
+      "tierID": 1,
+      "effectValue": 50,
+      "amount": "+50%",
+      "note": "",
+      "unlock": "未来編 第2章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 124,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 267,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 88,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 3026,
+      "sourceRow": 267,
+      "name": "商売繁盛祈願",
+      "effectID": 9,
+      "tierID": 1,
+      "effectValue": 20,
+      "amount": "+20%",
+      "note": "",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 272,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 260,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "sourceRow": 268,
+      "name": "最高の友達",
+      "effectID": 22,
+      "tierID": 3,
+      "effectValue": 400,
+      "amount": "与ダメージ25倍・被ダメージ0.02倍",
+      "note": "魔女キラーを持つキャラに適用されます。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 299,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 300,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "sourceRow": 269,
+      "name": "飲食業",
+      "effectID": 12,
+      "tierID": 1,
+      "effectValue": 20,
+      "amount": "+20%",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 303,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 283,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 3027,
+      "sourceRow": 270,
+      "name": "出張辞令",
+      "effectID": 9,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 70,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 284,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 3028,
+      "sourceRow": 271,
+      "name": "真夏の甲子園",
+      "effectID": 1,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 201,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 287,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 38,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "sourceRow": 272,
+      "name": "ガーデニング",
+      "effectID": 5,
+      "tierID": 0,
+      "effectValue": 300,
+      "amount": "初期所持金 +300円",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 308,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 127,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "sourceRow": 273,
+      "name": "名誉の負傷",
+      "effectID": 20,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 304,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 79,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "sourceRow": 274,
+      "name": "魚群発見！！",
+      "effectID": 15,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 305,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 6,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 311,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "sourceRow": 275,
+      "name": "ペダリング",
+      "effectID": 17,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 306,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 17,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 1040,
+      "sourceRow": 276,
+      "name": "全国大会出場",
+      "effectID": 18,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 201,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 307,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 1041,
+      "sourceRow": 277,
+      "name": "撮り鉄",
+      "effectID": 3,
+      "tierID": 0,
+      "effectValue": 20,
+      "amount": "+20%",
+      "note": "",
+      "unlock": "未来編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 284,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 149,
+          "minimumForm": 3
+        }
+      ]
+    },
+    {
+      "id": 2023,
+      "sourceRow": 278,
+      "name": "純喫茶",
+      "effectID": 7,
+      "tierID": 0,
+      "effectValue": 20,
+      "amount": "チャージ 5秒短縮",
+      "note": "",
+      "unlock": "未来編 第2章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 273,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 153,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "sourceRow": 279,
+      "name": "ブラック＆ホワイト",
+      "effectID": 9,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 319,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 0,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "sourceRow": 280,
+      "name": "海底財宝発掘命令",
+      "effectID": 4,
+      "tierID": 0,
+      "effectValue": 1,
+      "amount": "初期レベル +1",
+      "note": "ネコボン使用時はネコボンの効果が優先されます。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 316,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 109,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 2024,
+      "sourceRow": 281,
+      "name": "人工知能",
+      "effectID": 2,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "未来編 第2章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 286,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 260,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 2025,
+      "sourceRow": 282,
+      "name": "最強格闘技決定戦",
+      "effectID": 0,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "未来編 第2章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 325,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 21,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 10,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 100,
+          "minimumForm": 3
+        }
+      ]
+    },
+    {
+      "id": 3029,
+      "sourceRow": 283,
+      "name": "氷上競技",
+      "effectID": 2,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 152,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 324,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 3030,
+      "sourceRow": 284,
+      "name": "大剣両断",
+      "effectID": 6,
+      "tierID": 1,
+      "effectValue": 50,
+      "amount": "+50%",
+      "note": "",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 323,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 125,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "sourceRow": 285,
+      "name": "感謝御礼",
+      "effectID": 12,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 342,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "sourceRow": 286,
+      "name": "今度こそ君を幸せに",
+      "effectID": 23,
+      "tierID": 3,
+      "effectValue": 400,
+      "amount": "与ダメージ25倍・被ダメージ0.04倍",
+      "note": "使徒キラーを持つキャラに適用されます。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 402,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 405,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "sourceRow": 287,
+      "name": "ミラクルライブ！",
+      "effectID": 24,
+      "tierID": 1,
+      "effectValue": 2,
+      "amount": "発動率 +2ポイント",
+      "note": "クリティカルを持つキャラの発動率に加算されます。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 16,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 418,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "sourceRow": 288,
+      "name": "焼きマシュマロ",
+      "effectID": 12,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 359,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 176,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "sourceRow": 289,
+      "name": "土砂降りに唄えば",
+      "effectID": 18,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 360,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 343,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 1042,
+      "sourceRow": 290,
+      "name": "爆風ときどき竜巻",
+      "effectID": 16,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 361,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 267,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 2026,
+      "sourceRow": 291,
+      "name": "暴走高圧バッテリー",
+      "effectID": 2,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "未来編 第2章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 401,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 260,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "sourceRow": 292,
+      "name": "完全一心同体",
+      "effectID": 7,
+      "tierID": 1,
+      "effectValue": 30,
+      "amount": "チャージ 10秒短縮",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 351,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 123,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "sourceRow": 293,
+      "name": "温泉卵",
+      "effectID": 19,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 417,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 329,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "sourceRow": 294,
+      "name": "浮気調査",
+      "effectID": 11,
+      "tierID": 1,
+      "effectValue": 20,
+      "amount": "再生産 1.73秒短縮",
+      "note": "適用後も再生産時間は2秒未満にはなりません。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 431,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 21,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 2027,
+      "sourceRow": 295,
+      "name": "バイト仲間",
+      "effectID": 1,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "未来編 第2章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 397,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 273,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "sourceRow": 296,
+      "name": "まろはネコでおじゃる",
+      "effectID": 14,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 338,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 81,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "sourceRow": 297,
+      "name": "伸縮性と弾力性",
+      "effectID": 10,
+      "tierID": 1,
+      "effectValue": 50,
+      "amount": "+50%",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 436,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 176,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "sourceRow": 298,
+      "name": "数の暴力",
+      "effectID": 20,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 427,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 63,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 1043,
+      "sourceRow": 299,
+      "name": "薄着コーデ",
+      "effectID": 15,
+      "tierID": 1,
+      "effectValue": 20,
+      "amount": "+20%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 336,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 23,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 15,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 1044,
+      "sourceRow": 300,
+      "name": "大炎上",
+      "effectID": 21,
+      "tierID": 1,
+      "effectValue": 30,
+      "amount": "+30%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 357,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 70,
+          "minimumForm": 3
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "sourceRow": 301,
+      "name": "終末世界",
+      "effectID": 0,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 322,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 17,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 14,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "sourceRow": 302,
+      "name": "振袖選手権",
+      "effectID": 11,
+      "tierID": 2,
+      "effectValue": 30,
+      "amount": "再生産 2.63秒短縮",
+      "note": "適用後も再生産時間は2秒未満にはなりません。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 334,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 128,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 282,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "sourceRow": 303,
+      "name": "食べ盛り育ち盛り",
+      "effectID": 9,
+      "tierID": 1,
+      "effectValue": 20,
+      "amount": "+20%",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 358,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 21,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "sourceRow": 304,
+      "name": "古龍と子竜",
+      "effectID": 14,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 396,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 312,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "sourceRow": 305,
+      "name": "運命の車輪（ロンド）",
+      "effectID": 7,
+      "tierID": 1,
+      "effectValue": 30,
+      "amount": "チャージ 10秒短縮",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 439,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 17,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 14,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "sourceRow": 306,
+      "name": "インディペンデンスな日",
+      "effectID": 0,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 355,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 5,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 247,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "sourceRow": 307,
+      "name": "とれたてピッチピチ",
+      "effectID": 16,
+      "tierID": 2,
+      "effectValue": 30,
+      "amount": "+30%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 335,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 6,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 311,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 74,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "sourceRow": 308,
+      "name": "ほこ×たて",
+      "effectID": 12,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 505,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 210,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "sourceRow": 309,
+      "name": "相棒",
+      "effectID": 0,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 502,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 74,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 104,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 3031,
+      "sourceRow": 310,
+      "name": "悪に染まりし者達",
+      "effectID": 11,
+      "tierID": 2,
+      "effectValue": 30,
+      "amount": "再生産 2.63秒短縮",
+      "note": "適用後も再生産時間は2秒未満にはなりません。",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 519,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 172,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 319,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 3032,
+      "sourceRow": 311,
+      "name": "猫耳は正義",
+      "effectID": 18,
+      "tierID": 1,
+      "effectValue": 20,
+      "amount": "+20%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 496,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 268,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 16,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "sourceRow": 312,
+      "name": "先生になりたいでにゃ～る",
+      "effectID": 7,
+      "tierID": 0,
+      "effectValue": 20,
+      "amount": "チャージ 5秒短縮",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 542,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "sourceRow": 313,
+      "name": "回っております",
+      "effectID": 5,
+      "tierID": 0,
+      "effectValue": 300,
+      "amount": "初期所持金 +300円",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 558,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "sourceRow": 314,
+      "name": "ボンボンネコボンネコボンボン",
+      "effectID": 5,
+      "tierID": 1,
+      "effectValue": 500,
+      "amount": "初期所持金 +500円",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 238,
+          "minimumForm": 3
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "sourceRow": 315,
+      "name": "忍法お色気の術",
+      "effectID": 24,
+      "tierID": 0,
+      "effectValue": 1,
+      "amount": "発動率 +1ポイント",
+      "note": "クリティカルを持つキャラの発動率に加算されます。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 397,
+          "minimumForm": 3
+        }
+      ]
+    },
+    {
+      "id": 3033,
+      "sourceRow": 316,
+      "name": "あした天気になーれ",
+      "effectID": 14,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 287,
+          "minimumForm": 3
+        },
+        {
+          "unitID": 376,
+          "minimumForm": 3
+        }
+      ]
+    },
+    {
+      "id": 3034,
+      "sourceRow": 317,
+      "name": "おさけは二十歳になってから",
+      "effectID": 2,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 528,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 452,
+          "minimumForm": 3
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "sourceRow": 318,
+      "name": "魔女裁判",
+      "effectID": 18,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 55,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 12,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "sourceRow": 319,
+      "name": "モーニングパンツ",
+      "effectID": 18,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 153,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 15,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "sourceRow": 320,
+      "name": "さおだけ屋台",
+      "effectID": 17,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 146,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 303,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 1045,
+      "sourceRow": 321,
+      "name": "ワーケーション",
+      "effectID": 15,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 40,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 14,
+          "minimumForm": 3
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "sourceRow": 322,
+      "name": "ドリラゴン",
+      "effectID": 20,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 443,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 312,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "sourceRow": 323,
+      "name": "ウチコンボッチ",
+      "effectID": 17,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 444,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 313,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "sourceRow": 324,
+      "name": "ユウチョキン",
+      "effectID": 0,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 445,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 211,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "sourceRow": 325,
+      "name": "クジラベリン",
+      "effectID": 24,
+      "tierID": 0,
+      "effectValue": 1,
+      "amount": "発動率 +1ポイント",
+      "note": "クリティカルを持つキャラの発動率に加算されます。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 446,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 311,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "sourceRow": 326,
+      "name": "ビキャッソ",
+      "effectID": 16,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 447,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 245,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "sourceRow": 327,
+      "name": "ミニザウルス",
+      "effectID": 11,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "再生産 0.87秒短縮",
+      "note": "適用後も再生産時間は2秒未満にはなりません。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 209,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 46,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "sourceRow": 328,
+      "name": "リトル軍隊",
+      "effectID": 1,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 210,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 149,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "sourceRow": 329,
+      "name": "ミクロファイター",
+      "effectID": 14,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 211,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 47,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "sourceRow": 330,
+      "name": "ミニサロン",
+      "effectID": 17,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 245,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 38,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "sourceRow": 331,
+      "name": "希少種ハンター",
+      "effectID": 2,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 246,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 49,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "sourceRow": 332,
+      "name": "ミステリーサークル部",
+      "effectID": 19,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 247,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 308,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "sourceRow": 333,
+      "name": "なめんなよ！",
+      "effectID": 4,
+      "tierID": 1,
+      "effectValue": 2,
+      "amount": "初期レベル +2",
+      "note": "ネコボン使用時はネコボンの効果が優先されます。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 624,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "sourceRow": 334,
+      "name": "３連単",
+      "effectID": 2,
+      "tierID": 1,
+      "effectValue": 15,
+      "amount": "+15%",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 626,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 627,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 628,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "sourceRow": 335,
+      "name": "プチ踊り食い",
+      "effectID": 18,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 311,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 495,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "sourceRow": 336,
+      "name": "原始のちび戦士",
+      "effectID": 0,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 312,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 37,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "sourceRow": 337,
+      "name": "ミニマムエトワール",
+      "effectID": 1,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 313,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 41,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "sourceRow": 338,
+      "name": "生贄",
+      "effectID": 1,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 617,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 12,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 3035,
+      "sourceRow": 339,
+      "name": "正義の戦士",
+      "effectID": 7,
+      "tierID": 2,
+      "effectValue": 40,
+      "amount": "チャージ 15秒短縮",
+      "note": "",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 525,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 78,
+          "minimumForm": 3
+        },
+        {
+          "unitID": 2,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "sourceRow": 340,
+      "name": "地獄行き片道切符",
+      "effectID": 14,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 534,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 13,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 1046,
+      "sourceRow": 341,
+      "name": "ゴーイングストーンズ",
+      "effectID": 1,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "未来編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 569,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 324,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "sourceRow": 342,
+      "name": "(株)にゃんこ運輸",
+      "effectID": 4,
+      "tierID": 1,
+      "effectValue": 2,
+      "amount": "初期レベル +2",
+      "note": "ネコボン使用時はネコボンの効果が優先されます。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 594,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 658,
+          "minimumForm": 3
+        }
+      ]
+    },
+    {
+      "id": 1047,
+      "sourceRow": 343,
+      "name": "夢の箱",
+      "effectID": 15,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 607,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 14,
+          "minimumForm": 3
+        }
+      ]
+    },
+    {
+      "id": 3036,
+      "sourceRow": 344,
+      "name": "空陸連携作戦",
+      "effectID": 0,
+      "tierID": 1,
+      "effectValue": 15,
+      "amount": "+15%",
+      "note": "",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 632,
+          "minimumForm": 3
+        },
+        {
+          "unitID": 96,
+          "minimumForm": 3
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "sourceRow": 345,
+      "name": "禁断の調合",
+      "effectID": 7,
+      "tierID": 0,
+      "effectValue": 20,
+      "amount": "チャージ 5秒短縮",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 619,
+          "minimumForm": 3
+        }
+      ]
+    },
+    {
+      "id": 3037,
+      "sourceRow": 346,
+      "name": "バーサーカーズ",
+      "effectID": 12,
+      "tierID": 2,
+      "effectValue": 30,
+      "amount": "+30%",
+      "note": "",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 618,
+          "minimumForm": 3
+        },
+        {
+          "unitID": 323,
+          "minimumForm": 3
+        },
+        {
+          "unitID": 99,
+          "minimumForm": 3
+        }
+      ]
+    },
+    {
+      "id": 3038,
+      "sourceRow": 347,
+      "name": "サボったエンジェル",
+      "effectID": 14,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 642,
+          "minimumForm": 3
+        },
+        {
+          "unitID": 669,
+          "minimumForm": 3
+        }
+      ]
+    },
+    {
+      "id": 3039,
+      "sourceRow": 348,
+      "name": "暗黒の連休明け",
+      "effectID": 16,
+      "tierID": 1,
+      "effectValue": 20,
+      "amount": "+20%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 631,
+          "minimumForm": 3
+        },
+        {
+          "unitID": 442,
+          "minimumForm": 3
+        }
+      ]
+    },
+    {
+      "id": 3040,
+      "sourceRow": 349,
+      "name": "エロイムエッサイム",
+      "effectID": 18,
+      "tierID": 2,
+      "effectValue": 30,
+      "amount": "+30%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 617,
+          "minimumForm": 3
+        },
+        {
+          "unitID": 93,
+          "minimumForm": 3
+        },
+        {
+          "unitID": 8,
+          "minimumForm": 3
+        },
+        {
+          "unitID": 247,
+          "minimumForm": 3
+        }
+      ]
+    },
+    {
+      "id": 3041,
+      "sourceRow": 350,
+      "name": "邪龍黒炎波",
+      "effectID": 1,
+      "tierID": 1,
+      "effectValue": 20,
+      "amount": "+20%",
+      "note": "",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 620,
+          "minimumForm": 3
+        },
+        {
+          "unitID": 663,
+          "minimumForm": 3
+        },
+        {
+          "unitID": 319,
+          "minimumForm": 3
+        }
+      ]
+    },
+    {
+      "id": 3042,
+      "sourceRow": 351,
+      "name": "妖怪バスターズ！",
+      "effectID": 11,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "再生産 0.87秒短縮",
+      "note": "適用後も再生産時間は2秒未満にはなりません。",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 633,
+          "minimumForm": 3
+        }
+      ]
+    },
+    {
+      "id": 3043,
+      "sourceRow": 352,
+      "name": "けがれなき騎士道",
+      "effectID": 15,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 634,
+          "minimumForm": 3
+        }
+      ]
+    },
+    {
+      "id": 3044,
+      "sourceRow": 353,
+      "name": "アンガーマネジメント",
+      "effectID": 4,
+      "tierID": 1,
+      "effectValue": 2,
+      "amount": "初期レベル +2",
+      "note": "ネコボン使用時はネコボンの効果が優先されます。",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 625,
+          "minimumForm": 3
+        },
+        {
+          "unitID": 621,
+          "minimumForm": 3
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "sourceRow": 354,
+      "name": "かかってきやがれ！",
+      "effectID": 1,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 721,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 3045,
+      "sourceRow": 355,
+      "name": "ゴートゥーヘル！",
+      "effectID": 20,
+      "tierID": 2,
+      "effectValue": 30,
+      "amount": "+30%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 559,
+          "minimumForm": 3
+        },
+        {
+          "unitID": 227,
+          "minimumForm": 3
+        },
+        {
+          "unitID": 268,
+          "minimumForm": 3
+        }
+      ]
+    },
+    {
+      "id": 2028,
+      "sourceRow": 356,
+      "name": "猟友会",
+      "effectID": 18,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第2章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 647,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 130,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 3046,
+      "sourceRow": 357,
+      "name": "これにてドロン",
+      "effectID": 19,
+      "tierID": 1,
+      "effectValue": 20,
+      "amount": "+20%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 649,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 18,
+          "minimumForm": 3
+        },
+        {
+          "unitID": 545,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "sourceRow": 358,
+      "name": "にゃんこ学園校歌斉唱",
+      "effectID": 11,
+      "tierID": 2,
+      "effectValue": 30,
+      "amount": "再生産 2.63秒短縮",
+      "note": "適用後も再生産時間は2秒未満にはなりません。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 650,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 651,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 652,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 696,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 735,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 3047,
+      "sourceRow": 359,
+      "name": "ありのままの",
+      "effectID": 12,
+      "tierID": 1,
+      "effectValue": 20,
+      "amount": "+20%",
+      "note": "",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 655,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 382,
+          "minimumForm": 3
+        }
+      ]
+    },
+    {
+      "id": 3048,
+      "sourceRow": 360,
+      "name": "海龍館",
+      "effectID": 2,
+      "tierID": 1,
+      "effectValue": 15,
+      "amount": "+15%",
+      "note": "",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 660,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 311,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 3049,
+      "sourceRow": 361,
+      "name": "暴風林",
+      "effectID": 17,
+      "tierID": 2,
+      "effectValue": 30,
+      "amount": "+30%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 668,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 24,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 659,
+          "minimumForm": 3
+        }
+      ]
+    },
+    {
+      "id": 3050,
+      "sourceRow": 362,
+      "name": "無重力体験ツアー",
+      "effectID": 7,
+      "tierID": 2,
+      "effectValue": 40,
+      "amount": "チャージ 15秒短縮",
+      "note": "",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 674,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 247,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 260,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 3051,
+      "sourceRow": 363,
+      "name": "＃極秘任務",
+      "effectID": 24,
+      "tierID": 0,
+      "effectValue": 1,
+      "amount": "発動率 +1ポイント",
+      "note": "クリティカルを持つキャラの発動率に加算されます。",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 397,
+          "minimumForm": 4
+        }
+      ]
+    },
+    {
+      "id": 3052,
+      "sourceRow": 364,
+      "name": "闇を秘めし契約者",
+      "effectID": 5,
+      "tierID": 2,
+      "effectValue": 1000,
+      "amount": "初期所持金 +1000円",
+      "note": "",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 682,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 13,
+          "minimumForm": 3
+        },
+        {
+          "unitID": 211,
+          "minimumForm": 3
+        },
+        {
+          "unitID": 531,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 3053,
+      "sourceRow": 365,
+      "name": "小よく犬を制す",
+      "effectID": 15,
+      "tierID": 1,
+      "effectValue": 20,
+      "amount": "+20%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 692,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 209,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 313,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 3054,
+      "sourceRow": 366,
+      "name": "イナズマヒールドロップ",
+      "effectID": 1,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 698,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 245,
+          "minimumForm": 3
+        }
+      ]
+    },
+    {
+      "id": 3055,
+      "sourceRow": 367,
+      "name": "ホッと一息",
+      "effectID": 11,
+      "tierID": 1,
+      "effectValue": 20,
+      "amount": "再生産 1.73秒短縮",
+      "note": "適用後も再生産時間は2秒未満にはなりません。",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 712,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 98,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "sourceRow": 368,
+      "name": "パッカーン",
+      "effectID": 9,
+      "tierID": 1,
+      "effectValue": 20,
+      "amount": "+20%",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 784,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 3056,
+      "sourceRow": 369,
+      "name": "違反者講習",
+      "effectID": 16,
+      "tierID": 1,
+      "effectValue": 20,
+      "amount": "+20%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 715,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 14,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 17,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 3057,
+      "sourceRow": 370,
+      "name": "鋼式テニス",
+      "effectID": 2,
+      "tierID": 1,
+      "effectValue": 15,
+      "amount": "+15%",
+      "note": "",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 719,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 675,
+          "minimumForm": 3
+        }
+      ]
+    },
+    {
+      "id": 3058,
+      "sourceRow": 371,
+      "name": "戦地直葬",
+      "effectID": 21,
+      "tierID": 0,
+      "effectValue": 20,
+      "amount": "+20%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 723,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 24,
+          "minimumForm": 3
+        }
+      ]
+    },
+    {
+      "id": 3059,
+      "sourceRow": 372,
+      "name": "忍びない食欲",
+      "effectID": 19,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 725,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 3060,
+      "sourceRow": 373,
+      "name": "めぐりあう戦士",
+      "effectID": 5,
+      "tierID": 1,
+      "effectValue": 500,
+      "amount": "初期所持金 +500円",
+      "note": "",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 733,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 78,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 3061,
+      "sourceRow": 374,
+      "name": "銃刀法",
+      "effectID": 17,
+      "tierID": 1,
+      "effectValue": 20,
+      "amount": "+20%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 754,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 11,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "sourceRow": 375,
+      "name": "レッドパワー",
+      "effectID": 25,
+      "tierID": 5,
+      "effectValue": 2500,
+      "amount": "怪人特効を付与",
+      "note": "対怪人：与ダメージ25倍・被ダメージ1/25。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "にゃんこレンジャーのみ",
+      "members": [
+        {
+          "unitID": 831,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "sourceRow": 376,
+      "name": "ブルーパワー",
+      "effectID": 11,
+      "tierID": 3,
+      "effectValue": 50,
+      "amount": "再生産時間を短縮",
+      "note": "適用後も再生産時間は2秒未満にはなりません。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "にゃんこレンジャーのみ",
+      "members": [
+        {
+          "unitID": 832,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "sourceRow": 377,
+      "name": "イエローパワー",
+      "effectID": 26,
+      "tierID": 5,
+      "effectValue": 1,
+      "amount": "効果を付与",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "にゃんこレンジャーのみ",
+      "members": [
+        {
+          "unitID": 833,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "sourceRow": 378,
+      "name": "グリーンパワー",
+      "effectID": 27,
+      "tierID": 3,
+      "effectValue": 20,
+      "amount": "生産コスト 20%割引",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "にゃんこレンジャーのみ",
+      "members": [
+        {
+          "unitID": 834,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "sourceRow": 379,
+      "name": "モモパワー",
+      "effectID": 2,
+      "tierID": 3,
+      "effectValue": 30,
+      "amount": "+30%",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "にゃんこレンジャーのみ",
+      "members": [
+        {
+          "unitID": 835,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 3062,
+      "sourceRow": 380,
+      "name": "王国砲壊",
+      "effectID": 0,
+      "tierID": 1,
+      "effectValue": 15,
+      "amount": "+15%",
+      "note": "",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 760,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 109,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 20,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "sourceRow": 381,
+      "name": "キンギンパワー",
+      "effectID": 28,
+      "tierID": 5,
+      "effectValue": 1,
+      "amount": "効果を付与",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "にゃんこレンジャーのみ",
+      "members": [
+        {
+          "unitID": 857,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 858,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 3063,
+      "sourceRow": 382,
+      "name": "因習村",
+      "effectID": 16,
+      "tierID": 1,
+      "effectValue": 20,
+      "amount": "+20%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 769,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 531,
+          "minimumForm": 3
+        },
+        {
+          "unitID": 697,
+          "minimumForm": 3
+        }
+      ]
+    },
+    {
+      "id": 3064,
+      "sourceRow": 383,
+      "name": "密林の叫び",
+      "effectID": 15,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 763,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 659,
+          "minimumForm": 3
+        }
+      ]
+    },
+    {
+      "id": 3065,
+      "sourceRow": 384,
+      "name": "交通安全週間",
+      "effectID": 18,
+      "tierID": 1,
+      "effectValue": 20,
+      "amount": "+20%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 774,
+          "minimumForm": 1
+        },
+        {
+          "unitID": 17,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "sourceRow": 385,
+      "name": "パックマンフィーバー",
+      "effectID": 16,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "該当する特性を持つキャラに適用されます。",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 866,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "sourceRow": 386,
+      "name": "よくきたな！",
+      "effectID": 2,
+      "tierID": 0,
+      "effectValue": 10,
+      "amount": "+10%",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 874,
+          "minimumForm": 1
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "sourceRow": 387,
+      "name": "いきてはかえさん！",
+      "effectID": 5,
+      "tierID": 0,
+      "effectValue": 300,
+      "amount": "初期所持金 +300円",
+      "note": "",
+      "unlock": "日本編 第1章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 874,
+          "minimumForm": 2
+        }
+      ]
+    },
+    {
+      "id": 3066,
+      "sourceRow": 388,
+      "name": "居残り組",
+      "effectID": 7,
+      "tierID": 1,
+      "effectValue": 30,
+      "amount": "チャージ 10秒短縮",
+      "note": "",
+      "unlock": "未来編 第3章クリア",
+      "scope": "",
+      "members": [
+        {
+          "unitID": 781,
+          "minimumForm": 2
+        },
+        {
+          "unitID": 689,
+          "minimumForm": 1
+        }
+      ]
+    }
+  ],
+  "sources": {
+    "NyancomboData.csv": {
+      "url": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/data/DataLocal/NyancomboData.csv",
+      "sha256": "9547a047dbf7546a82b0f9e121316a3bac95efc2f623ae03c84de08cd08acee7"
+    },
+    "NyancomboParam.tsv": {
+      "url": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/data/DataLocal/NyancomboParam.tsv",
+      "sha256": "27c5cb589562d27e075ae0eb64a5e441eaa2f4864c86ff3d2efd95161910b778"
+    },
+    "Nyancombo_ja.csv": {
+      "url": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/data/resLocal_ja/Nyancombo_ja.csv",
+      "sha256": "50261fbd81d5d4e36105c83df62b533cbecf12c59b5a5239442411c62fc480fe"
+    },
+    "Nyancombo1_ja.csv": {
+      "url": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/data/resLocal_ja/Nyancombo1_ja.csv",
+      "sha256": "b387d8bbf0892d738ea6a11b7758cff15b60747eedbcc626b8b12f6fdcbd0226"
+    },
+    "Nyancombo2_ja.csv": {
+      "url": "https://raw.githubusercontent.com/JarJarBlink/JDB/525a4c287e84f2261bdb7ea4cc82a03227796038/static/data/resLocal_ja/Nyancombo2_ja.csv",
+      "sha256": "5ca7dc64a42827d8747a0b6044fe78ec863f0799e648194224befba72ffd2de8"
+    }
+  },
+  "displayReference": "https://battlecats-db.com/unit/index_combo.html",
+  "rulesReference": "https://ponos.s3.amazonaws.com/information/appli/battlecats/combo/index.html"
+}
