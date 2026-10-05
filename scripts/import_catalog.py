@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Regenerate the private offline catalog from JDB's public data snapshot."""
 from jdb_source import REVISION as SOURCE_REVISION, BASE as SOURCE_BASE, open_source
+from catalog_talents import normalize_talents
 import concurrent.futures
 import csv
 import datetime
@@ -29,6 +30,8 @@ for unit in units:
         continue
     uid = unit['id']
     unit['forms'] = forms
+    for form in forms:
+        normalize_talents(form)
     unit['growth'] = [int(v) for v in growth[uid]]
     unit['maxBase'] = max(1, int(buy[uid][50]))
     unit['maxPlus'] = max(0, int(buy[uid][51]))

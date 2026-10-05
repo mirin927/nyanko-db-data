@@ -53,7 +53,15 @@ struct UnitForm: Codable, Hashable, Identifiable {
     let talent: Int
     let superTalent: Int
     let talentData: [Int]
+    // Feed keeps eight slots in talentData for old apps; newer slots are lossless here.
+    var additionalTalentData: [Int]?
     var resistanceValues: [String: Int]?
+    var allTalentData: [Int] { talentData + (additionalTalentData ?? []) }
+    var hasValidTalentLayout: Bool {
+        if let additionalTalentData, talentData.count != 113 || additionalTalentData.count % 14 != 0 { return false }
+        let count = allTalentData.count
+        return count == 0 || (count >= 15 && count <= 897 && (count - 1) % 14 == 0)
+    }
     var id: String { form }
     var number: Int { ["f": 1, "c": 2, "s": 3, "u": 4][form] ?? 1 }
     func value(_ index: Int) -> Int { data.indices.contains(index) ? data[index] : 0 }

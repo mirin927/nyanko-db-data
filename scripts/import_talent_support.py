@@ -30,7 +30,8 @@ catalog = json.loads((root/'NyankoDB/Resources/catalog.json').read_text())
 timings = {}
 for unit in catalog['units']:
  for form in unit['forms']:
-  if not any(form['talentData'][i] == 61 for i in range(1,len(form['talentData']),14)): continue
+  talents = form['talentData'] + form.get('additionalTalentData', [])
+  if not any(talents[i] == 61 for i in range(1,len(talents),14)): continue
   r = catstats.get((unit['id'],form['name']))
   if not r or int(r['attack_frequency']) != form['freq']: raise ValueError(f"Animation mismatch: {unit['id']}-{form['form']}")
   expected = [form['data'][13], *(form['data'][61:63] if len(form['data'])>62 else [0,0])]

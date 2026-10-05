@@ -40,10 +40,10 @@ struct TalentDefinition: Identifiable, Hashable {
     let supported: Bool
 
     static func decode(_ form: UnitForm, entryID: String, support: TalentSupport) -> [TalentDefinition] {
-        let raw = form.talentData
-        guard raw.count == 113 else { return [] }
+        let raw = form.allTalentData
+        guard form.hasValidTalentLayout, !raw.isEmpty else { return [] }
         var duplicates: [String: Int] = [:]
-        return stride(from: 1, to: 113, by: 14).compactMap { start in
+        return stride(from: 1, to: raw.count, by: 14).compactMap { start in
             guard raw[start] > 0 else { return nil }
             let slot = Array(raw[start..<(start + 14)])
             let key = "\(slot[13] == 1 ? "super" : "normal")-\(slot[0])-\(slot[10])"
@@ -100,7 +100,11 @@ struct TalentDefinition: Identifiable, Hashable {
         switch effect {
         case 25: return "生産コスト減少"; case 26: return "再生産短縮"; case 27: return "移動速度アップ"
         case 28: return "KB数アップ"; case 31: return "基本攻撃力アップ"; case 32: return "基本体力アップ"
-        case 61: return "攻撃間隔短縮"; default: return "詳細未対応（\(effect)）"
+        case 61: return "攻撃間隔短縮"
+        case 70: return "基本攻撃力アップ（大幅）"
+        case 71: return "基本体力アップ（大幅）"
+        case 72: return "生産時間短縮"
+        default: return "詳細未対応（\(effect)）"
         }
     }
     var iconName: String {
@@ -109,7 +113,11 @@ struct TalentDefinition: Identifiable, Hashable {
         switch effect {
         case 25: return "talent_cost"; case 26: return "talent_cooldown"; case 27: return "talent_speed"
         case 28: return "talent_knockbacks"; case 31: return "talent_attack"; case 32: return "talent_hp"
-        case 61: return "talent_interval"; default: return "talent_unknown"
+        case 61: return "talent_interval"
+        case 70: return "talent_attack"
+        case 71: return "talent_hp"
+        case 72: return "talent_cooldown"
+        default: return "talent_unknown"
         }
     }
     func summary(at level: Int) -> String {
@@ -200,6 +208,7 @@ extension Unit {
         var form = UnitForm(form: original.form, name: original.name, data: data, freq: frequency,
                             talent: original.talent, superTalent: original.superTalent, talentData: original.talentData)
         form.resistanceValues = resist
+        form.additionalTalentData = original.additionalTalentData
         return UnitPerformance(form: form, stats: stats(for: form, level: actualLevel, hpBonus: hpBonus, attackBonus: attackBonus, comboBonuses: comboBonuses), applied: applied)
     }
 }

@@ -105,6 +105,17 @@ struct DataLibrary {
               !orbs.validated(for: cats).orbs.isEmpty,
               [cats.source,enemies.source,stages.source].allSatisfy({ (try? DataRelease.endpoint($0)) != nil }) else { throw DataUpdateError.incompatibleData }
         let repository = CatalogRepository(catalog: cats, searchNames: try names("search-index", originals: Set(cats.units.flatMap { $0.forms.map(\.name) })), talentSupport: talent, evolutionSupport: evolution)
+        // Unknown effect IDs remain visible as unsupported; broken/missing slots must
+        // never replace a working library with a catalog that silently loses talents.
+        guard repository.entries.allSatisfy({ entry in
+            let form = entry.form, decoded = repository.talents(for: entry)
+            guard form.hasValidTalentLayout else { return false }
+            let raw = form.allTalentData
+            let expected = raw.isEmpty ? 0 : stride(from: 1, to: raw.count, by: 14).filter { raw[$0] > 0 }.count
+            return decoded.count == expected && (form.talent == 0 || !decoded.isEmpty) &&
+                (form.superTalent == 0 || decoded.contains(where: \.isSuper)) &&
+                decoded.allSatisfy { $0.cost(to: $0.maxLevel) != nil && $0.description != "詳細未取得" }
+        }) else { throw DataUpdateError.incompatibleData }
         let enemyRepo = EnemyRepository(catalog: enemies, searchNames: try names("enemy-search-index", originals: Set(enemies.enemies.map(\.name))))
         let stageRepo = StageRepository(catalog: stages, searchNames: try names("stage-search-index", originals: Set(stages.stages.flatMap { [$0.name,$0.mapName] })))
         let comboRepo = ComboRepository(catalog: combos, characters: cats, searchNames: try names("combo-search-index", originals: Set(combos.combos.map(\.name))))

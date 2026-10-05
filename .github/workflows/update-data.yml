@@ -28,6 +28,8 @@ jobs:
         with:
           python-version: '3.12'
       - run: python3 -m pip install 'Pillow>=11,<13'
+      - name: Verify talent compatibility conversion
+        run: python3 -m unittest discover -s scripts/tests
       - uses: actions/cache/restore@v4
         with:
           path: feed
