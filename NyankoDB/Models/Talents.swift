@@ -56,7 +56,7 @@ struct TalentDefinition: Identifiable, Hashable {
                 extraTraits: raw[0], unlockLevel: support.superUnlockLevel, supported: supported)
         }
     }
-    static let supportedEffects: Set<Int> = Set([1,2,3,4,5,6,7,8,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69])
+    static let supportedEffects: Set<Int> = Set([1,2,3,4,5,6,7,8,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71])
     func available(form: UnitForm, level: Int) -> Bool { supported && form.number >= 3 && (!isSuper || level >= unlockLevel) }
     func increments(at level: Int) -> [Int] {
         let rank = min(maxLevel, max(1, level))
@@ -101,8 +101,8 @@ struct TalentDefinition: Identifiable, Hashable {
         case 25: return "生産コスト減少"; case 26: return "再生産短縮"; case 27: return "移動速度アップ"
         case 28: return "KB数アップ"; case 31: return "基本攻撃力アップ"; case 32: return "基本体力アップ"
         case 61: return "攻撃間隔短縮"
-        case 70: return "基本攻撃力アップ（大幅）"
-        case 71: return "基本体力アップ（大幅）"
+        case 70: return "基本攻撃力アップ＋"
+        case 71: return "基本体力アップ＋"
         case 72: return "生産時間短縮"
         default: return "詳細未対応（\(effect)）"
         }
@@ -114,9 +114,9 @@ struct TalentDefinition: Identifiable, Hashable {
         case 25: return "talent_cost"; case 26: return "talent_cooldown"; case 27: return "talent_speed"
         case 28: return "talent_knockbacks"; case 31: return "talent_attack"; case 32: return "talent_hp"
         case 61: return "talent_interval"
-        case 70: return "talent_attack"
-        case 71: return "talent_hp"
-        case 72: return "talent_cooldown"
+        case 70: return "talent_attackPlus"
+        case 71: return "talent_hpPlus"
+        case 72: return "talent_cooldownPercent"
         default: return "talent_unknown"
         }
     }
@@ -126,7 +126,7 @@ struct TalentDefinition: Identifiable, Hashable {
         let p = increments(at: level)
         if ability?.category == .resistance { return "\(p[0])%軽減" }
         switch effect {
-        case 31,32: return "＋\(p[0])%"
+        case 31,32,70,71: return "＋\(p[0])%"
         case 27,28: return "＋\(p[0])"
         case 25: return "−\(Int(Double(p[0]) * 1.5))円"
         case 26: return "−\(Ability.seconds(p[0] * 2))"
@@ -183,8 +183,10 @@ extension Unit {
             case 26: data[7] = max(0, data[7] - p[0])
             case 27: data[2] += p[0]
             case 28: data[1] += p[0]
-            case 31: attackBonus = p[0]
-            case 32: hpBonus = p[0]
+            // JDB combines the ordinary and plus talent percentages additively.
+            // Do not overwrite an extra slot or multiply two independent boosts.
+            case 31,70: attackBonus += p[0]
+            case 32,71: hpBonus += p[0]
             case 50: data[82] += p[0]; data[83] += p[1]
             case 51: data[84] += p[0]; data[85] += p[1]
             case 56,65:

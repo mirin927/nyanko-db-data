@@ -4,9 +4,23 @@ enum MatchMode: String, CaseIterable { case any = "OR", all = "AND" }
 enum FormMode: String, CaseIterable { case latest = "最高形態", all = "全形態", first = "第1", second = "第2", third = "第3", fourth = "第4"
     var number: Int? { switch self { case .first: 1; case .second: 2; case .third: 3; case .fourth: 4; default: nil } }
 }
-enum SortOrder: String, CaseIterable, Identifiable {
-    case id = "ID順", name = "名前順", hp = "HPが高い順", dps = "DPSが高い順", range = "射程が長い順", cost = "コストが低い順"
+enum SortDirection: String, CaseIterable, Identifiable {
+    case ascending = "昇順", descending = "降順"
     var id: String { rawValue }
+    func precedes(_ a: Double, _ b: Double) -> Bool { self == .ascending ? a < b : a > b }
+}
+enum SortOrder: String, CaseIterable, Identifiable {
+    case id = "ID順", name = "名前順", hp = "HP", attack = "ATK", dps = "DPS", range = "射程"
+    case speed = "速度", cost = "コスト", cooldown = "再生産", knockbacks = "KB", frequency = "攻撃頻度", startup = "攻撃発生"
+    var id: String { rawValue }
+    var metric: Metric? {
+        switch self {
+        case .hp: .hp; case .attack: .attack; case .dps: .dps; case .range: .range
+        case .speed: .speed; case .cost: .cost; case .cooldown: .cooldown; case .knockbacks: .knockbacks
+        case .frequency: .frequency; case .startup: .startup; case .id, .name: nil
+        }
+    }
+    var defaultDirection: SortDirection { [.cost, .cooldown, .frequency, .startup].contains(self) ? .ascending : .descending }
 }
 struct NumberRange: Equatable {
     var minimum = ""
@@ -123,7 +137,7 @@ struct CatalogRepository {
     }
     static func normalized(_ text: String) -> String { SearchText.normalize(text) }
 
-    func search(query: String, filter: SearchFilter, level: Int, sort: SortOrder, talentMode: TalentMode = .none, profiles: [Int: TalentProfile] = [:]) -> [Entry] {
+    func search(query: String, filter: SearchFilter, level: Int, sort: SortOrder, direction: SortDirection? = nil, talentMode: TalentMode = .none, profiles: [Int: TalentProfile] = [:]) -> [Entry] {
         let q = SearchQuery(query)
         var ranks: [String: SearchName.MatchRank] = [:]
         var performances: [String: UnitPerformance] = [:]
@@ -150,10 +164,8 @@ struct CatalogRepository {
                 return filter.matches(entry, level: level, performance: adjusted)
             }
         }
-        let metric: Metric? = switch sort {
-        case .hp: .hp; case .dps: .dps; case .range: .range; case .cost: .cost
-        case .id, .name: nil
-        }
+        let metric = sort.metric
+        let direction = direction ?? sort.defaultDirection
         // Compute numeric sort keys once per result, not in every comparison.
         let values: [String: Double] = metric.map { metric in
             Dictionary(result.map { ($0.id, metric.value(performances[$0.id]?.stats ?? $0.unit.stats(for: $0.form, level: level))) },
@@ -163,13 +175,9 @@ struct CatalogRepository {
             // Relevance improves the default ID order for name searches. Explicit
             // name/stat sorting and numeric ID searches keep their existing behavior.
             if sort == .id, let ra = ranks[a.id], let rb = ranks[b.id], ra != rb { return ra < rb }
-            switch sort {
-            case .name: if a.form.name != b.form.name { return a.form.name < b.form.name }
-            case .hp, .dps, .range:
-                if values[a.id] != values[b.id] { return values[a.id, default: 0] > values[b.id, default: 0] }
-            case .cost:
-                if values[a.id] != values[b.id] { return values[a.id, default: 0] < values[b.id, default: 0] }
-            case .id: break
+            if sort == .name, a.form.name != b.form.name { return a.form.name < b.form.name }
+            if metric != nil, values[a.id] != values[b.id] {
+                return direction.precedes(values[a.id, default: 0], values[b.id, default: 0])
             }
             return a.unit.id == b.unit.id ? a.form.number < b.form.number : a.unit.id < b.unit.id
         }

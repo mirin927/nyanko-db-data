@@ -82,5 +82,8 @@
   "talent_cooldown": "static/img/ability_icon/time.png",
   "talent_interval": "static/img/ability_icon/tba.png",
   "talent_knockbacks": "static/img/ability_icon/kb_count.png",
-  "talent_unknown": "static/img/ability_icon/no_image.png"
+  "talent_unknown": "static/img/ability_icon/no_image.png",
+  "talent_hpPlus": "static/img/ability_icon/hpplus.png",
+  "talent_attackPlus": "static/img/ability_icon/atkplus.png",
+  "talent_cooldownPercent": "static/img/ability_icon/CD_time_plus.png"
 }

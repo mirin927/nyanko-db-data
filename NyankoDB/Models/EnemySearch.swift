@@ -6,11 +6,18 @@ enum DatabaseKind: String, CaseIterable, Identifiable {
 }
 
 enum EnemySortOrder: String, CaseIterable, Identifiable {
-    case id = "ID順", name = "名前順", hp = "HPが高い順", attack = "ATKが高い順", dps = "DPSが高い順", range = "射程が長い順"
+    case id = "ID順", name = "名前順", hp = "HP", attack = "ATK", dps = "DPS", range = "射程"
+    case speed = "速度", knockbacks = "KB", frequency = "攻撃頻度", startup = "攻撃発生", money = "お金（基本値）"
     var id: String { rawValue }
     var metric: EnemyMetric? {
-        switch self { case .hp: .hp; case .attack: .attack; case .dps: .dps; case .range: .range; default: nil }
+        switch self {
+        case .hp: .hp; case .attack: .attack; case .dps: .dps; case .range: .range
+        case .speed: .speed; case .knockbacks: .knockbacks; case .frequency: .frequency
+        case .startup: .startup; case .money: .money; case .id, .name: nil
+        }
     }
+    var defaultDirection: SortDirection { [.frequency, .startup].contains(self) ? .ascending : .descending }
+
 }
 
 struct EnemySearchFilter {
@@ -68,7 +75,7 @@ struct EnemyRepository {
     }
     func enemy(_ id: Int) -> Enemy? { byID[id] }
     func search(query: String, filter: EnemySearchFilter = EnemySearchFilter(),
-                sort: EnemySortOrder = .id, magnification: EnemyMagnification = .base) -> [Enemy] {
+                sort: EnemySortOrder = .id, direction: SortDirection? = nil, magnification: EnemyMagnification = .base) -> [Enemy] {
         let query = SearchQuery(query)
         var ranks: [Int: SearchName.MatchRank] = [:]
         let results = catalog.enemies.filter { enemy in
@@ -81,10 +88,11 @@ struct EnemyRepository {
             return filter.matches(enemy, magnification: magnification)
         }
         let values = sort.metric.map { metric in Dictionary(results.map { ($0.id, metric.value($0.stats(at: magnification))) }, uniquingKeysWith: { a, _ in a }) } ?? [:]
+        let direction = direction ?? sort.defaultDirection
         return results.sorted { a, b in
             if sort == .id, let ra = ranks[a.id], let rb = ranks[b.id], ra != rb { return ra < rb }
             if sort == .name, a.name != b.name { return a.name < b.name }
-            if sort.metric != nil, values[a.id] != values[b.id] { return values[a.id, default: 0] > values[b.id, default: 0] }
+            if sort.metric != nil, values[a.id] != values[b.id] { return direction.precedes(values[a.id, default: 0], values[b.id, default: 0]) }
             return a.id < b.id
         }
     }

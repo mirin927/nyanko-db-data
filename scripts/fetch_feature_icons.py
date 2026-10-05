@@ -50,7 +50,8 @@ for name, source in {
     manifest[f'ability_{name}'] = f'static/img/ability_icon/{source}.png'
 for name, source in {'hp': 'hp_up', 'attack': 'atk_up', 'speed': 'speed_up',
                      'cost': 'money', 'cooldown': 'time', 'interval': 'tba',
-                     'knockbacks': 'kb_count', 'unknown': 'no_image'}.items():
+                     'knockbacks': 'kb_count', 'unknown': 'no_image',
+                     'hpPlus': 'hpplus', 'attackPlus': 'atkplus', 'cooldownPercent': 'CD_time_plus'}.items():
     manifest[f'talent_{name}'] = f'static/img/ability_icon/{source}.png'
 
 
